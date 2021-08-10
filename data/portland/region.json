@@ -258,7 +258,7 @@
         },
 		"Freight_Flows_Base_2015": {
             "name": "Freight_Flows_Base_2015",
-            "title": "- Freight Flows - Base 2016",
+            "title": "- Freight Flows - Base 2015",
             "CenterMap": [45.512794,-122.679565],
             "visualizations": {
                 "POIMap": [{"name":"Freight Flows","config":"Default","file":"PointofInterest.csv","info":"Freight model flows"}]
