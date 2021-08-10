@@ -1,0 +1,7 @@
+{
+  "regions": {
+    "portland": {
+      "datalocation": "https://raw.githubusercontent.com/RSGInc/portland_freight_model_data/main/data/portland/"
+    }
+  }
+}

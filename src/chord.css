@@ -1,0 +1,79 @@
+.chord-chart-container {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2%;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.chord-chart-container > svg {
+  min-width: 200px;
+}
+
+[selector$="chordcircle"] circle {
+  fill: none;
+  pointer-events: all;
+}
+.group path {
+  fill-opacity: 0.7;
+}
+path.chord {
+  fill-opacity: 0.7;
+  stroke-width: 0.25px;
+}
+
+[selector$="chordcircle"].hover path.faded {
+  opacity: 0.35;
+}
+
+[charttype$="chordchart"] {
+  font: 10px sans-serif;
+}
+
+.chordLegend circle,
+.chordLegend text {
+  cursor: pointer;
+}
+.chord-tooltip {
+  color: white;
+  opacity: 0.9;
+  background: #333;
+  padding: 5px;
+  border: 1px solid lightgrey;
+  border-radius: 5px;
+  position: absolute;
+  z-index: 400; /* to make sure it's on top of the map */
+  visibility: hidden;
+  white-space: pre-wrap;
+  pointer-events: none;
+  font-size: 15px;
+}
+
+@media screen and (min-width: 600px) {
+  .tooltip-table-container {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
+
+  .chord-tooltiptablediv {
+    flex: 1;
+    margin: 1em;
+  }
+
+}
+
+.chord-tooltiptable {
+  font-size: 1em;
+  width: 100%;
+}
+.chord-tooltiptable tr {
+  border-right: 3px solid black;
+  border-left: 3px black solid !important;
+  font-size: 1em;
+}
+html {
+  overflow-y: scroll;
+}
