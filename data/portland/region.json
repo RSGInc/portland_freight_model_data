@@ -462,7 +462,7 @@
     },
     "POIMap": {
         "Default": {
-            "BarSpacing": "0.6",
+            "BarSpacing": "0.8",
             "RotateLabels": "0",
             "LegendTitle": "Freight Flows",
             "BubbleDefault": true
