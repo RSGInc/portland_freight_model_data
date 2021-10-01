@@ -264,9 +264,9 @@
                 "POIMap": [{"name":"Freight Flows","config":"Default","file":"PointofInterest.csv","info":"Freight model flows"}]
             }
         },
-        "Freight_Flows_Base_Diff": {
-            "name": "Freight_Flows_Base_Diff",
-            "title": "- Freight Flows - Base Difference",
+        "Freight_Flows_New_Results": {
+            "name": "Freight_Flows_New_Results",
+            "title": "- Freight Flows - New Results",
             "CenterMap": [45.512794,-122.679565],
             "visualizations": {
                 "POIMap": [{"name":"Freight Flows","config":"Default","file":"PointofInterest.csv","info":"Freight model flows"}]
