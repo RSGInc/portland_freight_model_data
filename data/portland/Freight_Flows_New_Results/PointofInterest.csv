@@ -1,4 +1,4 @@
-"Freight Flows","Corridor","Lat","Long","Grouping"," $M"," Tons","AM Peak (7:00-8:59am) $K","AM Peak (7:00-8:59am) Tons","MD 1HR (1:00-1:59pm) $K","MD 1HR (1:00-1:59pm) Tons","PM Peak (4:00-5:59pm) $K","PM Peak (4:00-5:59pm) Tons"
+"Freight Flows","Corridor","Lat","Long","Grouping","Daily $M","Daily Tons","AM Peak (7:00-8:59am) $K","AM Peak (7:00-8:59am) Tons","MD 1HR (1:00-1:59pm) $K","MD 1HR (1:00-1:59pm) Tons","PM Peak (4:00-5:59pm) $K","PM Peak (4:00-5:59pm) Tons"
 "US-26 EB Cedar Hills","Beaverton to Hillsboro",45.517317,-122.805484,"Agriculture",1.568,3417,493.444,1075,37.111,81,15.247,33
 "US-26 EB Cedar Hills","Beaverton to Hillsboro",455.17317,-1228.05484,"All Goods",16.725,9124,5109.517,2410,1784.86,376,410.986,172
 "US-26 EB Cedar Hills","Beaverton to Hillsboro",45.517317,-122.805484,"Chemical",0.148,242,9.46,15,12.9,21,0,0
