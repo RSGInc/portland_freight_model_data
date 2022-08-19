@@ -17,7 +17,39 @@
     "SideBarTextRight": "<b>ActivityViz</b> is an interactive travel and activity data visualization tool.  It is built with JavaScript technologies and works with various types of travel and activity data - household travel surveys, trip-based model outputs, activity-based model outputs, disaggregate passive data, freight models, on-board surveys, etc.  The dashboard features several interactive and customizable visualizations for exploring data, such as 3D maps of trips in time and space, time use by person type and activity, radar charts for performance measure analysis, sunburst diagrams for visualizing mode shares, animated bubble maps, chord diagrams for OD data, point-of-interest maps for transit stop data, truck flow data, etc.  </b>ActivityViz</b> is published using <a href='https://pages.github.com/'>GitHub pages</a> which eliminates most of the administrative backend in traditional systems.",
     "SideBarImage":"example.png",
     "scenarios": {
-        "I205": {
+        "Freight_Flows_Base_2020": {
+            "name": "Freight_Flows_Base_2020",
+            "title": "- Freight Flows - Base 2020",
+            "CenterMap": [45.512794,-122.679565],
+            "visualizations": {
+                "POIMap": [{"name":"Freight Flows","config":"Default","file":"PointofInterest.csv","info":"Freight model flows"}]
+            }
+        },
+		"Freight_Flows_Base_2020_IncEE": {
+            "name": "Freight_Flows_Base_2020_IncEE",
+            "title": "- Freight Flows - Base 2020 Including EE",
+            "CenterMap": [45.512794,-122.679565],
+            "visualizations": {
+                "POIMap": [{"name":"Freight Flows","config":"Default","file":"PointofInterest.csv","info":"Freight model flows"}]
+            }
+        },
+		"Freight_Flows_Future_2045_IncEE": {
+            "name": "Freight_Flows_Future_2045_IncEE",
+            "title": "- Freight Flows - Future 2045 Including EE",
+            "CenterMap": [45.512794,-122.679565],
+            "visualizations": {
+                "POIMap": [{"name":"Freight Flows","config":"Default","file":"PointofInterest.csv","info":"Freight model flows"}]
+            }
+        },
+        "Freight_Flows_Development_Scenario": {
+            "name": "Freight_Flows_Development_Scenario",
+            "title": "- Freight Flows - Development Scenario",
+            "CenterMap": [45.512794,-122.679565],
+            "visualizations": {
+                "POIMap": [{"name":"Freight Flows","config":"Default","file":"PointofInterest.csv","info":"Freight model flows"}]
+            }
+        },
+		"I205": {
             "title": "I205",
             "CenterMap": [45.367157,-122.692046],
             "ScenarioFocus": "I205.json",
@@ -219,38 +251,6 @@
                       "Select/deselect bubbles to add/remove benefit groups."]
                     }]
                   }]}]
-            }
-        },
-        "Freight_Flows_Base_2020": {
-            "name": "Freight_Flows_Base_2020",
-            "title": "- Freight Flows - Base 2020",
-            "CenterMap": [45.512794,-122.679565],
-            "visualizations": {
-                "POIMap": [{"name":"Freight Flows","config":"Default","file":"PointofInterest.csv","info":"Freight model flows"}]
-            }
-        },
-		"Freight_Flows_Base_2020_IncEE": {
-            "name": "Freight_Flows_Base_2020_IncEE",
-            "title": "- Freight Flows - Base 2020 Including EE",
-            "CenterMap": [45.512794,-122.679565],
-            "visualizations": {
-                "POIMap": [{"name":"Freight Flows","config":"Default","file":"PointofInterest.csv","info":"Freight model flows"}]
-            }
-        },
-		"Freight_Flows_Future_2045_IncEE": {
-            "name": "Freight_Flows_Future_2045_IncEE",
-            "title": "- Freight Flows - Future 2045 Including EE",
-            "CenterMap": [45.512794,-122.679565],
-            "visualizations": {
-                "POIMap": [{"name":"Freight Flows","config":"Default","file":"PointofInterest.csv","info":"Freight model flows"}]
-            }
-        },
-        "Freight_Flows_Development_Scenario": {
-            "name": "Freight_Flows_Development_Scenario",
-            "title": "- Freight Flows - Development Scenario",
-            "CenterMap": [45.512794,-122.679565],
-            "visualizations": {
-                "POIMap": [{"name":"Freight Flows","config":"Default","file":"PointofInterest.csv","info":"Freight model flows"}]
             }
         },
         "Concept-B": {
