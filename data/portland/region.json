@@ -248,22 +248,6 @@
                   }]}]
             }
         },
-        "Freight_Flows_RP": {
-            "name": "Freight_Flows_RP",
-            "title": "- Freight Flows - Resolution Plan",
-            "CenterMap": [45.512794,-122.679565],
-            "visualizations": {
-                "POIMap": [{"name":"Freight Flows","config":"Default","file":"PointofInterest.csv","info":"Freight model flows"}]
-            }
-        },
-		"Freight_Flows_Base_2015": {
-            "name": "Freight_Flows_Base_2015",
-            "title": "- Freight Flows - Base 2015",
-            "CenterMap": [45.512794,-122.679565],
-            "visualizations": {
-                "POIMap": [{"name":"Freight Flows","config":"Default","file":"PointofInterest.csv","info":"Freight model flows"}]
-            }
-        },
 		"Freight_Flows_Base_2020": {
             "name": "Freight_Flows_Base_2020",
             "title": "- Freight Flows - Base 2020",
@@ -288,9 +272,9 @@
                 "POIMap": [{"name":"Freight Flows","config":"Default","file":"PointofInterest.csv","info":"Freight model flows"}]
             }
         },
-        "Freight_Flows_New_Results": {
-            "name": "Freight_Flows_New_Results",
-            "title": "- Freight Flows - New Results",
+        "Freight_Flows_Development_Scenario": {
+            "name": "Freight_Flows_Development_Scenario",
+            "title": "- Freight Flows - Development Scenario",
             "CenterMap": [45.512794,-122.679565],
             "visualizations": {
                 "POIMap": [{"name":"Freight Flows","config":"Default","file":"PointofInterest.csv","info":"Freight model flows"}]
