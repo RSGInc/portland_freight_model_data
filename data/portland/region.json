@@ -221,34 +221,7 @@
                   }]}]
             }
         },
-        "Freight": {
-            "name": "Freight",
-            "title": "Freight Flows",
-            "CenterMap": [45.512794,-122.679565],
-            "visualizations": {
-                "POIMap": [{"name":"Freight Flows","config":"Default","file":"PointofInterest.csv","info":"Freight model flows", "explanation":[{
-                    "header": "Summary",
-                    "body":[{
-                      "type": "unorderedList",
-                      "content": ["Freight flows at points of interest.",
-                      "Includes all goods in addition to each individual good.",
-                      "I-5 Southbound carrying the most daily tons and dollars of goods."]
-                    }]
-                  },
-                  {
-                    "header": "Instructions",
-                    "body":[{
-                      "type": "unorderedList",
-                      "content": ["For the left graph: Select/deselect bubbles to add/remove goods.",
-                      "For the left graph: Hover mouse over graph to see detail.",
-                      "For the map: Use the drop-down selections to view different point values and goods.",
-                      "For the map: Color the points by scaled data value size.",
-                      "Select \"Show Data\" to see tabulation."]
-                    }]
-                  }]}]
-            }
-        },
-		"Freight_Flows_Base_2020": {
+        "Freight_Flows_Base_2020": {
             "name": "Freight_Flows_Base_2020",
             "title": "- Freight Flows - Base 2020",
             "CenterMap": [45.512794,-122.679565],
