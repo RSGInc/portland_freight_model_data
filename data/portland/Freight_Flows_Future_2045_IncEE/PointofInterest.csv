@@ -703,28 +703,28 @@ I-5 SB Lombard,Portland Central City to Vancouver,45.58028,-122.679272,Machinery
 I-5 SB Lombard,Portland Central City to Vancouver,45.58028,-122.679272,Misc manufactured,33.335,5298,4633.624,736,2008.146,319,3394.504,539,20.51,3676,12.825,1622,12.825,1622,0,0
 I-5 SB Lombard,Portland Central City to Vancouver,45.58028,-122.679272,"Motor Vehicles, etc.",22.436,1625,741.303,54,1373.358,99,665.044,48,9.649,626,12.787,999,12.787,999,0,0
 I-5 SB Lombard,Portland Central City to Vancouver,45.58028,-122.679272,"Wood, Paper, etc.",5.046,9526,703.424,1328,328.806,621,345.506,652,5.132,9648,-0.086,-122,0,0,0.086,122
-N Going St. EB,Portland Central City to Vancouver,45.5554988,-122.6924986,Agriculture,0.056,122,17.933,39,0,0,0,0,0.014,32,0.042,90,0.042,90,0,0
-N Going St. EB,Portland Central City to Vancouver,455.554988,-1226.924986,All Goods,5.675,3191,1018.988,640,499.73,150,260.97,77,4.131,3973,1.544,-782,1.544,0,0,782
-N Going St. EB,Portland Central City to Vancouver,45.5554988,-122.6924986,Chemical,0.058,99,9.02,15,0.317,1,0,0,0.027,47,0.031,52,0.031,52,0,0
-N Going St. EB,Portland Central City to Vancouver,45.5554988,-122.6924986,"Coal, Oil, Waste, etc.",0.634,1243,122.097,239,24.637,48,14.031,28,0.976,1835,-0.342,-592,0,0,0.342,592
-N Going St. EB,Portland Central City to Vancouver,45.5554988,-122.6924986,Electronics,1.912,68,224.017,8,343.143,12,184.956,7,0.594,30,1.318,38,1.318,38,0,0
-N Going St. EB,Portland Central City to Vancouver,45.5554988,-122.6924986,Food,0.832,510,166.79,102,68.56,42,12.241,8,0.781,472,0.051,38,0.051,38,0,0
-N Going St. EB,Portland Central City to Vancouver,45.5554988,-122.6924986,"Gravel, Sand, etc.",0.001,82,0.268,20,0.1,8,0,0,0.003,187,-0.002,-105,0,0,0.002,105
-N Going St. EB,Portland Central City to Vancouver,45.5554988,-122.6924986,Machinery,1.05,224,179.094,38,47.274,10,35.176,8,0.675,218,0.375,6,0.375,6,0,0
-N Going St. EB,Portland Central City to Vancouver,45.5554988,-122.6924986,Misc manufactured,0.687,109,192.008,31,0,0,0,0,0.478,86,0.209,23,0.209,23,0,0
-N Going St. EB,Portland Central City to Vancouver,45.5554988,-122.6924986,"Motor Vehicles, etc.",0.057,4,30.593,2,0,0,0,0,0.016,1,0.041,3,0.041,3,0,0
-N Going St. EB,Portland Central City to Vancouver,45.5554988,-122.6924986,"Wood, Paper, etc.",0.387,731,77.168,146,15.699,30,14.567,28,0.566,1065,-0.179,-334,0,0,0.179,334
-N Going St. WB,Portland Central City to Vancouver,45.5564988,-122.6924964,Agriculture,0.092,199,12.374,27,0.388,1,8.662,19,0.21,471,-0.118,-272,0,0,0.118,272
-N Going St. WB,Portland Central City to Vancouver,455.564988,-1226.924964,All Goods,17.793,7779,3298.3,1763,948.835,494,350.007,248,16.481,11830,1.312,-4051,1.312,0,0,4051
-N Going St. WB,Portland Central City to Vancouver,45.5564988,-122.6924964,Chemical,0.164,279,39.337,67,12.678,22,5.125,9,0.198,349,-0.034,-70,0,0,0.034,70
-N Going St. WB,Portland Central City to Vancouver,45.5564988,-122.6924964,"Coal, Oil, Waste, etc.",1.657,3248,416.825,817,81.593,160,37.013,73,3.335,6270,-1.678,-3022,0,0,1.678,3022
-N Going St. WB,Portland Central City to Vancouver,45.5564988,-122.6924964,Electronics,8.374,297,1395.605,50,229.121,8,84.853,3,5.891,299,2.483,-2,2.483,0,0,2
-N Going St. WB,Portland Central City to Vancouver,45.5564988,-122.6924964,Food,1.56,956,324.408,199,148.462,91,26.755,16,1.65,997,-0.09,-41,0,0,0.09,41
-N Going St. WB,Portland Central City to Vancouver,45.5564988,-122.6924964,"Gravel, Sand, etc.",0.01,735,2.771,207,0.742,55,0.502,38,0.01,731,0,4,0,4,0,0
-N Going St. WB,Portland Central City to Vancouver,45.5564988,-122.6924964,Machinery,3.413,728,725.288,155,301.729,64,45.226,10,2.817,911,0.596,-183,0.596,0,0,183
-N Going St. WB,Portland Central City to Vancouver,45.5564988,-122.6924964,Misc manufactured,0.566,90,121.347,19,20.224,3,107.864,17,0.324,58,0.242,32,0.242,32,0,0
-N Going St. WB,Portland Central City to Vancouver,45.5564988,-122.6924964,"Motor Vehicles, etc.",1.348,98,147.917,11,110.938,8,0,0,1.157,75,0.191,23,0.191,23,0,0
-N Going St. WB,Portland Central City to Vancouver,45.5564988,-122.6924964,"Wood, Paper, etc.",0.609,1149,112.429,212,42.96,81,34.009,64,0.888,1669,-0.279,-520,0,0,0.279,520
+N Going St. EB,Portland Central City to Vancouver,45.55649192,-122.6949746,Agriculture,0.092,199,12.374,27,0.388,1,8.662,19,0.21,471,-0.118,-272,0,0,0.118,272
+N Going St. EB,Portland Central City to Vancouver,455.5649192,-1226.949746,All Goods,17.793,7779,3298.3,1763,948.835,494,350.007,248,16.481,11830,1.312,-4051,1.312,0,0,4051
+N Going St. EB,Portland Central City to Vancouver,45.55649192,-122.6949746,Chemical,0.164,279,39.337,67,12.678,22,5.125,9,0.198,349,-0.034,-70,0,0,0.034,70
+N Going St. EB,Portland Central City to Vancouver,45.55649192,-122.6949746,"Coal, Oil, Waste, etc.",1.657,3248,416.825,817,81.593,160,37.013,73,3.335,6270,-1.678,-3022,0,0,1.678,3022
+N Going St. EB,Portland Central City to Vancouver,45.55649192,-122.6949746,Electronics,8.374,297,1395.605,50,229.121,8,84.853,3,5.891,299,2.483,-2,2.483,0,0,2
+N Going St. EB,Portland Central City to Vancouver,45.55649192,-122.6949746,Food,1.56,956,324.408,199,148.462,91,26.755,16,1.65,997,-0.09,-41,0,0,0.09,41
+N Going St. EB,Portland Central City to Vancouver,45.55649192,-122.6949746,"Gravel, Sand, etc.",0.01,735,2.771,207,0.742,55,0.502,38,0.01,731,0,4,0,4,0,0
+N Going St. EB,Portland Central City to Vancouver,45.55649192,-122.6949746,Machinery,3.413,728,725.288,155,301.729,64,45.226,10,2.817,911,0.596,-183,0.596,0,0,183
+N Going St. EB,Portland Central City to Vancouver,45.55649192,-122.6949746,Misc manufactured,0.566,90,121.347,19,20.224,3,107.864,17,0.324,58,0.242,32,0.242,32,0,0
+N Going St. EB,Portland Central City to Vancouver,45.55649192,-122.6949746,"Motor Vehicles, etc.",1.348,98,147.917,11,110.938,8,0,0,1.157,75,0.191,23,0.191,23,0,0
+N Going St. EB,Portland Central City to Vancouver,45.55649192,-122.6949746,"Wood, Paper, etc.",0.609,1149,112.429,212,42.96,81,34.009,64,0.888,1669,-0.279,-520,0,0,0.279,520
+N Going St. WB,Portland Central City to Vancouver,45.55549194,-122.6949677,Agriculture,0.104,227,43.028,94,0,0,0.144,0,0.135,302,-0.031,-75,0,0,0.031,75
+N Going St. WB,Portland Central City to Vancouver,455.5549194,-1226.949677,All Goods,16.376,8267,3398.571,1809,1052.909,283,556.267,262,15.105,10601,1.271,-2334,1.271,0,0,2334
+N Going St. WB,Portland Central City to Vancouver,45.55549194,-122.6949677,Chemical,0.163,277,23.057,39,0.317,1,0.027,0,0.141,249,0.022,28,0.022,28,0,0
+N Going St. WB,Portland Central City to Vancouver,45.55549194,-122.6949677,"Coal, Oil, Waste, etc.",1.713,3357,341.544,669,63.621,125,62.773,123,2.829,5319,-1.116,-1962,0,0,1.116,1962
+N Going St. WB,Portland Central City to Vancouver,45.55549194,-122.6949677,Electronics,5.73,203,888.734,32,821.445,29,185.724,7,4.574,232,1.156,-29,1.156,0,0,29
+N Going St. WB,Portland Central City to Vancouver,45.55549194,-122.6949677,Food,1.88,1152,485.666,298,91.052,56,49.35,30,2.067,1249,-0.187,-97,0,0,0.187,97
+N Going St. WB,Portland Central City to Vancouver,45.55549194,-122.6949677,"Gravel, Sand, etc.",0.005,342,1.061,79,0.1,8,0.1,8,0.004,272,0.001,70,0.001,70,0,0
+N Going St. WB,Portland Central City to Vancouver,45.55549194,-122.6949677,Machinery,2.329,497,467.73,100,47.274,10,107.806,23,2.022,654,0.307,-157,0.307,0,0,157
+N Going St. WB,Portland Central City to Vancouver,45.55549194,-122.6949677,Misc manufactured,3.116,495,798.901,127,0,0,102.961,16,1.807,324,1.309,171,1.309,171,0,0
+N Going St. WB,Portland Central City to Vancouver,45.55549194,-122.6949677,"Motor Vehicles, etc.",0.444,32,158.33,11,0,0,18.826,1,0.478,31,-0.034,1,0,1,0.034,0
+N Going St. WB,Portland Central City to Vancouver,45.55549194,-122.6949677,"Wood, Paper, etc.",0.892,1685,190.52,360,29.099,55,28.556,54,1.048,1970,-0.156,-285,0,0,0.156,285
 Col Blvd EB Chimney Park,Rivergate to I-5,45.610041,-122.760483,Agriculture,0.657,1429,176.67,384,54.594,119,19.401,42,0.285,639,0.372,790,0.372,790,0,0
 Col Blvd EB Chimney Park,Rivergate to I-5,456.10041,-1227.60483,All Goods,33.222,19375,6717.677,3977,2173.248,1111,882.456,472,22.41,12589,10.812,6786,10.812,6786,0,0
 Col Blvd EB Chimney Park,Rivergate to I-5,45.610041,-122.760483,Chemical,6.043,10286,1153.037,1962,333.028,567,128.339,218,3.561,6280,2.482,4006,2.482,4006,0,0
