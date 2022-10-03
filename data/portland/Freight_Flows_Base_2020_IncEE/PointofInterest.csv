@@ -197,17 +197,17 @@
 "NE Columbia Blvd WB","Columbia Corridor",45.5703010293856,-122.60769651115,"Misc manufactured",0.324,58,190.737,34,4.261,1,3.842,1
 "NE Columbia Blvd WB","Columbia Corridor",45.5703010293856,-122.60769651115,"Motor Vehicles, etc.",2.844,184,473.357,31,141.012,9,0.108,0
 "NE Columbia Blvd WB","Columbia Corridor",45.5703010293856,-122.60769651115,"Wood, Paper, etc.",0.367,691,88.315,166,21.228,40,9.84,18
-"NE Lombard St. EB 42nd","Columbia Corridor",45.5681623864649,-122.610078121872,"Agriculture",0.028,63,6.789,15,0,0,6.949,16
-"NE Lombard St. EB 42nd","Columbia Corridor",455.681623864649,-1226.10078121872,"All Goods",1.189,1060,575.921,439,42.872,48,6.949,16
-"NE Lombard St. EB 42nd","Columbia Corridor",45.5681623864649,-122.610078121872,"Chemical",0.043,75,26.395,47,0,0,0,0
-"NE Lombard St. EB 42nd","Columbia Corridor",45.5681623864649,-122.610078121872,"Coal, Oil, Waste, etc.",0.265,499,100.539,189,14.987,28,0,0
-"NE Lombard St. EB 42nd","Columbia Corridor",45.5681623864649,-122.610078121872,"Electronics",0.101,5,80.644,4,6.189,0,0,0
-"NE Lombard St. EB 42nd","Columbia Corridor",45.5681623864649,-122.610078121872,"Food",0.365,221,120.671,73,16.847,10,0,0
-"NE Lombard St. EB 42nd","Columbia Corridor",45.5681623864649,-122.610078121872,"Gravel, Sand, etc.",0,32,0.357,26,0,0,0,0
-"NE Lombard St. EB 42nd","Columbia Corridor",45.5681623864649,-122.610078121872,"Machinery",0.194,63,98.758,32,0,0,0,0
-"NE Lombard St. EB 42nd","Columbia Corridor",45.5681623864649,-122.610078121872,"Misc manufactured",0,0,0,0,0,0,0,0
-"NE Lombard St. EB 42nd","Columbia Corridor",45.5681623864649,-122.610078121872,"Motor Vehicles, etc.",0.142,9,117.794,8,0,0,0,0
-"NE Lombard St. EB 42nd","Columbia Corridor",45.5681623864649,-122.610078121872,"Wood, Paper, etc.",0.05,93,23.974,45,4.85,9,0,0
+"NE Lombard St. EB NE 42nd","Columbia Corridor",45.5681623864649,-122.610078121872,"Agriculture",0.028,63,6.789,15,0,0,6.949,16
+"NE Lombard St. EB NE 42nd","Columbia Corridor",455.681623864649,-1226.10078121872,"All Goods",1.189,1060,575.921,439,42.872,48,6.949,16
+"NE Lombard St. EB NE 42nd","Columbia Corridor",45.5681623864649,-122.610078121872,"Chemical",0.043,75,26.395,47,0,0,0,0
+"NE Lombard St. EB NE 42nd","Columbia Corridor",45.5681623864649,-122.610078121872,"Coal, Oil, Waste, etc.",0.265,499,100.539,189,14.987,28,0,0
+"NE Lombard St. EB NE 42nd","Columbia Corridor",45.5681623864649,-122.610078121872,"Electronics",0.101,5,80.644,4,6.189,0,0,0
+"NE Lombard St. EB NE 42nd","Columbia Corridor",45.5681623864649,-122.610078121872,"Food",0.365,221,120.671,73,16.847,10,0,0
+"NE Lombard St. EB NE 42nd","Columbia Corridor",45.5681623864649,-122.610078121872,"Gravel, Sand, etc.",0,32,0.357,26,0,0,0,0
+"NE Lombard St. EB NE 42nd","Columbia Corridor",45.5681623864649,-122.610078121872,"Machinery",0.194,63,98.758,32,0,0,0,0
+"NE Lombard St. EB NE 42nd","Columbia Corridor",45.5681623864649,-122.610078121872,"Misc manufactured",0,0,0,0,0,0,0,0
+"NE Lombard St. EB NE 42nd","Columbia Corridor",45.5681623864649,-122.610078121872,"Motor Vehicles, etc.",0.142,9,117.794,8,0,0,0,0
+"NE Lombard St. EB NE 42nd","Columbia Corridor",45.5681623864649,-122.610078121872,"Wood, Paper, etc.",0.05,93,23.974,45,4.85,9,0,0
 "NE Lombard St. WB NE 42nd","Columbia Corridor",45.5691487849521,-122.609913750268,"Agriculture",0.01,22,3.111,7,0.564,1,0,0
 "NE Lombard St. WB NE 42nd","Columbia Corridor",455.691487849521,-1226.09913750268,"All Goods",1.831,1103,696.829,405,40.322,27,77.068,27
 "NE Lombard St. WB NE 42nd","Columbia Corridor",45.5691487849521,-122.609913750268,"Chemical",0.011,20,1.733,3,0,0,0,0
@@ -505,28 +505,28 @@
 "US-26 WB Tunnel","Portland Central City to Beaverton",45.508145,-122.710455,"Misc manufactured",0.698,125,147.368,26,0,0,0,0
 "US-26 WB Tunnel","Portland Central City to Beaverton",45.508145,-122.710455,"Motor Vehicles, etc.",0.832,54,371.152,24,115.681,8,0,0
 "US-26 WB Tunnel","Portland Central City to Beaverton",45.508145,-122.710455,"Wood, Paper, etc.",0.699,1313,155.433,292,49.062,92,27.546,52
-"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.643608723247,-122.858377514639,"Agriculture",2.108,4722,492.399,1103,102.922,231,44.142,99
-"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",456.43608723247,-1228.58377514639,"All Goods",5.306,8015,1093.912,1900,224.49,445,120.079,212
-"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.643608723247,-122.858377514639,"Chemical",1.048,1848,280.211,494,62.346,110,20.763,37
-"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.643608723247,-122.858377514639,"Coal, Oil, Waste, etc.",0.534,1003,125.963,237,51.921,98,15.663,29
-"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.643608723247,-122.858377514639,"Electronics",0.04,2,0.788,0,3.45,0,0,0
-"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.643608723247,-122.858377514639,"Food",0.107,64,0,0,0,0,29.102,18
-"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.643608723247,-122.858377514639,"Gravel, Sand, etc.",0,30,0,0,0,0,0.141,10
-"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.643608723247,-122.858377514639,"Machinery",0.642,208,155.979,50,0,0,0,0
-"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.643608723247,-122.858377514639,"Misc manufactured",0.075,14,33.609,6,0,0,0,0
-"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.643608723247,-122.858377514639,"Motor Vehicles, etc.",0.71,46,0,0,0,0,0,0
-"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.643608723247,-122.858377514639,"Wood, Paper, etc.",0.042,78,4.965,9,3.851,7,10.268,19
-"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.6442030405046,-122.859181745326,"Agriculture",0.193,432,29.787,67,8.371,19,9.208,21
-"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",456.442030405046,-1228.59181745326,"All Goods",5.848,4713,1514.11,1061,349.568,226,113.143,174
-"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.6442030405046,-122.859181745326,"Chemical",1.026,1809,202.533,357,49.099,87,37.93,67
-"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.6442030405046,-122.859181745326,"Coal, Oil, Waste, etc.",0.484,910,107.167,201,28.154,53,5.607,11
-"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.6442030405046,-122.859181745326,"Electronics",0.609,31,159.104,8,0,0,0,0
-"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.6442030405046,-122.859181745326,"Food",0.462,279,51.057,31,28.053,17,0,0
-"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.6442030405046,-122.859181745326,"Gravel, Sand, etc.",0.004,305,1.53,112,0,0,0.256,19
-"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.6442030405046,-122.859181745326,"Machinery",1.763,570,602.651,195,114.613,37,35.935,12
-"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.6442030405046,-122.859181745326,"Misc manufactured",0.682,122,141.697,25,2.618,0,0,0
-"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.6442030405046,-122.859181745326,"Motor Vehicles, etc.",0.507,33,190.824,12,115.681,8,0,0
-"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.6442030405046,-122.859181745326,"Wood, Paper, etc.",0.118,222,27.76,52,2.979,6,24.207,46
+"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.643608723247,-122.856877514639,"Agriculture",2.108,4722,492.399,1103,102.922,231,44.142,99
+"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",456.43608723247,-1228.56877514639,"All Goods",5.306,8015,1093.912,1900,224.49,445,120.079,212
+"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.643608723247,-122.856877514639,"Chemical",1.048,1848,280.211,494,62.346,110,20.763,37
+"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.643608723247,-122.856877514639,"Coal, Oil, Waste, etc.",0.534,1003,125.963,237,51.921,98,15.663,29
+"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.643608723247,-122.856877514639,"Electronics",0.04,2,0.788,0,3.45,0,0,0
+"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.643608723247,-122.856877514639,"Food",0.107,64,0,0,0,0,29.102,18
+"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.643608723247,-122.856877514639,"Gravel, Sand, etc.",0,30,0,0,0,0,0.141,10
+"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.643608723247,-122.856877514639,"Machinery",0.642,208,155.979,50,0,0,0,0
+"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.643608723247,-122.856877514639,"Misc manufactured",0.075,14,33.609,6,0,0,0,0
+"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.643608723247,-122.856877514639,"Motor Vehicles, etc.",0.71,46,0,0,0,0,0,0
+"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.643608723247,-122.856877514639,"Wood, Paper, etc.",0.042,78,4.965,9,3.851,7,10.268,19
+"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.6442030405046,-122.857681745326,"Agriculture",0.193,432,29.787,67,8.371,19,9.208,21
+"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",456.442030405046,-1228.57681745326,"All Goods",5.848,4713,1514.11,1061,349.568,226,113.143,174
+"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.6442030405046,-122.857681745326,"Chemical",1.026,1809,202.533,357,49.099,87,37.93,67
+"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.6442030405046,-122.857681745326,"Coal, Oil, Waste, etc.",0.484,910,107.167,201,28.154,53,5.607,11
+"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.6442030405046,-122.857681745326,"Electronics",0.609,31,159.104,8,0,0,0,0
+"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.6442030405046,-122.857681745326,"Food",0.462,279,51.057,31,28.053,17,0,0
+"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.6442030405046,-122.857681745326,"Gravel, Sand, etc.",0.004,305,1.53,112,0,0,0.256,19
+"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.6442030405046,-122.857681745326,"Machinery",1.763,570,602.651,195,114.613,37,35.935,12
+"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.6442030405046,-122.857681745326,"Misc manufactured",0.682,122,141.697,25,2.618,0,0,0
+"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.6442030405046,-122.857681745326,"Motor Vehicles, etc.",0.507,33,190.824,12,115.681,8,0,0
+"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.6442030405046,-122.857681745326,"Wood, Paper, etc.",0.118,222,27.76,52,2.979,6,24.207,46
 "NW Front Ave EB","Portland Central City to Columbia County",45.5623311803532,-122.738671029545,"Agriculture",0,0,0.042,0,0,0,0,0
 "NW Front Ave EB","Portland Central City to Columbia County",455.623311803532,-1227.38671029545,"All Goods",0.452,632,216.489,305,18.689,24,0,0
 "NW Front Ave EB","Portland Central City to Columbia County",45.5623311803532,-122.738671029545,"Chemical",0.009,16,5.07,9,0.003,0,0,0
@@ -692,17 +692,17 @@
 "I-5 NB OR 217","Portland Central City to Tigard",45.4285772544358,-122.743469717653,"Misc manufactured",18.487,3313,2029.528,364,864.116,155,2048.047,367
 "I-5 NB OR 217","Portland Central City to Tigard",45.4285772544358,-122.743469717653,"Motor Vehicles, etc.",9.528,618,1923.652,125,552.812,36,521.528,34
 "I-5 NB OR 217","Portland Central City to Tigard",45.4285772544358,-122.743469717653,"Wood, Paper, etc.",7.832,14724,1181.953,2222,460.559,866,596.222,1121
-"I-5 NB OR 99W","Portland Central City to Tigard",45.4488510741933,-122.729848526913,"Agriculture",3.973,8898,570.538,1278,250.735,562,239.063,535
-"I-5 NB OR 99W","Portland Central City to Tigard",454.488510741933,-1227.29848526913,"All Goods",94.614,69108,12252.134,8461,6141.317,4561,7118.881,4770
-"I-5 NB OR 99W","Portland Central City to Tigard",45.4488510741933,-122.729848526913,"Chemical",4.448,7844,589.644,1040,224.74,396,198.915,351
-"I-5 NB OR 99W","Portland Central City to Tigard",45.4488510741933,-122.729848526913,"Coal, Oil, Waste, etc.",6.368,11971,567.281,1066,523.061,983,414.585,779
-"I-5 NB OR 99W","Portland Central City to Tigard",45.4488510741933,-122.729848526913,"Electronics",15.035,763,1607.842,82,1598.792,81,922.449,47
-"I-5 NB OR 99W","Portland Central City to Tigard",45.4488510741933,-122.729848526913,"Food",17.286,10443,2416.464,1460,1036.459,626,1379.613,833
-"I-5 NB OR 99W","Portland Central City to Tigard",45.4488510741933,-122.729848526913,"Gravel, Sand, etc.",0.079,5778,5.394,395,7.837,573,4.427,324
-"I-5 NB OR 99W","Portland Central City to Tigard",45.4488510741933,-122.729848526913,"Machinery",8.145,2633,1365.93,442,474.988,154,568.612,184
-"I-5 NB OR 99W","Portland Central City to Tigard",45.4488510741933,-122.729848526913,"Misc manufactured",19.805,3549,2029.528,364,950.792,170,2182.493,391
-"I-5 NB OR 99W","Portland Central City to Tigard",45.4488510741933,-122.729848526913,"Motor Vehicles, etc.",10.68,692,1923.652,125,552.812,36,521.528,34
-"I-5 NB OR 99W","Portland Central City to Tigard",45.4488510741933,-122.729848526913,"Wood, Paper, etc.",8.796,16538,1175.862,2211,521.1,980,687.198,1292
+"I-5 NB OR 99W","Portland Central City to Tigard",45.4488510741933,-122.728848526913,"Agriculture",3.973,8898,570.538,1278,250.735,562,239.063,535
+"I-5 NB OR 99W","Portland Central City to Tigard",454.488510741933,-1227.28848526913,"All Goods",94.614,69108,12252.134,8461,6141.317,4561,7118.881,4770
+"I-5 NB OR 99W","Portland Central City to Tigard",45.4488510741933,-122.728848526913,"Chemical",4.448,7844,589.644,1040,224.74,396,198.915,351
+"I-5 NB OR 99W","Portland Central City to Tigard",45.4488510741933,-122.728848526913,"Coal, Oil, Waste, etc.",6.368,11971,567.281,1066,523.061,983,414.585,779
+"I-5 NB OR 99W","Portland Central City to Tigard",45.4488510741933,-122.728848526913,"Electronics",15.035,763,1607.842,82,1598.792,81,922.449,47
+"I-5 NB OR 99W","Portland Central City to Tigard",45.4488510741933,-122.728848526913,"Food",17.286,10443,2416.464,1460,1036.459,626,1379.613,833
+"I-5 NB OR 99W","Portland Central City to Tigard",45.4488510741933,-122.728848526913,"Gravel, Sand, etc.",0.079,5778,5.394,395,7.837,573,4.427,324
+"I-5 NB OR 99W","Portland Central City to Tigard",45.4488510741933,-122.728848526913,"Machinery",8.145,2633,1365.93,442,474.988,154,568.612,184
+"I-5 NB OR 99W","Portland Central City to Tigard",45.4488510741933,-122.728848526913,"Misc manufactured",19.805,3549,2029.528,364,950.792,170,2182.493,391
+"I-5 NB OR 99W","Portland Central City to Tigard",45.4488510741933,-122.728848526913,"Motor Vehicles, etc.",10.68,692,1923.652,125,552.812,36,521.528,34
+"I-5 NB OR 99W","Portland Central City to Tigard",45.4488510741933,-122.728848526913,"Wood, Paper, etc.",8.796,16538,1175.862,2211,521.1,980,687.198,1292
 "I-5 NB Terwilliger","Portland Central City to Tigard",45.4641778514724,-122.696613456993,"Agriculture",3.972,8897,570.538,1278,250.735,562,239.063,535
 "I-5 NB Terwilliger","Portland Central City to Tigard",454.641778514724,-1226.96613456993,"All Goods",94.825,69157,12251.738,8461,6141.317,4561,7118.881,4770
 "I-5 NB Terwilliger","Portland Central City to Tigard",45.4641778514724,-122.696613456993,"Chemical",4.439,7827,589.644,1040,224.74,396,198.915,351
@@ -725,17 +725,17 @@
 "I-5 SB OR 217","Portland Central City to Tigard",45.4285431749325,-122.744710081528,"Misc manufactured",24.181,4334,3038.054,544,1424.782,255,2860.143,513
 "I-5 SB OR 217","Portland Central City to Tigard",45.4285431749325,-122.744710081528,"Motor Vehicles, etc.",27.093,1757,5932.723,385,2531.978,164,639.723,41
 "I-5 SB OR 217","Portland Central City to Tigard",45.4285431749325,-122.744710081528,"Wood, Paper, etc.",8.086,15203,1139.451,2142,522.84,983,589.902,1109
-"I-5 SB OR 99W","Portland Central City to Tigard",45.4497288494743,-122.730917512699,"Agriculture",1.472,3296,323.994,726,86.766,194,90.129,202
-"I-5 SB OR 99W","Portland Central City to Tigard",454.497288494743,-1227.30917512699,"All Goods",130.696,75043,24894.469,14270,8642.338,4319,7997.56,4540
-"I-5 SB OR 99W","Portland Central City to Tigard",45.4497288494743,-122.730917512699,"Chemical",4.279,7546,975.41,1720,199.857,352,159.011,280
-"I-5 SB OR 99W","Portland Central City to Tigard",45.4497288494743,-122.730917512699,"Coal, Oil, Waste, etc.",10.267,19299,2240.569,4212,580.317,1091,555.404,1044
-"I-5 SB OR 99W","Portland Central City to Tigard",45.4497288494743,-122.730917512699,"Electronics",20.003,1015,4126.092,209,1803.723,91,947.431,48
-"I-5 SB OR 99W","Portland Central City to Tigard",45.4497288494743,-122.730917512699,"Food",15.416,9313,2705.859,1635,790.358,477,1015.369,613
-"I-5 SB OR 99W","Portland Central City to Tigard",45.4497288494743,-122.730917512699,"Gravel, Sand, etc.",0.078,5706,14.065,1029,5.245,384,3.856,282
-"I-5 SB OR 99W","Portland Central City to Tigard",45.4497288494743,-122.730917512699,"Machinery",18.672,6036,3917.771,1267,1100.808,356,849.709,275
-"I-5 SB OR 99W","Portland Central City to Tigard",45.4497288494743,-122.730917512699,"Misc manufactured",25.127,4503,3205.617,574,1294.446,232,3099.518,555
-"I-5 SB OR 99W","Portland Central City to Tigard",45.4497288494743,-122.730917512699,"Motor Vehicles, etc.",26.549,1721,6052.196,392,2251.876,146,639.723,41
-"I-5 SB OR 99W","Portland Central City to Tigard",45.4497288494743,-122.730917512699,"Wood, Paper, etc.",8.833,16606,1332.897,2506,528.943,994,637.41,1198
+"I-5 SB OR 99W","Portland Central City to Tigard",45.4497288494743,-122.729917512699,"Agriculture",1.472,3296,323.994,726,86.766,194,90.129,202
+"I-5 SB OR 99W","Portland Central City to Tigard",454.497288494743,-1227.29917512699,"All Goods",130.696,75043,24894.469,14270,8642.338,4319,7997.56,4540
+"I-5 SB OR 99W","Portland Central City to Tigard",45.4497288494743,-122.729917512699,"Chemical",4.279,7546,975.41,1720,199.857,352,159.011,280
+"I-5 SB OR 99W","Portland Central City to Tigard",45.4497288494743,-122.729917512699,"Coal, Oil, Waste, etc.",10.267,19299,2240.569,4212,580.317,1091,555.404,1044
+"I-5 SB OR 99W","Portland Central City to Tigard",45.4497288494743,-122.729917512699,"Electronics",20.003,1015,4126.092,209,1803.723,91,947.431,48
+"I-5 SB OR 99W","Portland Central City to Tigard",45.4497288494743,-122.729917512699,"Food",15.416,9313,2705.859,1635,790.358,477,1015.369,613
+"I-5 SB OR 99W","Portland Central City to Tigard",45.4497288494743,-122.729917512699,"Gravel, Sand, etc.",0.078,5706,14.065,1029,5.245,384,3.856,282
+"I-5 SB OR 99W","Portland Central City to Tigard",45.4497288494743,-122.729917512699,"Machinery",18.672,6036,3917.771,1267,1100.808,356,849.709,275
+"I-5 SB OR 99W","Portland Central City to Tigard",45.4497288494743,-122.729917512699,"Misc manufactured",25.127,4503,3205.617,574,1294.446,232,3099.518,555
+"I-5 SB OR 99W","Portland Central City to Tigard",45.4497288494743,-122.729917512699,"Motor Vehicles, etc.",26.549,1721,6052.196,392,2251.876,146,639.723,41
+"I-5 SB OR 99W","Portland Central City to Tigard",45.4497288494743,-122.729917512699,"Wood, Paper, etc.",8.833,16606,1332.897,2506,528.943,994,637.41,1198
 "I-5 SB Terwilliger","Portland Central City to Tigard",45.4653681965453,-122.696923618341,"Agriculture",1.48,3314,336.871,755,85.319,191,90.122,202
 "I-5 SB Terwilliger","Portland Central City to Tigard",454.653681965453,-1226.96923618341,"All Goods",129.233,73016,24902.497,13951,8564.349,4205,7916.457,4451
 "I-5 SB Terwilliger","Portland Central City to Tigard",45.4653681965453,-122.696923618341,"Chemical",4.157,7331,957.231,1688,191.211,337,159.011,280
