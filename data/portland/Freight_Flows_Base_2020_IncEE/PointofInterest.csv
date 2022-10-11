@@ -835,17 +835,17 @@
 "I-5 SB Lombard","Portland Central City to Vancouver",45.58028,-122.679272,"Misc manufactured",20.555,3684,2247.78,403,1241.862,223,2603.509,467
 "I-5 SB Lombard","Portland Central City to Vancouver",45.58028,-122.679272,"Motor Vehicles, etc.",9.484,615,91.958,6,964.425,63,970.533,63
 "I-5 SB Lombard","Portland Central City to Vancouver",45.58028,-122.679272,"Wood, Paper, etc.",5.161,9703,813.05,1529,399.608,751,265.119,498
-"Col Blvd EB Chimney Park","Rivergate to I-5",45.600741,-122.760683,"Agriculture",0.305,683,122.695,275,19.301,43,2.566,6
-"Col Blvd EB Chimney Park","Rivergate to I-5",456.00741,-1227.60683,"All Goods",22.503,12809,4362.447,2610,2088.78,874,507.156,345
-"Col Blvd EB Chimney Park","Rivergate to I-5",45.600741,-122.760683,"Chemical",3.499,6171,560.336,988,236.178,416,108.777,192
-"Col Blvd EB Chimney Park","Rivergate to I-5",45.600741,-122.760683,"Coal, Oil, Waste, etc.",1.303,2450,318.345,598,78.234,147,27.107,51
-"Col Blvd EB Chimney Park","Rivergate to I-5",45.600741,-122.760683,"Electronics",0.222,11,130.004,7,3.501,0,0,0
-"Col Blvd EB Chimney Park","Rivergate to I-5",45.600741,-122.760683,"Food",0.856,517,280.468,169,22.111,13,12.415,8
-"Col Blvd EB Chimney Park","Rivergate to I-5",45.600741,-122.760683,"Gravel, Sand, etc.",0.001,63,0.206,15,0.2,15,0.256,19
-"Col Blvd EB Chimney Park","Rivergate to I-5",45.600741,-122.760683,"Machinery",6.468,2091,1228.964,397,489.06,158,133.342,43
-"Col Blvd EB Chimney Park","Rivergate to I-5",45.600741,-122.760683,"Misc manufactured",0.278,50,57.288,10,0,0,0,0
-"Col Blvd EB Chimney Park","Rivergate to I-5",45.600741,-122.760683,"Motor Vehicles, etc.",9.487,615,1640.748,106,1239.999,80,215.645,14
-"Col Blvd EB Chimney Park","Rivergate to I-5",45.600741,-122.760683,"Wood, Paper, etc.",0.084,158,23.393,44,0.196,0,7.048,13
+"Col Blvd EB Chimney Park","Rivergate to I-5",45.609741,-122.760683,"Agriculture",0.305,683,122.695,275,19.301,43,2.566,6
+"Col Blvd EB Chimney Park","Rivergate to I-5",456.09741,-1227.60683,"All Goods",22.503,12809,4362.447,2610,2088.78,874,507.156,345
+"Col Blvd EB Chimney Park","Rivergate to I-5",45.609741,-122.760683,"Chemical",3.499,6171,560.336,988,236.178,416,108.777,192
+"Col Blvd EB Chimney Park","Rivergate to I-5",45.609741,-122.760683,"Coal, Oil, Waste, etc.",1.303,2450,318.345,598,78.234,147,27.107,51
+"Col Blvd EB Chimney Park","Rivergate to I-5",45.609741,-122.760683,"Electronics",0.222,11,130.004,7,3.501,0,0,0
+"Col Blvd EB Chimney Park","Rivergate to I-5",45.609741,-122.760683,"Food",0.856,517,280.468,169,22.111,13,12.415,8
+"Col Blvd EB Chimney Park","Rivergate to I-5",45.609741,-122.760683,"Gravel, Sand, etc.",0.001,63,0.206,15,0.2,15,0.256,19
+"Col Blvd EB Chimney Park","Rivergate to I-5",45.609741,-122.760683,"Machinery",6.468,2091,1228.964,397,489.06,158,133.342,43
+"Col Blvd EB Chimney Park","Rivergate to I-5",45.609741,-122.760683,"Misc manufactured",0.278,50,57.288,10,0,0,0,0
+"Col Blvd EB Chimney Park","Rivergate to I-5",45.609741,-122.760683,"Motor Vehicles, etc.",9.487,615,1640.748,106,1239.999,80,215.645,14
+"Col Blvd EB Chimney Park","Rivergate to I-5",45.609741,-122.760683,"Wood, Paper, etc.",0.084,158,23.393,44,0.196,0,7.048,13
 "Col Blvd EB Interstate","Rivergate to I-5",45.586977,-122.69236,"Agriculture",0.12,269,62.476,140,5.733,13,0,0
 "Col Blvd EB Interstate","Rivergate to I-5",455.86977,-1226.9236,"All Goods",9.507,6316,4283.686,2393,595.236,362,47.554,44
 "Col Blvd EB Interstate","Rivergate to I-5",45.586977,-122.69236,"Chemical",1.233,2174,521.555,920,59.416,105,2.127,4
@@ -879,17 +879,17 @@
 "Col Blvd WB Interstate","Rivergate to I-5",45.586977,-122.69236,"Misc manufactured",0.146,26,16.804,3,16.342,3,0,0
 "Col Blvd WB Interstate","Rivergate to I-5",45.586977,-122.69236,"Motor Vehicles, etc.",2.507,163,173.568,11,126.975,8,11.5,1
 "Col Blvd WB Interstate","Rivergate to I-5",45.586977,-122.69236,"Wood, Paper, etc.",0.193,363,28.203,53,16.453,31,1.292,2
-"Lombard St NB Terminal 4","Rivergate to I-5",45.605778,-122.765516,"Agriculture",3.293,7375,854.957,1915,130.579,292,77.783,174
-"Lombard St NB Terminal 4","Rivergate to I-5",456.05778,-1227.65516,"All Goods",8.838,13703,1811.187,3297,445.726,762,190.91,302
-"Lombard St NB Terminal 4","Rivergate to I-5",45.605778,-122.765516,"Chemical",1.615,2848,399.441,704,112.356,198,26.102,46
-"Lombard St NB Terminal 4","Rivergate to I-5",45.605778,-122.765516,"Coal, Oil, Waste, etc.",1.55,2914,317.806,597,124.114,233,35.181,66
-"Lombard St NB Terminal 4","Rivergate to I-5",45.605778,-122.765516,"Electronics",0.04,2,0.788,0,18.399,1,0,0
-"Lombard St NB Terminal 4","Rivergate to I-5",45.605778,-122.765516,"Food",0.138,83,4.889,3,20.098,12,0,0
-"Lombard St NB Terminal 4","Rivergate to I-5",45.605778,-122.765516,"Gravel, Sand, etc.",0.001,40,0.056,4,0,0,0,0
-"Lombard St NB Terminal 4","Rivergate to I-5",45.605778,-122.765516,"Machinery",0.868,281,181.481,59,23.896,8,48.884,16
-"Lombard St NB Terminal 4","Rivergate to I-5",45.605778,-122.765516,"Misc manufactured",0.08,14,33.609,6,4.582,1,0,0
-"Lombard St NB Terminal 4","Rivergate to I-5",45.605778,-122.765516,"Motor Vehicles, etc.",1.217,79,14.413,1,3.166,0,2.96,0
-"Lombard St NB Terminal 4","Rivergate to I-5",45.605778,-122.765516,"Wood, Paper, etc.",0.035,66,3.747,7,8.535,16,0,0
+"Lombard St NB Terminal 4","Rivergate to I-5",45.605478,-122.765316,"Agriculture",3.293,7375,854.957,1915,130.579,292,77.783,174
+"Lombard St NB Terminal 4","Rivergate to I-5",456.05478,-1227.65316,"All Goods",8.838,13703,1811.187,3297,445.726,762,190.91,302
+"Lombard St NB Terminal 4","Rivergate to I-5",45.605478,-122.765316,"Chemical",1.615,2848,399.441,704,112.356,198,26.102,46
+"Lombard St NB Terminal 4","Rivergate to I-5",45.605478,-122.765316,"Coal, Oil, Waste, etc.",1.55,2914,317.806,597,124.114,233,35.181,66
+"Lombard St NB Terminal 4","Rivergate to I-5",45.605478,-122.765316,"Electronics",0.04,2,0.788,0,18.399,1,0,0
+"Lombard St NB Terminal 4","Rivergate to I-5",45.605478,-122.765316,"Food",0.138,83,4.889,3,20.098,12,0,0
+"Lombard St NB Terminal 4","Rivergate to I-5",45.605478,-122.765316,"Gravel, Sand, etc.",0.001,40,0.056,4,0,0,0,0
+"Lombard St NB Terminal 4","Rivergate to I-5",45.605478,-122.765316,"Machinery",0.868,281,181.481,59,23.896,8,48.884,16
+"Lombard St NB Terminal 4","Rivergate to I-5",45.605478,-122.765316,"Misc manufactured",0.08,14,33.609,6,4.582,1,0,0
+"Lombard St NB Terminal 4","Rivergate to I-5",45.605478,-122.765316,"Motor Vehicles, etc.",1.217,79,14.413,1,3.166,0,2.96,0
+"Lombard St NB Terminal 4","Rivergate to I-5",45.605478,-122.765316,"Wood, Paper, etc.",0.035,66,3.747,7,8.535,16,0,0
 "Lombard St SB Terminal 4","Rivergate to I-5",45.605178,-122.765916,"Agriculture",0.269,603,74.562,167,3.804,9,9.538,21
 "Lombard St SB Terminal 4","Rivergate to I-5",456.05178,-1227.65916,"All Goods",19.084,9515,8726.422,3609,860.937,408,173.73,201
 "Lombard St SB Terminal 4","Rivergate to I-5",45.605178,-122.765916,"Chemical",2.836,5001,1104.368,1947,117.806,208,54.942,97
@@ -934,17 +934,17 @@
 "Marine Drive WB I-5","Rivergate to I-5",45.606213,-122.6841,"Misc manufactured",1.575,282,243.335,44,22.792,4,0,0
 "Marine Drive WB I-5","Rivergate to I-5",45.606213,-122.6841,"Motor Vehicles, etc.",6.9,447,1525.885,99,583.588,38,626.344,41
 "Marine Drive WB I-5","Rivergate to I-5",45.606213,-122.6841,"Wood, Paper, etc.",1.695,3187,366.097,688,107.889,203,69.808,131
-"Marine Drive WB Ledbetter","Rivergate to I-5",45.629991,-122.744716,"Agriculture",2.119,4747,410.637,920,75.66,169,33.967,76
-"Marine Drive WB Ledbetter","Rivergate to I-5",456.29991,-1227.44716,"All Goods",11.821,8894,2806.104,1993,324.741,361,338.945,231
-"Marine Drive WB Ledbetter","Rivergate to I-5",45.629991,-122.744716,"Chemical",0.01,18,0.872,2,4.253,8,0,0
-"Marine Drive WB Ledbetter","Rivergate to I-5",45.629991,-122.744716,"Coal, Oil, Waste, etc.",0.689,1295,177.614,334,40.912,77,34.605,65
-"Marine Drive WB Ledbetter","Rivergate to I-5",45.629991,-122.744716,"Electronics",0.284,14,68.262,3,4.245,0,0,0
-"Marine Drive WB Ledbetter","Rivergate to I-5",45.629991,-122.744716,"Food",2.879,1739,753.817,455,144.38,87,96.352,58
-"Marine Drive WB Ledbetter","Rivergate to I-5",45.629991,-122.744716,"Gravel, Sand, etc.",0.001,61,0.206,15,0,0,0,0
-"Marine Drive WB Ledbetter","Rivergate to I-5",45.629991,-122.744716,"Machinery",0.673,218,234.816,76,2.816,1,28.239,9
-"Marine Drive WB Ledbetter","Rivergate to I-5",45.629991,-122.744716,"Misc manufactured",0.16,29,46.357,8,4.774,1,0,0
-"Marine Drive WB Ledbetter","Rivergate to I-5",45.629991,-122.744716,"Motor Vehicles, etc.",4.759,309,1054.358,68,39.614,3,138.817,9
-"Marine Drive WB Ledbetter","Rivergate to I-5",45.629991,-122.744716,"Wood, Paper, etc.",0.247,464,59.165,111,8.087,15,6.965,13
+"Marine Drive WB Ledbetter","Rivergate to I-5",45.629991,-122.743816,"Agriculture",2.119,4747,410.637,920,75.66,169,33.967,76
+"Marine Drive WB Ledbetter","Rivergate to I-5",456.29991,-1227.43816,"All Goods",11.821,8894,2806.104,1993,324.741,361,338.945,231
+"Marine Drive WB Ledbetter","Rivergate to I-5",45.629991,-122.743816,"Chemical",0.01,18,0.872,2,4.253,8,0,0
+"Marine Drive WB Ledbetter","Rivergate to I-5",45.629991,-122.743816,"Coal, Oil, Waste, etc.",0.689,1295,177.614,334,40.912,77,34.605,65
+"Marine Drive WB Ledbetter","Rivergate to I-5",45.629991,-122.743816,"Electronics",0.284,14,68.262,3,4.245,0,0,0
+"Marine Drive WB Ledbetter","Rivergate to I-5",45.629991,-122.743816,"Food",2.879,1739,753.817,455,144.38,87,96.352,58
+"Marine Drive WB Ledbetter","Rivergate to I-5",45.629991,-122.743816,"Gravel, Sand, etc.",0.001,61,0.206,15,0,0,0,0
+"Marine Drive WB Ledbetter","Rivergate to I-5",45.629991,-122.743816,"Machinery",0.673,218,234.816,76,2.816,1,28.239,9
+"Marine Drive WB Ledbetter","Rivergate to I-5",45.629991,-122.743816,"Misc manufactured",0.16,29,46.357,8,4.774,1,0,0
+"Marine Drive WB Ledbetter","Rivergate to I-5",45.629991,-122.743816,"Motor Vehicles, etc.",4.759,309,1054.358,68,39.614,3,138.817,9
+"Marine Drive WB Ledbetter","Rivergate to I-5",45.629991,-122.743816,"Wood, Paper, etc.",0.247,464,59.165,111,8.087,15,6.965,13
 "N Going St. EB","Rivergate to I-5",45.55649192,-122.6949746,"Agriculture",0.209,469,63.374,142,4.106,9,16.67,37
 "N Going St. EB","Rivergate to I-5",455.5649192,-1226.949746,"All Goods",16.495,11823,4461.814,3058,1185.465,747,502.489,396
 "N Going St. EB","Rivergate to I-5",45.55649192,-122.6949746,"Chemical",0.199,350,39.409,69,22.914,40,0.703,1
