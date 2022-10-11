@@ -1,70 +1,70 @@
 "Freight Flows","Corridor","Lat","Long","Grouping","Daily $M","Daily Tons","AM Peak (7:00-8:59am) $K","AM Peak (7:00-8:59am) Tons","MD 1HR (1:00-1:59pm) $K","MD 1HR (1:00-1:59pm) Tons","PM Peak (4:00-5:59pm) $K","PM Peak (4:00-5:59pm) Tons"
-"NE Cornell Road EB","Beaverton to Hillsboro",45.5377054729495,-122.904527045749,"Agriculture",0.101,227,32.342,72,8.371,19,0,0
-"NE Cornell Road EB","Beaverton to Hillsboro",455.377054729495,-1229.04527045749,"All Goods",2.689,1965,1121.726,616,48.893,94,42.527,9
-"NE Cornell Road EB","Beaverton to Hillsboro",45.5377054729495,-122.904527045749,"Chemical",0.64,1129,202.995,358,20.925,37,0,0
-"NE Cornell Road EB","Beaverton to Hillsboro",45.5377054729495,-122.904527045749,"Coal, Oil, Waste, etc.",0.041,78,12.49,23,1.214,2,0,0
-"NE Cornell Road EB","Beaverton to Hillsboro",45.5377054729495,-122.904527045749,"Electronics",1.255,64,527.098,27,2.957,0,0,0
-"NE Cornell Road EB","Beaverton to Hillsboro",45.5377054729495,-122.904527045749,"Food",0.038,23,0,0,0,0,0,0
-"NE Cornell Road EB","Beaverton to Hillsboro",45.5377054729495,-122.904527045749,"Gravel, Sand, etc.",0,34,0,0,0.103,8,0,0
-"NE Cornell Road EB","Beaverton to Hillsboro",45.5377054729495,-122.904527045749,"Machinery",0.202,65,103.241,33,0,0,0,0
-"NE Cornell Road EB","Beaverton to Hillsboro",45.5377054729495,-122.904527045749,"Misc manufactured",0.251,45,209.244,38,0,0,41.849,8
-"NE Cornell Road EB","Beaverton to Hillsboro",45.5377054729495,-122.904527045749,"Motor Vehicles, etc.",0,0,0,0,0,0,0,0
-"NE Cornell Road EB","Beaverton to Hillsboro",45.5377054729495,-122.904527045749,"Wood, Paper, etc.",0.16,301,34.316,65,15.323,29,0.678,1
-"NE Cornell Road WB","Beaverton to Hillsboro",45.5384776834503,-122.905162412527,"Agriculture",0.002,5,0.102,0,0.048,0,0.195,0
-"NE Cornell Road WB","Beaverton to Hillsboro",455.384776834503,-1229.05162412527,"All Goods",8.839,4575,2337.633,1035,602.947,273,378.598,79
-"NE Cornell Road WB","Beaverton to Hillsboro",45.5384776834503,-122.905162412527,"Chemical",0.738,1301,134.604,237,33.77,60,7.69,14
-"NE Cornell Road WB","Beaverton to Hillsboro",45.5384776834503,-122.905162412527,"Coal, Oil, Waste, etc.",0.411,773,89.869,169,20.606,39,0.389,1
-"NE Cornell Road WB","Beaverton to Hillsboro",45.5384776834503,-122.905162412527,"Electronics",1.748,89,467.1,24,0,0,207.163,11
-"NE Cornell Road WB","Beaverton to Hillsboro",45.5384776834503,-122.905162412527,"Food",0.36,218,95.557,58,12.267,7,0,0
-"NE Cornell Road WB","Beaverton to Hillsboro",45.5384776834503,-122.905162412527,"Gravel, Sand, etc.",0.003,229,0.826,60,0.06,4,0,0
-"NE Cornell Road WB","Beaverton to Hillsboro",45.5384776834503,-122.905162412527,"Machinery",4.828,1561,1282.681,415,407.804,132,162.531,53
-"NE Cornell Road WB","Beaverton to Hillsboro",45.5384776834503,-122.905162412527,"Misc manufactured",0.089,16,5.728,1,0,0,0,0
-"NE Cornell Road WB","Beaverton to Hillsboro",45.5384776834503,-122.905162412527,"Motor Vehicles, etc.",0.471,31,231.362,15,115.681,8,0,0
-"NE Cornell Road WB","Beaverton to Hillsboro",45.5384776834503,-122.905162412527,"Wood, Paper, etc.",0.188,353,29.804,56,12.711,24,0.629,1
-"NE Evergreen Road EB","Beaverton to Hillsboro",45.5493190499164,-122.909250203433,"Agriculture",0.055,123,13.729,31,0,0,5.357,12
-"NE Evergreen Road EB","Beaverton to Hillsboro",455.493190499164,-1229.09250203433,"All Goods",4.099,512,664.447,106,117.288,21,134.269,19
-"NE Evergreen Road EB","Beaverton to Hillsboro",45.5493190499164,-122.909250203433,"Chemical",0.087,153,24.363,43,8.506,15,0,0
-"NE Evergreen Road EB","Beaverton to Hillsboro",45.5493190499164,-122.909250203433,"Coal, Oil, Waste, etc.",0,0,0,0,0,0,0,0
-"NE Evergreen Road EB","Beaverton to Hillsboro",45.5493190499164,-122.909250203433,"Electronics",3.8,193,626.23,32,108.712,6,128.891,7
-"NE Evergreen Road EB","Beaverton to Hillsboro",45.5493190499164,-122.909250203433,"Food",0.023,14,0,0,0,0,0,0
-"NE Evergreen Road EB","Beaverton to Hillsboro",45.5493190499164,-122.909250203433,"Gravel, Sand, etc.",0,0,0,0,0,0,0,0
-"NE Evergreen Road EB","Beaverton to Hillsboro",45.5493190499164,-122.909250203433,"Machinery",0.025,8,0,0,0.07,0,0,0
-"NE Evergreen Road EB","Beaverton to Hillsboro",45.5493190499164,-122.909250203433,"Misc manufactured",0.109,19,0,0,0,0,0,0
-"NE Evergreen Road EB","Beaverton to Hillsboro",45.5493190499164,-122.909250203433,"Motor Vehicles, etc.",0,0,0,0,0,0,0,0
-"NE Evergreen Road EB","Beaverton to Hillsboro",45.5493190499164,-122.909250203433,"Wood, Paper, etc.",0.001,3,0.126,0,0,0,0.02,0
-"NE Evergreen Road WB","Beaverton to Hillsboro",45.5501214081984,-122.908653360751,"Agriculture",0,1,0,0,0,0,0,0
-"NE Evergreen Road WB","Beaverton to Hillsboro",455.501214081984,-1229.08653360751,"All Goods",6.784,3082,2122.683,801,149.883,210,5.32,10
-"NE Evergreen Road WB","Beaverton to Hillsboro",45.5501214081984,-122.908653360751,"Chemical",1.247,2198,306.362,540,103.14,182,0,0
-"NE Evergreen Road WB","Beaverton to Hillsboro",45.5501214081984,-122.908653360751,"Coal, Oil, Waste, etc.",0.073,138,10.29,19,8.076,15,5.32,10
-"NE Evergreen Road WB","Beaverton to Hillsboro",45.5501214081984,-122.908653360751,"Electronics",3.852,195,1327.292,67,0,0,0,0
-"NE Evergreen Road WB","Beaverton to Hillsboro",45.5501214081984,-122.908653360751,"Food",0.082,50,22.385,14,0,0,0,0
-"NE Evergreen Road WB","Beaverton to Hillsboro",45.5501214081984,-122.908653360751,"Gravel, Sand, etc.",0,31,0.163,12,0,0,0,0
-"NE Evergreen Road WB","Beaverton to Hillsboro",45.5501214081984,-122.908653360751,"Machinery",1.344,434,455.544,147,38.667,12,0,0
-"NE Evergreen Road WB","Beaverton to Hillsboro",45.5501214081984,-122.908653360751,"Misc manufactured",0.167,30,0,0,0,0,0,0
-"NE Evergreen Road WB","Beaverton to Hillsboro",45.5501214081984,-122.908653360751,"Motor Vehicles, etc.",0.016,1,0,0,0,0,0,0
-"NE Evergreen Road WB","Beaverton to Hillsboro",45.5501214081984,-122.908653360751,"Wood, Paper, etc.",0.002,4,0.646,1,0,0,0,0
-"NW Cornelius Pass Road NB US 26","Beaverton to Hillsboro",45.5577324616288,-122.899567789711,"Agriculture",1.944,4355,443.517,993,93.355,209,34.575,77
-"NW Cornelius Pass Road NB US 26","Beaverton to Hillsboro",455.577324616288,-1228.99567789711,"All Goods",5.895,8851,1306.841,2071,245.314,453,122.053,197
-"NW Cornelius Pass Road NB US 26","Beaverton to Hillsboro",45.5577324616288,-122.899567789711,"Chemical",1.123,1981,281.933,497,62.59,110,22.127,39
-"NW Cornelius Pass Road NB US 26","Beaverton to Hillsboro",45.5577324616288,-122.899567789711,"Coal, Oil, Waste, etc.",0.883,1659,229.248,431,62.731,118,17.628,33
-"NW Cornelius Pass Road NB US 26","Beaverton to Hillsboro",45.5577324616288,-122.899567789711,"Electronics",0.659,33,121.841,6,10.191,1,8.205,0
-"NW Cornelius Pass Road NB US 26","Beaverton to Hillsboro",45.5577324616288,-122.899567789711,"Food",0.224,135,25.754,16,12.415,8,29.102,18
-"NW Cornelius Pass Road NB US 26","Beaverton to Hillsboro",45.5577324616288,-122.899567789711,"Gravel, Sand, etc.",0.002,122,0.544,40,0,0,0.141,10
-"NW Cornelius Pass Road NB US 26","Beaverton to Hillsboro",45.5577324616288,-122.899567789711,"Machinery",0.701,227,125.415,41,0.182,0,0.006,0
-"NW Cornelius Pass Road NB US 26","Beaverton to Hillsboro",45.5577324616288,-122.899567789711,"Misc manufactured",0.197,35,58.862,11,0,0,0,0
-"NW Cornelius Pass Road NB US 26","Beaverton to Hillsboro",45.5577324616288,-122.899567789711,"Motor Vehicles, etc.",0.001,0,0.162,0,0,0,0,0
-"NW Cornelius Pass Road NB US 26","Beaverton to Hillsboro",45.5577324616288,-122.899567789711,"Wood, Paper, etc.",0.162,304,19.564,37,3.851,7,10.268,19
-"NW Cornelius Pass Road SB US 26","Beaverton to Hillsboro",45.5583400547837,-122.900362038134,"Agriculture",0.231,518,28.023,63,8.373,19,9.208,21
-"NW Cornelius Pass Road SB US 26","Beaverton to Hillsboro",455.583400547837,-1229.00362038134,"All Goods",9.598,8585,2446.141,1924,552.675,482,136.083,184
-"NW Cornelius Pass Road SB US 26","Beaverton to Hillsboro",45.5583400547837,-122.900362038134,"Chemical",2.444,4311,561.389,990,167.318,295,33.883,60
-"NW Cornelius Pass Road SB US 26","Beaverton to Hillsboro",45.5583400547837,-122.900362038134,"Coal, Oil, Waste, etc.",0.678,1275,125.623,236,43.545,82,13.125,25
-"NW Cornelius Pass Road SB US 26","Beaverton to Hillsboro",45.5583400547837,-122.900362038134,"Electronics",0.939,48,256.311,13,39.586,2,11.539,1
-"NW Cornelius Pass Road SB US 26","Beaverton to Hillsboro",45.5583400547837,-122.900362038134,"Food",0.661,400,79.599,48,29.708,18,0,0
-"NW Cornelius Pass Road SB US 26","Beaverton to Hillsboro",45.5583400547837,-122.900362038134,"Gravel, Sand, etc.",0.01,736,2.946,216,0.252,18,0.256,19
-"NW Cornelius Pass Road SB US 26","Beaverton to Hillsboro",45.5583400547837,-122.900362038134,"Machinery",2.512,812,794.84,257,114.427,37,43.71,14
-"NW Cornelius Pass Road SB US 26","Beaverton to Hillsboro",45.5583400547837,-122.900362038134,"Misc manufactured",0.682,122,141.697,25,2.618,0,0,0
-"NW Cornelius Pass Road SB US 26","Beaverton to Hillsboro",45.5583400547837,-122.900362038134,"Motor Vehicles, etc.",1.29,84,429.897,28,146.529,10,0.095,0
-"NW Cornelius Pass Road SB US 26","Beaverton to Hillsboro",45.5583400547837,-122.900362038134,"Wood, Paper, etc.",0.15,281,25.815,49,0.319,1,24.266,46
+"NE Cornell Road EB","Beaverton to Hillsboro",45.53770547,-122.904527,"Agriculture",0.101,227,32.342,72,8.371,19,0,0
+"NE Cornell Road EB","Beaverton to Hillsboro",455.3770547,-1229.04527,"All Goods",2.689,1965,1121.726,616,48.893,94,42.527,9
+"NE Cornell Road EB","Beaverton to Hillsboro",45.53770547,-122.904527,"Chemical",0.64,1129,202.995,358,20.925,37,0,0
+"NE Cornell Road EB","Beaverton to Hillsboro",45.53770547,-122.904527,"Coal, Oil, Waste, etc.",0.041,78,12.49,23,1.214,2,0,0
+"NE Cornell Road EB","Beaverton to Hillsboro",45.53770547,-122.904527,"Electronics",1.255,64,527.098,27,2.957,0,0,0
+"NE Cornell Road EB","Beaverton to Hillsboro",45.53770547,-122.904527,"Food",0.038,23,0,0,0,0,0,0
+"NE Cornell Road EB","Beaverton to Hillsboro",45.53770547,-122.904527,"Gravel, Sand, etc.",0,34,0,0,0.103,8,0,0
+"NE Cornell Road EB","Beaverton to Hillsboro",45.53770547,-122.904527,"Machinery",0.202,65,103.241,33,0,0,0,0
+"NE Cornell Road EB","Beaverton to Hillsboro",45.53770547,-122.904527,"Misc manufactured",0.251,45,209.244,38,0,0,41.849,8
+"NE Cornell Road EB","Beaverton to Hillsboro",45.53770547,-122.904527,"Motor Vehicles, etc.",0,0,0,0,0,0,0,0
+"NE Cornell Road EB","Beaverton to Hillsboro",45.53770547,-122.904527,"Wood, Paper, etc.",0.16,301,34.316,65,15.323,29,0.678,1
+"NE Cornell Road WB","Beaverton to Hillsboro",45.53847768,-122.9051624,"Agriculture",0.002,5,0.102,0,0.048,0,0.195,0
+"NE Cornell Road WB","Beaverton to Hillsboro",455.3847768,-1229.051624,"All Goods",8.839,4575,2337.633,1035,602.947,273,378.598,79
+"NE Cornell Road WB","Beaverton to Hillsboro",45.53847768,-122.9051624,"Chemical",0.738,1301,134.604,237,33.77,60,7.69,14
+"NE Cornell Road WB","Beaverton to Hillsboro",45.53847768,-122.9051624,"Coal, Oil, Waste, etc.",0.411,773,89.869,169,20.606,39,0.389,1
+"NE Cornell Road WB","Beaverton to Hillsboro",45.53847768,-122.9051624,"Electronics",1.748,89,467.1,24,0,0,207.163,11
+"NE Cornell Road WB","Beaverton to Hillsboro",45.53847768,-122.9051624,"Food",0.36,218,95.557,58,12.267,7,0,0
+"NE Cornell Road WB","Beaverton to Hillsboro",45.53847768,-122.9051624,"Gravel, Sand, etc.",0.003,229,0.826,60,0.06,4,0,0
+"NE Cornell Road WB","Beaverton to Hillsboro",45.53847768,-122.9051624,"Machinery",4.828,1561,1282.681,415,407.804,132,162.531,53
+"NE Cornell Road WB","Beaverton to Hillsboro",45.53847768,-122.9051624,"Misc manufactured",0.089,16,5.728,1,0,0,0,0
+"NE Cornell Road WB","Beaverton to Hillsboro",45.53847768,-122.9051624,"Motor Vehicles, etc.",0.471,31,231.362,15,115.681,8,0,0
+"NE Cornell Road WB","Beaverton to Hillsboro",45.53847768,-122.9051624,"Wood, Paper, etc.",0.188,353,29.804,56,12.711,24,0.629,1
+"NE Evergreen Road EB","Beaverton to Hillsboro",45.54931905,-122.9092502,"Agriculture",0.055,123,13.729,31,0,0,5.357,12
+"NE Evergreen Road EB","Beaverton to Hillsboro",455.4931905,-1229.092502,"All Goods",4.099,512,664.447,106,117.288,21,134.269,19
+"NE Evergreen Road EB","Beaverton to Hillsboro",45.54931905,-122.9092502,"Chemical",0.087,153,24.363,43,8.506,15,0,0
+"NE Evergreen Road EB","Beaverton to Hillsboro",45.54931905,-122.9092502,"Coal, Oil, Waste, etc.",0,0,0,0,0,0,0,0
+"NE Evergreen Road EB","Beaverton to Hillsboro",45.54931905,-122.9092502,"Electronics",3.8,193,626.23,32,108.712,6,128.891,7
+"NE Evergreen Road EB","Beaverton to Hillsboro",45.54931905,-122.9092502,"Food",0.023,14,0,0,0,0,0,0
+"NE Evergreen Road EB","Beaverton to Hillsboro",45.54931905,-122.9092502,"Gravel, Sand, etc.",0,0,0,0,0,0,0,0
+"NE Evergreen Road EB","Beaverton to Hillsboro",45.54931905,-122.9092502,"Machinery",0.025,8,0,0,0.07,0,0,0
+"NE Evergreen Road EB","Beaverton to Hillsboro",45.54931905,-122.9092502,"Misc manufactured",0.109,19,0,0,0,0,0,0
+"NE Evergreen Road EB","Beaverton to Hillsboro",45.54931905,-122.9092502,"Motor Vehicles, etc.",0,0,0,0,0,0,0,0
+"NE Evergreen Road EB","Beaverton to Hillsboro",45.54931905,-122.9092502,"Wood, Paper, etc.",0.001,3,0.126,0,0,0,0.02,0
+"NE Evergreen Road WB","Beaverton to Hillsboro",45.55012141,-122.9086534,"Agriculture",0,1,0,0,0,0,0,0
+"NE Evergreen Road WB","Beaverton to Hillsboro",455.5012141,-1229.086534,"All Goods",6.784,3082,2122.683,801,149.883,210,5.32,10
+"NE Evergreen Road WB","Beaverton to Hillsboro",45.55012141,-122.9086534,"Chemical",1.247,2198,306.362,540,103.14,182,0,0
+"NE Evergreen Road WB","Beaverton to Hillsboro",45.55012141,-122.9086534,"Coal, Oil, Waste, etc.",0.073,138,10.29,19,8.076,15,5.32,10
+"NE Evergreen Road WB","Beaverton to Hillsboro",45.55012141,-122.9086534,"Electronics",3.852,195,1327.292,67,0,0,0,0
+"NE Evergreen Road WB","Beaverton to Hillsboro",45.55012141,-122.9086534,"Food",0.082,50,22.385,14,0,0,0,0
+"NE Evergreen Road WB","Beaverton to Hillsboro",45.55012141,-122.9086534,"Gravel, Sand, etc.",0,31,0.163,12,0,0,0,0
+"NE Evergreen Road WB","Beaverton to Hillsboro",45.55012141,-122.9086534,"Machinery",1.344,434,455.544,147,38.667,12,0,0
+"NE Evergreen Road WB","Beaverton to Hillsboro",45.55012141,-122.9086534,"Misc manufactured",0.167,30,0,0,0,0,0,0
+"NE Evergreen Road WB","Beaverton to Hillsboro",45.55012141,-122.9086534,"Motor Vehicles, etc.",0.016,1,0,0,0,0,0,0
+"NE Evergreen Road WB","Beaverton to Hillsboro",45.55012141,-122.9086534,"Wood, Paper, etc.",0.002,4,0.646,1,0,0,0,0
+"NW Cornelius Pass Road NB US 26","Beaverton to Hillsboro",45.55773246,-122.8995678,"Agriculture",1.944,4355,443.517,993,93.355,209,34.575,77
+"NW Cornelius Pass Road NB US 26","Beaverton to Hillsboro",455.5773246,-1228.995678,"All Goods",5.895,8851,1306.841,2071,245.314,453,122.053,197
+"NW Cornelius Pass Road NB US 26","Beaverton to Hillsboro",45.55773246,-122.8995678,"Chemical",1.123,1981,281.933,497,62.59,110,22.127,39
+"NW Cornelius Pass Road NB US 26","Beaverton to Hillsboro",45.55773246,-122.8995678,"Coal, Oil, Waste, etc.",0.883,1659,229.248,431,62.731,118,17.628,33
+"NW Cornelius Pass Road NB US 26","Beaverton to Hillsboro",45.55773246,-122.8995678,"Electronics",0.659,33,121.841,6,10.191,1,8.205,0
+"NW Cornelius Pass Road NB US 26","Beaverton to Hillsboro",45.55773246,-122.8995678,"Food",0.224,135,25.754,16,12.415,8,29.102,18
+"NW Cornelius Pass Road NB US 26","Beaverton to Hillsboro",45.55773246,-122.8995678,"Gravel, Sand, etc.",0.002,122,0.544,40,0,0,0.141,10
+"NW Cornelius Pass Road NB US 26","Beaverton to Hillsboro",45.55773246,-122.8995678,"Machinery",0.701,227,125.415,41,0.182,0,0.006,0
+"NW Cornelius Pass Road NB US 26","Beaverton to Hillsboro",45.55773246,-122.8995678,"Misc manufactured",0.197,35,58.862,11,0,0,0,0
+"NW Cornelius Pass Road NB US 26","Beaverton to Hillsboro",45.55773246,-122.8995678,"Motor Vehicles, etc.",0.001,0,0.162,0,0,0,0,0
+"NW Cornelius Pass Road NB US 26","Beaverton to Hillsboro",45.55773246,-122.8995678,"Wood, Paper, etc.",0.162,304,19.564,37,3.851,7,10.268,19
+"NW Cornelius Pass Road SB US 26","Beaverton to Hillsboro",45.55834005,-122.900362,"Agriculture",0.231,518,28.023,63,8.373,19,9.208,21
+"NW Cornelius Pass Road SB US 26","Beaverton to Hillsboro",455.5834005,-1229.00362,"All Goods",9.598,8585,2446.141,1924,552.675,482,136.083,184
+"NW Cornelius Pass Road SB US 26","Beaverton to Hillsboro",45.55834005,-122.900362,"Chemical",2.444,4311,561.389,990,167.318,295,33.883,60
+"NW Cornelius Pass Road SB US 26","Beaverton to Hillsboro",45.55834005,-122.900362,"Coal, Oil, Waste, etc.",0.678,1275,125.623,236,43.545,82,13.125,25
+"NW Cornelius Pass Road SB US 26","Beaverton to Hillsboro",45.55834005,-122.900362,"Electronics",0.939,48,256.311,13,39.586,2,11.539,1
+"NW Cornelius Pass Road SB US 26","Beaverton to Hillsboro",45.55834005,-122.900362,"Food",0.661,400,79.599,48,29.708,18,0,0
+"NW Cornelius Pass Road SB US 26","Beaverton to Hillsboro",45.55834005,-122.900362,"Gravel, Sand, etc.",0.01,736,2.946,216,0.252,18,0.256,19
+"NW Cornelius Pass Road SB US 26","Beaverton to Hillsboro",45.55834005,-122.900362,"Machinery",2.512,812,794.84,257,114.427,37,43.71,14
+"NW Cornelius Pass Road SB US 26","Beaverton to Hillsboro",45.55834005,-122.900362,"Misc manufactured",0.682,122,141.697,25,2.618,0,0,0
+"NW Cornelius Pass Road SB US 26","Beaverton to Hillsboro",45.55834005,-122.900362,"Motor Vehicles, etc.",1.29,84,429.897,28,146.529,10,0.095,0
+"NW Cornelius Pass Road SB US 26","Beaverton to Hillsboro",45.55834005,-122.900362,"Wood, Paper, etc.",0.15,281,25.815,49,0.319,1,24.266,46
 "US-26 EB Cedar Hills","Beaverton to Hillsboro",45.517317,-122.805484,"Agriculture",1.338,2998,395.815,887,57.239,128,26.564,60
 "US-26 EB Cedar Hills","Beaverton to Hillsboro",455.17317,-1228.05484,"All Goods",21.248,17356,5177.877,3980,1503.556,1003,592.23,686
 "US-26 EB Cedar Hills","Beaverton to Hillsboro",45.517317,-122.805484,"Chemical",0.31,547,122.574,216,42.162,74,0,0
@@ -175,50 +175,50 @@
 "Lombard St WB OR 99E","Columbia Corridor",45.577721,-122.65723,"Misc manufactured",0.084,15,83.698,15,0,0,0,0
 "Lombard St WB OR 99E","Columbia Corridor",45.577721,-122.65723,"Motor Vehicles, etc.",0,0,0,0,0,0,0,0
 "Lombard St WB OR 99E","Columbia Corridor",45.577721,-122.65723,"Wood, Paper, etc.",0.125,235,34.755,65,5.396,10,0,0
-"NE Columbia Blvd EB","Columbia Corridor",45.5693105173144,-122.6078339369,"Agriculture",0.079,178,23.661,53,6.154,14,0,0
-"NE Columbia Blvd EB","Columbia Corridor",455.693105173144,-1226.078339369,"All Goods",14.251,10320,2769.414,1976,727.537,625,441.433,233
-"NE Columbia Blvd EB","Columbia Corridor",45.5693105173144,-122.6078339369,"Chemical",0.834,1471,189.028,333,40.853,72,2.127,4
-"NE Columbia Blvd EB","Columbia Corridor",45.5693105173144,-122.6078339369,"Coal, Oil, Waste, etc.",2.559,4810,471.693,887,144.83,272,84.423,159
-"NE Columbia Blvd EB","Columbia Corridor",45.5693105173144,-122.6078339369,"Electronics",1.801,91,284.097,14,17.039,1,80.588,4
-"NE Columbia Blvd EB","Columbia Corridor",45.5693105173144,-122.6078339369,"Food",1.525,921,282.91,171,39.038,24,24.83,15
-"NE Columbia Blvd EB","Columbia Corridor",45.5693105173144,-122.6078339369,"Gravel, Sand, etc.",0.007,548,1.693,124,0.669,49,0,0
-"NE Columbia Blvd EB","Columbia Corridor",45.5693105173144,-122.6078339369,"Machinery",3.974,1285,776.038,251,454.36,147,133.426,43
-"NE Columbia Blvd EB","Columbia Corridor",45.5693105173144,-122.6078339369,"Misc manufactured",0.436,78,5.477,1,0,0,0,0
-"NE Columbia Blvd EB","Columbia Corridor",45.5693105173144,-122.6078339369,"Motor Vehicles, etc.",2.627,170,682.737,44,0,0,115.681,8
-"NE Columbia Blvd EB","Columbia Corridor",45.5693105173144,-122.6078339369,"Wood, Paper, etc.",0.408,766,52.08,98,24.594,46,0.359,1
-"NE Columbia Blvd WB","Columbia Corridor",45.5703010293856,-122.60769651115,"Agriculture",0.505,1132,104.425,234,11.767,26,14.564,33
-"NE Columbia Blvd WB","Columbia Corridor",455.703010293856,-1226.0769651115,"All Goods",12.016,6942,3006.116,1660,537.662,300,234.685,217
-"NE Columbia Blvd WB","Columbia Corridor",45.5703010293856,-122.60769651115,"Chemical",0.567,1000,137.233,242,5.359,9,12.08,21
-"NE Columbia Blvd WB","Columbia Corridor",45.5703010293856,-122.60769651115,"Coal, Oil, Waste, etc.",0.836,1571,236.688,445,59.122,111,14.737,28
-"NE Columbia Blvd WB","Columbia Corridor",45.5703010293856,-122.60769651115,"Electronics",2.949,150,834.682,42,142.507,7,11.808,1
-"NE Columbia Blvd WB","Columbia Corridor",45.5703010293856,-122.60769651115,"Food",2.367,1430,480.355,290,94.349,57,146.683,89
-"NE Columbia Blvd WB","Columbia Corridor",45.5703010293856,-122.60769651115,"Gravel, Sand, etc.",0.004,322,0.375,27,0.273,20,0.273,20
-"NE Columbia Blvd WB","Columbia Corridor",45.5703010293856,-122.60769651115,"Machinery",1.253,405,459.948,149,57.785,19,20.75,7
-"NE Columbia Blvd WB","Columbia Corridor",45.5703010293856,-122.60769651115,"Misc manufactured",0.324,58,190.737,34,4.261,1,3.842,1
-"NE Columbia Blvd WB","Columbia Corridor",45.5703010293856,-122.60769651115,"Motor Vehicles, etc.",2.844,184,473.357,31,141.012,9,0.108,0
-"NE Columbia Blvd WB","Columbia Corridor",45.5703010293856,-122.60769651115,"Wood, Paper, etc.",0.367,691,88.315,166,21.228,40,9.84,18
-"NE Lombard St. EB NE 42nd","Columbia Corridor",45.5681623864649,-122.610078121872,"Agriculture",0.028,63,6.789,15,0,0,6.949,16
-"NE Lombard St. EB NE 42nd","Columbia Corridor",455.681623864649,-1226.10078121872,"All Goods",1.189,1060,575.921,439,42.872,48,6.949,16
-"NE Lombard St. EB NE 42nd","Columbia Corridor",45.5681623864649,-122.610078121872,"Chemical",0.043,75,26.395,47,0,0,0,0
-"NE Lombard St. EB NE 42nd","Columbia Corridor",45.5681623864649,-122.610078121872,"Coal, Oil, Waste, etc.",0.265,499,100.539,189,14.987,28,0,0
-"NE Lombard St. EB NE 42nd","Columbia Corridor",45.5681623864649,-122.610078121872,"Electronics",0.101,5,80.644,4,6.189,0,0,0
-"NE Lombard St. EB NE 42nd","Columbia Corridor",45.5681623864649,-122.610078121872,"Food",0.365,221,120.671,73,16.847,10,0,0
-"NE Lombard St. EB NE 42nd","Columbia Corridor",45.5681623864649,-122.610078121872,"Gravel, Sand, etc.",0,32,0.357,26,0,0,0,0
-"NE Lombard St. EB NE 42nd","Columbia Corridor",45.5681623864649,-122.610078121872,"Machinery",0.194,63,98.758,32,0,0,0,0
-"NE Lombard St. EB NE 42nd","Columbia Corridor",45.5681623864649,-122.610078121872,"Misc manufactured",0,0,0,0,0,0,0,0
-"NE Lombard St. EB NE 42nd","Columbia Corridor",45.5681623864649,-122.610078121872,"Motor Vehicles, etc.",0.142,9,117.794,8,0,0,0,0
-"NE Lombard St. EB NE 42nd","Columbia Corridor",45.5681623864649,-122.610078121872,"Wood, Paper, etc.",0.05,93,23.974,45,4.85,9,0,0
-"NE Lombard St. WB NE 42nd","Columbia Corridor",45.5691487849521,-122.609913750268,"Agriculture",0.01,22,3.111,7,0.564,1,0,0
-"NE Lombard St. WB NE 42nd","Columbia Corridor",455.691487849521,-1226.09913750268,"All Goods",1.831,1103,696.829,405,40.322,27,77.068,27
-"NE Lombard St. WB NE 42nd","Columbia Corridor",45.5691487849521,-122.609913750268,"Chemical",0.011,20,1.733,3,0,0,0,0
-"NE Lombard St. WB NE 42nd","Columbia Corridor",45.5691487849521,-122.609913750268,"Coal, Oil, Waste, etc.",0.151,283,63.756,120,0.874,2,0,0
-"NE Lombard St. WB NE 42nd","Columbia Corridor",45.5691487849521,-122.609913750268,"Electronics",0.135,7,88.846,5,0.739,0,0,0
-"NE Lombard St. WB NE 42nd","Columbia Corridor",45.5691487849521,-122.609913750268,"Food",0.654,395,222.054,134,37.245,22,28.361,17
-"NE Lombard St. WB NE 42nd","Columbia Corridor",45.5691487849521,-122.609913750268,"Gravel, Sand, etc.",0.003,193,0.791,58,0,0,0,0
-"NE Lombard St. WB NE 42nd","Columbia Corridor",45.5691487849521,-122.609913750268,"Machinery",0.164,53,106.325,34,0,0,6.859,2
-"NE Lombard St. WB NE 42nd","Columbia Corridor",45.5691487849521,-122.609913750268,"Misc manufactured",0.084,15,0,0,0,0,41.849,8
-"NE Lombard St. WB NE 42nd","Columbia Corridor",45.5691487849521,-122.609913750268,"Motor Vehicles, etc.",0.579,38,193.241,13,0,0,0,0
-"NE Lombard St. WB NE 42nd","Columbia Corridor",45.5691487849521,-122.609913750268,"Wood, Paper, etc.",0.041,77,16.972,32,0.9,2,0,0
+"NE Columbia Blvd EB","Columbia Corridor",45.56931052,-122.6078339,"Agriculture",0.079,178,23.661,53,6.154,14,0,0
+"NE Columbia Blvd EB","Columbia Corridor",455.6931052,-1226.078339,"All Goods",14.251,10320,2769.414,1976,727.537,625,441.433,233
+"NE Columbia Blvd EB","Columbia Corridor",45.56931052,-122.6078339,"Chemical",0.834,1471,189.028,333,40.853,72,2.127,4
+"NE Columbia Blvd EB","Columbia Corridor",45.56931052,-122.6078339,"Coal, Oil, Waste, etc.",2.559,4810,471.693,887,144.83,272,84.423,159
+"NE Columbia Blvd EB","Columbia Corridor",45.56931052,-122.6078339,"Electronics",1.801,91,284.097,14,17.039,1,80.588,4
+"NE Columbia Blvd EB","Columbia Corridor",45.56931052,-122.6078339,"Food",1.525,921,282.91,171,39.038,24,24.83,15
+"NE Columbia Blvd EB","Columbia Corridor",45.56931052,-122.6078339,"Gravel, Sand, etc.",0.007,548,1.693,124,0.669,49,0,0
+"NE Columbia Blvd EB","Columbia Corridor",45.56931052,-122.6078339,"Machinery",3.974,1285,776.038,251,454.36,147,133.426,43
+"NE Columbia Blvd EB","Columbia Corridor",45.56931052,-122.6078339,"Misc manufactured",0.436,78,5.477,1,0,0,0,0
+"NE Columbia Blvd EB","Columbia Corridor",45.56931052,-122.6078339,"Motor Vehicles, etc.",2.627,170,682.737,44,0,0,115.681,8
+"NE Columbia Blvd EB","Columbia Corridor",45.56931052,-122.6078339,"Wood, Paper, etc.",0.408,766,52.08,98,24.594,46,0.359,1
+"NE Columbia Blvd WB","Columbia Corridor",45.57030103,-122.6076965,"Agriculture",0.505,1132,104.425,234,11.767,26,14.564,33
+"NE Columbia Blvd WB","Columbia Corridor",455.7030103,-1226.076965,"All Goods",12.016,6942,3006.116,1660,537.662,300,234.685,217
+"NE Columbia Blvd WB","Columbia Corridor",45.57030103,-122.6076965,"Chemical",0.567,1000,137.233,242,5.359,9,12.08,21
+"NE Columbia Blvd WB","Columbia Corridor",45.57030103,-122.6076965,"Coal, Oil, Waste, etc.",0.836,1571,236.688,445,59.122,111,14.737,28
+"NE Columbia Blvd WB","Columbia Corridor",45.57030103,-122.6076965,"Electronics",2.949,150,834.682,42,142.507,7,11.808,1
+"NE Columbia Blvd WB","Columbia Corridor",45.57030103,-122.6076965,"Food",2.367,1430,480.355,290,94.349,57,146.683,89
+"NE Columbia Blvd WB","Columbia Corridor",45.57030103,-122.6076965,"Gravel, Sand, etc.",0.004,322,0.375,27,0.273,20,0.273,20
+"NE Columbia Blvd WB","Columbia Corridor",45.57030103,-122.6076965,"Machinery",1.253,405,459.948,149,57.785,19,20.75,7
+"NE Columbia Blvd WB","Columbia Corridor",45.57030103,-122.6076965,"Misc manufactured",0.324,58,190.737,34,4.261,1,3.842,1
+"NE Columbia Blvd WB","Columbia Corridor",45.57030103,-122.6076965,"Motor Vehicles, etc.",2.844,184,473.357,31,141.012,9,0.108,0
+"NE Columbia Blvd WB","Columbia Corridor",45.57030103,-122.6076965,"Wood, Paper, etc.",0.367,691,88.315,166,21.228,40,9.84,18
+"NE Lombard St. EB NE 42nd","Columbia Corridor",45.56816239,-122.6100781,"Agriculture",0.028,63,6.789,15,0,0,6.949,16
+"NE Lombard St. EB NE 42nd","Columbia Corridor",455.6816239,-1226.100781,"All Goods",1.189,1060,575.921,439,42.872,48,6.949,16
+"NE Lombard St. EB NE 42nd","Columbia Corridor",45.56816239,-122.6100781,"Chemical",0.043,75,26.395,47,0,0,0,0
+"NE Lombard St. EB NE 42nd","Columbia Corridor",45.56816239,-122.6100781,"Coal, Oil, Waste, etc.",0.265,499,100.539,189,14.987,28,0,0
+"NE Lombard St. EB NE 42nd","Columbia Corridor",45.56816239,-122.6100781,"Electronics",0.101,5,80.644,4,6.189,0,0,0
+"NE Lombard St. EB NE 42nd","Columbia Corridor",45.56816239,-122.6100781,"Food",0.365,221,120.671,73,16.847,10,0,0
+"NE Lombard St. EB NE 42nd","Columbia Corridor",45.56816239,-122.6100781,"Gravel, Sand, etc.",0,32,0.357,26,0,0,0,0
+"NE Lombard St. EB NE 42nd","Columbia Corridor",45.56816239,-122.6100781,"Machinery",0.194,63,98.758,32,0,0,0,0
+"NE Lombard St. EB NE 42nd","Columbia Corridor",45.56816239,-122.6100781,"Misc manufactured",0,0,0,0,0,0,0,0
+"NE Lombard St. EB NE 42nd","Columbia Corridor",45.56816239,-122.6100781,"Motor Vehicles, etc.",0.142,9,117.794,8,0,0,0,0
+"NE Lombard St. EB NE 42nd","Columbia Corridor",45.56816239,-122.6100781,"Wood, Paper, etc.",0.05,93,23.974,45,4.85,9,0,0
+"NE Lombard St. WB NE 42nd","Columbia Corridor",45.56914878,-122.6099138,"Agriculture",0.01,22,3.111,7,0.564,1,0,0
+"NE Lombard St. WB NE 42nd","Columbia Corridor",455.6914878,-1226.099138,"All Goods",1.831,1103,696.829,405,40.322,27,77.068,27
+"NE Lombard St. WB NE 42nd","Columbia Corridor",45.56914878,-122.6099138,"Chemical",0.011,20,1.733,3,0,0,0,0
+"NE Lombard St. WB NE 42nd","Columbia Corridor",45.56914878,-122.6099138,"Coal, Oil, Waste, etc.",0.151,283,63.756,120,0.874,2,0,0
+"NE Lombard St. WB NE 42nd","Columbia Corridor",45.56914878,-122.6099138,"Electronics",0.135,7,88.846,5,0.739,0,0,0
+"NE Lombard St. WB NE 42nd","Columbia Corridor",45.56914878,-122.6099138,"Food",0.654,395,222.054,134,37.245,22,28.361,17
+"NE Lombard St. WB NE 42nd","Columbia Corridor",45.56914878,-122.6099138,"Gravel, Sand, etc.",0.003,193,0.791,58,0,0,0,0
+"NE Lombard St. WB NE 42nd","Columbia Corridor",45.56914878,-122.6099138,"Machinery",0.164,53,106.325,34,0,0,6.859,2
+"NE Lombard St. WB NE 42nd","Columbia Corridor",45.56914878,-122.6099138,"Misc manufactured",0.084,15,0,0,0,0,41.849,8
+"NE Lombard St. WB NE 42nd","Columbia Corridor",45.56914878,-122.6099138,"Motor Vehicles, etc.",0.579,38,193.241,13,0,0,0,0
+"NE Lombard St. WB NE 42nd","Columbia Corridor",45.56914878,-122.6099138,"Wood, Paper, etc.",0.041,77,16.972,32,0.9,2,0,0
 "NE Marine Drive EB 33rd Ave","Columbia Corridor",45.597952,-122.600569,"Agriculture",0.032,71,15.437,35,0,0,5.09,11
 "NE Marine Drive EB 33rd Ave","Columbia Corridor",455.97952,-1226.00569,"All Goods",2.09,1620,823.108,658,16.148,30,51.146,80
 "NE Marine Drive EB 33rd Ave","Columbia Corridor",45.597952,-122.600569,"Chemical",0.023,41,16.704,29,0,0,0,0
@@ -230,17 +230,17 @@
 "NE Marine Drive EB 33rd Ave","Columbia Corridor",45.597952,-122.600569,"Misc manufactured",0.015,3,0,0,0,0,0,0
 "NE Marine Drive EB 33rd Ave","Columbia Corridor",45.597952,-122.600569,"Motor Vehicles, etc.",0.529,34,177.814,12,0,0,0,0
 "NE Marine Drive EB 33rd Ave","Columbia Corridor",45.597952,-122.600569,"Wood, Paper, etc.",0.124,234,52.042,98,0,0,5.003,9
-"NE Marine Drive EB NE 6th Drive","Columbia Corridor",45.5999438188414,-122.643632676995,"Agriculture",0.13,292,23.422,52,10.045,22,5.09,11
-"NE Marine Drive EB NE 6th Drive","Columbia Corridor",455.999438188414,-1226.43632676995,"All Goods",2.084,1789,736.229,629,26.193,53,51.146,80
-"NE Marine Drive EB NE 6th Drive","Columbia Corridor",45.5999438188414,-122.643632676995,"Chemical",0.023,41,16.703,29,0,0,0,0
-"NE Marine Drive EB NE 6th Drive","Columbia Corridor",45.5999438188414,-122.643632676995,"Coal, Oil, Waste, etc.",0.342,643,106.652,200,16.148,30,26.598,50
-"NE Marine Drive EB NE 6th Drive","Columbia Corridor",45.5999438188414,-122.643632676995,"Electronics",0.323,16,120.564,6,0,0,0,0
-"NE Marine Drive EB NE 6th Drive","Columbia Corridor",45.5999438188414,-122.643632676995,"Food",0.203,123,99.61,60,0,0,14.456,9
-"NE Marine Drive EB NE 6th Drive","Columbia Corridor",45.5999438188414,-122.643632676995,"Gravel, Sand, etc.",0.004,273,1.684,123,0,0,0,0
-"NE Marine Drive EB NE 6th Drive","Columbia Corridor",45.5999438188414,-122.643632676995,"Machinery",0.406,131,151.756,49,0,0,0,0
-"NE Marine Drive EB NE 6th Drive","Columbia Corridor",45.5999438188414,-122.643632676995,"Misc manufactured",0.014,3,0,0,0,0,0,0
-"NE Marine Drive EB NE 6th Drive","Columbia Corridor",45.5999438188414,-122.643632676995,"Motor Vehicles, etc.",0.515,33,163.796,11,0,0,0,0
-"NE Marine Drive EB NE 6th Drive","Columbia Corridor",45.5999438188414,-122.643632676995,"Wood, Paper, etc.",0.124,234,52.042,98,0,0,5.003,9
+"NE Marine Drive EB NE 6th Drive","Columbia Corridor",45.59994382,-122.6436327,"Agriculture",0.13,292,23.422,52,10.045,22,5.09,11
+"NE Marine Drive EB NE 6th Drive","Columbia Corridor",455.9994382,-1226.436327,"All Goods",2.084,1789,736.229,629,26.193,53,51.146,80
+"NE Marine Drive EB NE 6th Drive","Columbia Corridor",45.59994382,-122.6436327,"Chemical",0.023,41,16.703,29,0,0,0,0
+"NE Marine Drive EB NE 6th Drive","Columbia Corridor",45.59994382,-122.6436327,"Coal, Oil, Waste, etc.",0.342,643,106.652,200,16.148,30,26.598,50
+"NE Marine Drive EB NE 6th Drive","Columbia Corridor",45.59994382,-122.6436327,"Electronics",0.323,16,120.564,6,0,0,0,0
+"NE Marine Drive EB NE 6th Drive","Columbia Corridor",45.59994382,-122.6436327,"Food",0.203,123,99.61,60,0,0,14.456,9
+"NE Marine Drive EB NE 6th Drive","Columbia Corridor",45.59994382,-122.6436327,"Gravel, Sand, etc.",0.004,273,1.684,123,0,0,0,0
+"NE Marine Drive EB NE 6th Drive","Columbia Corridor",45.59994382,-122.6436327,"Machinery",0.406,131,151.756,49,0,0,0,0
+"NE Marine Drive EB NE 6th Drive","Columbia Corridor",45.59994382,-122.6436327,"Misc manufactured",0.014,3,0,0,0,0,0,0
+"NE Marine Drive EB NE 6th Drive","Columbia Corridor",45.59994382,-122.6436327,"Motor Vehicles, etc.",0.515,33,163.796,11,0,0,0,0
+"NE Marine Drive EB NE 6th Drive","Columbia Corridor",45.59994382,-122.6436327,"Wood, Paper, etc.",0.124,234,52.042,98,0,0,5.003,9
 "NE Marine Drive WB 33rd Ave","Columbia Corridor",45.598986,-122.600076,"Agriculture",0.045,100,4.036,9,0,0,0.795,2
 "NE Marine Drive WB 33rd Ave","Columbia Corridor",455.98986,-1226.00076,"All Goods",2.94,1439,523.858,253,48.429,46,22.227,41
 "NE Marine Drive WB 33rd Ave","Columbia Corridor",45.598986,-122.600076,"Chemical",0.053,93,13.62,24,5.234,9,1.324,2
@@ -252,83 +252,83 @@
 "NE Marine Drive WB 33rd Ave","Columbia Corridor",45.598986,-122.600076,"Misc manufactured",0.148,27,16.13,3,1.195,0,1.613,0
 "NE Marine Drive WB 33rd Ave","Columbia Corridor",45.598986,-122.600076,"Motor Vehicles, etc.",0.845,55,203.375,13,0,0,0,0
 "NE Marine Drive WB 33rd Ave","Columbia Corridor",45.598986,-122.600076,"Wood, Paper, etc.",0.111,209,19.218,36,4.399,8,4.543,9
-"NE Marine Drive WB NE 6th Drive","Columbia Corridor",45.6009438186189,-122.643632009904,"Agriculture",0.045,100,4.036,9,0,0,0.795,2
-"NE Marine Drive WB NE 6th Drive","Columbia Corridor",456.009438186189,-1226.43632009904,"All Goods",3.059,1501,516.795,244,48.429,46,22.227,41
-"NE Marine Drive WB NE 6th Drive","Columbia Corridor",45.6009438186189,-122.643632009904,"Chemical",0.051,91,12.305,22,5.234,9,1.324,2
-"NE Marine Drive WB NE 6th Drive","Columbia Corridor",45.6009438186189,-122.643632009904,"Coal, Oil, Waste, etc.",0.112,211,15.018,28,5.036,9,2.268,4
-"NE Marine Drive WB NE 6th Drive","Columbia Corridor",45.6009438186189,-122.643632009904,"Electronics",0.686,35,21.497,1,0.913,0,2.218,0
-"NE Marine Drive WB NE 6th Drive","Columbia Corridor",45.6009438186189,-122.643632009904,"Food",0.823,497,188.413,114,30.724,19,7.958,5
-"NE Marine Drive WB NE 6th Drive","Columbia Corridor",45.6009438186189,-122.643632009904,"Gravel, Sand, etc.",0.003,202,0.103,8,0,0,0.256,19
-"NE Marine Drive WB NE 6th Drive","Columbia Corridor",45.6009438186189,-122.643632009904,"Machinery",0.237,77,37.346,12,0.927,0,1.252,0
-"NE Marine Drive WB NE 6th Drive","Columbia Corridor",45.6009438186189,-122.643632009904,"Misc manufactured",0.148,27,16.13,3,1.195,0,1.613,0
-"NE Marine Drive WB NE 6th Drive","Columbia Corridor",45.6009438186189,-122.643632009904,"Motor Vehicles, etc.",0.845,55,203.375,13,0,0,0,0
-"NE Marine Drive WB NE 6th Drive","Columbia Corridor",45.6009438186189,-122.643632009904,"Wood, Paper, etc.",0.11,208,18.573,35,4.399,8,4.543,9
-"I-205 NB Johnson","Gateway to Oregon City",45.4462098959943,-122.569723630463,"Agriculture",1.703,3815,396.386,888,117.795,264,41.037,92
-"I-205 NB Johnson","Gateway to Oregon City",454.462098959943,-1225.69723630463,"All Goods",33.12,23904,9771.263,6356,2158.574,1391,950.049,879
-"I-205 NB Johnson","Gateway to Oregon City",45.4462098959943,-122.569723630463,"Chemical",0.729,1286,248.651,438,27.813,49,13.2,23
-"I-205 NB Johnson","Gateway to Oregon City",45.4462098959943,-122.569723630463,"Coal, Oil, Waste, etc.",2.619,4923,633.694,1191,154.692,291,106.542,200
-"I-205 NB Johnson","Gateway to Oregon City",45.4462098959943,-122.569723630463,"Electronics",5.762,292,2036.827,103,560.054,28,90.363,5
-"I-205 NB Johnson","Gateway to Oregon City",45.4462098959943,-122.569723630463,"Food",7.163,4327,2041.54,1233,508.486,307,188.895,114
-"I-205 NB Johnson","Gateway to Oregon City",45.4462098959943,-122.569723630463,"Gravel, Sand, etc.",0.027,2011,7.392,541,1.359,99,1.347,99
-"I-205 NB Johnson","Gateway to Oregon City",45.4462098959943,-122.569723630463,"Machinery",3.252,1051,986.337,319,156.404,51,100.893,33
-"I-205 NB Johnson","Gateway to Oregon City",45.4462098959943,-122.569723630463,"Misc manufactured",4.521,810,1157.631,207,380.413,68,266.249,48
-"I-205 NB Johnson","Gateway to Oregon City",45.4462098959943,-122.569723630463,"Motor Vehicles, etc.",4.638,301,1553.516,101,131.722,9,0,0
-"I-205 NB Johnson","Gateway to Oregon City",45.4462098959943,-122.569723630463,"Wood, Paper, etc.",2.705,5086,709.289,1334,119.836,225,141.524,266
-"I-205 NB OR 212","Gateway to Oregon City",45.412667760536,-122.572336223374,"Agriculture",1.526,3418,377.009,844,87.86,197,41.037,92
-"I-205 NB OR 212","Gateway to Oregon City",454.12667760536,-1225.72336223374,"All Goods",29.914,23847,8570.263,6382,2279.716,1483,1064.065,864
-"I-205 NB OR 212","Gateway to Oregon City",45.412667760536,-122.572336223374,"Chemical",0.802,1415,278.643,491,32.216,57,10.156,18
-"I-205 NB OR 212","Gateway to Oregon City",45.412667760536,-122.572336223374,"Coal, Oil, Waste, etc.",2.963,5570,715.544,1345,197.967,372,110.461,208
-"I-205 NB OR 212","Gateway to Oregon City",45.412667760536,-122.572336223374,"Electronics",5.908,300,1764.566,90,576.035,29,238.231,12
-"I-205 NB OR 212","Gateway to Oregon City",45.412667760536,-122.572336223374,"Food",6.984,4219,1954.724,1181,540.699,327,160.24,97
-"I-205 NB OR 212","Gateway to Oregon City",45.412667760536,-122.572336223374,"Gravel, Sand, etc.",0.028,2073,8.02,587,1.512,111,1.347,99
-"I-205 NB OR 212","Gateway to Oregon City",45.412667760536,-122.572336223374,"Machinery",2.99,967,892.676,289,198.671,64,98.545,32
-"I-205 NB OR 212","Gateway to Oregon City",45.412667760536,-122.572336223374,"Misc manufactured",3.865,693,1002.596,180,380.413,68,266.249,48
-"I-205 NB OR 212","Gateway to Oregon City",45.412667760536,-122.572336223374,"Motor Vehicles, etc.",2.16,140,875.203,57,131.722,9,0,0
-"I-205 NB OR 212","Gateway to Oregon City",45.412667760536,-122.572336223374,"Wood, Paper, etc.",2.688,5053,701.282,1318,132.621,249,137.801,259
-"I-205 NB Stark","Gateway to Oregon City",45.511505084328,-122.564696395716,"Agriculture",1.805,4042,423.812,949,126.099,282,41.037,92
-"I-205 NB Stark","Gateway to Oregon City",455.11505084328,-1225.64696395716,"All Goods",33.321,24796,9718.422,6598,2110.302,1413,993.097,933
-"I-205 NB Stark","Gateway to Oregon City",45.511505084328,-122.564696395716,"Chemical",0.757,1335,245.365,433,36.182,64,13.2,23
-"I-205 NB Stark","Gateway to Oregon City",45.511505084328,-122.564696395716,"Coal, Oil, Waste, etc.",2.678,5033,672.223,1264,159.175,299,106.542,200
-"I-205 NB Stark","Gateway to Oregon City",45.511505084328,-122.564696395716,"Electronics",5.986,304,2104.492,107,560.054,28,90.856,5
-"I-205 NB Stark","Gateway to Oregon City",45.511505084328,-122.564696395716,"Food",7.289,4403,2059.143,1244,479.91,290,213.725,129
-"I-205 NB Stark","Gateway to Oregon City",45.511505084328,-122.564696395716,"Gravel, Sand, etc.",0.031,2271,7.53,551,1.302,95,1.807,132
-"I-205 NB Stark","Gateway to Oregon City",45.511505084328,-122.564696395716,"Machinery",3.736,1208,1137.122,368,165.454,53,118.138,38
-"I-205 NB Stark","Gateway to Oregon City",45.511505084328,-122.564696395716,"Misc manufactured",4.246,761,1053.009,189,380.413,68,266.249,48
-"I-205 NB Stark","Gateway to Oregon City",45.511505084328,-122.564696395716,"Motor Vehicles, etc.",4.041,262,1264.314,82,81.06,5,0,0
-"I-205 NB Stark","Gateway to Oregon City",45.511505084328,-122.564696395716,"Wood, Paper, etc.",2.753,5175,751.412,1413,120.653,227,141.544,266
-"I-205 SB Johnson","Gateway to Oregon City",45.4447879939637,-122.570859961478,"Agriculture",0.3,673,66.796,150,18.414,41,18.229,41
-"I-205 SB Johnson","Gateway to Oregon City",454.447879939637,-1225.70859961478,"All Goods",31.75,22106,7748.988,5221,2372.072,1244,1156.603,885
-"I-205 SB Johnson","Gateway to Oregon City",45.4447879939637,-122.570859961478,"Chemical",0.864,1524,182.733,322,41.378,73,24.567,43
-"I-205 SB Johnson","Gateway to Oregon City",45.4447879939637,-122.570859961478,"Coal, Oil, Waste, etc.",3.403,6397,747.26,1405,182.319,343,89.892,169
-"I-205 SB Johnson","Gateway to Oregon City",45.4447879939637,-122.570859961478,"Electronics",4.587,233,1372.566,70,269.386,14,105.066,5
-"I-205 SB Johnson","Gateway to Oregon City",45.4447879939637,-122.570859961478,"Food",6.056,3659,1483.233,896,356.672,215,172.842,104
-"I-205 SB Johnson","Gateway to Oregon City",45.4447879939637,-122.570859961478,"Gravel, Sand, etc.",0.027,1996,6.264,458,1.064,78,1.04,76
-"I-205 SB Johnson","Gateway to Oregon City",45.4447879939637,-122.570859961478,"Machinery",3.822,1235,1034.552,334,285.855,92,51.175,17
-"I-205 SB Johnson","Gateway to Oregon City",45.4447879939637,-122.570859961478,"Misc manufactured",5.675,1017,1507.658,270,333.462,60,267.356,48
-"I-205 SB Johnson","Gateway to Oregon City",45.4447879939637,-122.570859961478,"Motor Vehicles, etc.",4.306,279,671.399,44,734.417,48,231.362,15
-"I-205 SB Johnson","Gateway to Oregon City",45.4447879939637,-122.570859961478,"Wood, Paper, etc.",2.709,5094,676.529,1272,149.106,280,195.073,367
-"I-205 SB OR 212","Gateway to Oregon City",45.4124412080002,-122.573580160384,"Agriculture",0.323,724,83.192,186,21.762,49,18.229,41
-"I-205 SB OR 212","Gateway to Oregon City",454.124412080002,-1225.73580160384,"All Goods",27.888,21990,6803.097,5154,1453.218,1116,1111.164,920
-"I-205 SB OR 212","Gateway to Oregon City",45.4124412080002,-122.573580160384,"Chemical",0.756,1333,164.816,291,33.936,60,24.567,43
-"I-205 SB OR 212","Gateway to Oregon City",45.4124412080002,-122.573580160384,"Coal, Oil, Waste, etc.",3.122,5869,716.818,1348,159.046,299,79.918,150
-"I-205 SB OR 212","Gateway to Oregon City",45.4124412080002,-122.573580160384,"Electronics",5.445,276,1679.66,85,241.668,12,266.735,14
-"I-205 SB OR 212","Gateway to Oregon City",45.4124412080002,-122.573580160384,"Food",5.404,3265,1236.309,747,353.58,214,179.05,108
-"I-205 SB OR 212","Gateway to Oregon City",45.4124412080002,-122.573580160384,"Gravel, Sand, etc.",0.045,3287,10.956,802,1.761,129,1.606,118
-"I-205 SB OR 212","Gateway to Oregon City",45.4124412080002,-122.573580160384,"Machinery",2.786,901,731.754,237,223.911,72,74.375,24
-"I-205 SB OR 212","Gateway to Oregon City",45.4124412080002,-122.573580160384,"Misc manufactured",4.712,844,1106.778,198,170.668,31,267.356,48
-"I-205 SB OR 212","Gateway to Oregon City",45.4124412080002,-122.573580160384,"Motor Vehicles, etc.",2.459,159,416.314,27,117.452,8,0,0
-"I-205 SB OR 212","Gateway to Oregon City",45.4124412080002,-122.573580160384,"Wood, Paper, etc.",2.836,5331,656.5,1234,129.434,243,199.329,375
-"I-205 SB Stark","Gateway to Oregon City",45.5125236118046,-122.566100800769,"Agriculture",0.332,743,68.351,153,18.414,41,18.495,41
-"I-205 SB Stark","Gateway to Oregon City",455.125236118046,-1225.66100800769,"All Goods",34.04,24438,8263.849,5618,2521.461,1389,1216.645,960
-"I-205 SB Stark","Gateway to Oregon City",45.5125236118046,-122.566100800769,"Chemical",0.949,1673,183.553,324,49.586,87,39.628,70
-"I-205 SB Stark","Gateway to Oregon City",45.5125236118046,-122.566100800769,"Coal, Oil, Waste, etc.",3.735,7021,780.596,1467,206.523,388,97.472,183
-"I-205 SB Stark","Gateway to Oregon City",45.5125236118046,-122.566100800769,"Electronics",4.655,236,1405.34,71,266.428,14,105.066,5
-"I-205 SB Stark","Gateway to Oregon City",45.5125236118046,-122.566100800769,"Food",6.925,4183,1630.465,985,406.332,245,164.566,99
-"I-205 SB Stark","Gateway to Oregon City",45.5125236118046,-122.566100800769,"Gravel, Sand, etc.",0.03,2215,7.04,515,1.342,98,1.245,91
-"I-205 SB Stark","Gateway to Oregon City",45.5125236118046,-122.566100800769,"Machinery",4.222,1365,1170.672,378,347.838,112,51.175,17
-"I-205 SB Stark","Gateway to Oregon City",45.5125236118046,-122.566100800769,"Misc manufactured",5.633,1010,1507.658,270,333.462,60,267.356,48
-"I-205 SB Stark","Gateway to Oregon City",45.5125236118046,-122.566100800769,"Motor Vehicles, etc.",4.529,294,763.356,49,734.417,48,265.133,17
-"I-205 SB Stark","Gateway to Oregon City",45.5125236118046,-122.566100800769,"Wood, Paper, etc.",3.031,5698,746.816,1404,157.119,295,206.509,388
+"NE Marine Drive WB NE 6th Drive","Columbia Corridor",45.60094382,-122.643632,"Agriculture",0.045,100,4.036,9,0,0,0.795,2
+"NE Marine Drive WB NE 6th Drive","Columbia Corridor",456.0094382,-1226.43632,"All Goods",3.059,1501,516.795,244,48.429,46,22.227,41
+"NE Marine Drive WB NE 6th Drive","Columbia Corridor",45.60094382,-122.643632,"Chemical",0.051,91,12.305,22,5.234,9,1.324,2
+"NE Marine Drive WB NE 6th Drive","Columbia Corridor",45.60094382,-122.643632,"Coal, Oil, Waste, etc.",0.112,211,15.018,28,5.036,9,2.268,4
+"NE Marine Drive WB NE 6th Drive","Columbia Corridor",45.60094382,-122.643632,"Electronics",0.686,35,21.497,1,0.913,0,2.218,0
+"NE Marine Drive WB NE 6th Drive","Columbia Corridor",45.60094382,-122.643632,"Food",0.823,497,188.413,114,30.724,19,7.958,5
+"NE Marine Drive WB NE 6th Drive","Columbia Corridor",45.60094382,-122.643632,"Gravel, Sand, etc.",0.003,202,0.103,8,0,0,0.256,19
+"NE Marine Drive WB NE 6th Drive","Columbia Corridor",45.60094382,-122.643632,"Machinery",0.237,77,37.346,12,0.927,0,1.252,0
+"NE Marine Drive WB NE 6th Drive","Columbia Corridor",45.60094382,-122.643632,"Misc manufactured",0.148,27,16.13,3,1.195,0,1.613,0
+"NE Marine Drive WB NE 6th Drive","Columbia Corridor",45.60094382,-122.643632,"Motor Vehicles, etc.",0.845,55,203.375,13,0,0,0,0
+"NE Marine Drive WB NE 6th Drive","Columbia Corridor",45.60094382,-122.643632,"Wood, Paper, etc.",0.11,208,18.573,35,4.399,8,4.543,9
+"I-205 NB Johnson","Gateway to Oregon City",45.4462099,-122.5697236,"Agriculture",1.703,3815,396.386,888,117.795,264,41.037,92
+"I-205 NB Johnson","Gateway to Oregon City",454.462099,-1225.697236,"All Goods",33.12,23904,9771.263,6356,2158.574,1391,950.049,879
+"I-205 NB Johnson","Gateway to Oregon City",45.4462099,-122.5697236,"Chemical",0.729,1286,248.651,438,27.813,49,13.2,23
+"I-205 NB Johnson","Gateway to Oregon City",45.4462099,-122.5697236,"Coal, Oil, Waste, etc.",2.619,4923,633.694,1191,154.692,291,106.542,200
+"I-205 NB Johnson","Gateway to Oregon City",45.4462099,-122.5697236,"Electronics",5.762,292,2036.827,103,560.054,28,90.363,5
+"I-205 NB Johnson","Gateway to Oregon City",45.4462099,-122.5697236,"Food",7.163,4327,2041.54,1233,508.486,307,188.895,114
+"I-205 NB Johnson","Gateway to Oregon City",45.4462099,-122.5697236,"Gravel, Sand, etc.",0.027,2011,7.392,541,1.359,99,1.347,99
+"I-205 NB Johnson","Gateway to Oregon City",45.4462099,-122.5697236,"Machinery",3.252,1051,986.337,319,156.404,51,100.893,33
+"I-205 NB Johnson","Gateway to Oregon City",45.4462099,-122.5697236,"Misc manufactured",4.521,810,1157.631,207,380.413,68,266.249,48
+"I-205 NB Johnson","Gateway to Oregon City",45.4462099,-122.5697236,"Motor Vehicles, etc.",4.638,301,1553.516,101,131.722,9,0,0
+"I-205 NB Johnson","Gateway to Oregon City",45.4462099,-122.5697236,"Wood, Paper, etc.",2.705,5086,709.289,1334,119.836,225,141.524,266
+"I-205 NB OR 212","Gateway to Oregon City",45.41266776,-122.5723362,"Agriculture",1.526,3418,377.009,844,87.86,197,41.037,92
+"I-205 NB OR 212","Gateway to Oregon City",454.1266776,-1225.723362,"All Goods",29.914,23847,8570.263,6382,2279.716,1483,1064.065,864
+"I-205 NB OR 212","Gateway to Oregon City",45.41266776,-122.5723362,"Chemical",0.802,1415,278.643,491,32.216,57,10.156,18
+"I-205 NB OR 212","Gateway to Oregon City",45.41266776,-122.5723362,"Coal, Oil, Waste, etc.",2.963,5570,715.544,1345,197.967,372,110.461,208
+"I-205 NB OR 212","Gateway to Oregon City",45.41266776,-122.5723362,"Electronics",5.908,300,1764.566,90,576.035,29,238.231,12
+"I-205 NB OR 212","Gateway to Oregon City",45.41266776,-122.5723362,"Food",6.984,4219,1954.724,1181,540.699,327,160.24,97
+"I-205 NB OR 212","Gateway to Oregon City",45.41266776,-122.5723362,"Gravel, Sand, etc.",0.028,2073,8.02,587,1.512,111,1.347,99
+"I-205 NB OR 212","Gateway to Oregon City",45.41266776,-122.5723362,"Machinery",2.99,967,892.676,289,198.671,64,98.545,32
+"I-205 NB OR 212","Gateway to Oregon City",45.41266776,-122.5723362,"Misc manufactured",3.865,693,1002.596,180,380.413,68,266.249,48
+"I-205 NB OR 212","Gateway to Oregon City",45.41266776,-122.5723362,"Motor Vehicles, etc.",2.16,140,875.203,57,131.722,9,0,0
+"I-205 NB OR 212","Gateway to Oregon City",45.41266776,-122.5723362,"Wood, Paper, etc.",2.688,5053,701.282,1318,132.621,249,137.801,259
+"I-205 NB Stark","Gateway to Oregon City",45.51150508,-122.5646964,"Agriculture",1.805,4042,423.812,949,126.099,282,41.037,92
+"I-205 NB Stark","Gateway to Oregon City",455.1150508,-1225.646964,"All Goods",33.321,24796,9718.422,6598,2110.302,1413,993.097,933
+"I-205 NB Stark","Gateway to Oregon City",45.51150508,-122.5646964,"Chemical",0.757,1335,245.365,433,36.182,64,13.2,23
+"I-205 NB Stark","Gateway to Oregon City",45.51150508,-122.5646964,"Coal, Oil, Waste, etc.",2.678,5033,672.223,1264,159.175,299,106.542,200
+"I-205 NB Stark","Gateway to Oregon City",45.51150508,-122.5646964,"Electronics",5.986,304,2104.492,107,560.054,28,90.856,5
+"I-205 NB Stark","Gateway to Oregon City",45.51150508,-122.5646964,"Food",7.289,4403,2059.143,1244,479.91,290,213.725,129
+"I-205 NB Stark","Gateway to Oregon City",45.51150508,-122.5646964,"Gravel, Sand, etc.",0.031,2271,7.53,551,1.302,95,1.807,132
+"I-205 NB Stark","Gateway to Oregon City",45.51150508,-122.5646964,"Machinery",3.736,1208,1137.122,368,165.454,53,118.138,38
+"I-205 NB Stark","Gateway to Oregon City",45.51150508,-122.5646964,"Misc manufactured",4.246,761,1053.009,189,380.413,68,266.249,48
+"I-205 NB Stark","Gateway to Oregon City",45.51150508,-122.5646964,"Motor Vehicles, etc.",4.041,262,1264.314,82,81.06,5,0,0
+"I-205 NB Stark","Gateway to Oregon City",45.51150508,-122.5646964,"Wood, Paper, etc.",2.753,5175,751.412,1413,120.653,227,141.544,266
+"I-205 SB Johnson","Gateway to Oregon City",45.44478799,-122.57086,"Agriculture",0.3,673,66.796,150,18.414,41,18.229,41
+"I-205 SB Johnson","Gateway to Oregon City",454.4478799,-1225.7086,"All Goods",31.75,22106,7748.988,5221,2372.072,1244,1156.603,885
+"I-205 SB Johnson","Gateway to Oregon City",45.44478799,-122.57086,"Chemical",0.864,1524,182.733,322,41.378,73,24.567,43
+"I-205 SB Johnson","Gateway to Oregon City",45.44478799,-122.57086,"Coal, Oil, Waste, etc.",3.403,6397,747.26,1405,182.319,343,89.892,169
+"I-205 SB Johnson","Gateway to Oregon City",45.44478799,-122.57086,"Electronics",4.587,233,1372.566,70,269.386,14,105.066,5
+"I-205 SB Johnson","Gateway to Oregon City",45.44478799,-122.57086,"Food",6.056,3659,1483.233,896,356.672,215,172.842,104
+"I-205 SB Johnson","Gateway to Oregon City",45.44478799,-122.57086,"Gravel, Sand, etc.",0.027,1996,6.264,458,1.064,78,1.04,76
+"I-205 SB Johnson","Gateway to Oregon City",45.44478799,-122.57086,"Machinery",3.822,1235,1034.552,334,285.855,92,51.175,17
+"I-205 SB Johnson","Gateway to Oregon City",45.44478799,-122.57086,"Misc manufactured",5.675,1017,1507.658,270,333.462,60,267.356,48
+"I-205 SB Johnson","Gateway to Oregon City",45.44478799,-122.57086,"Motor Vehicles, etc.",4.306,279,671.399,44,734.417,48,231.362,15
+"I-205 SB Johnson","Gateway to Oregon City",45.44478799,-122.57086,"Wood, Paper, etc.",2.709,5094,676.529,1272,149.106,280,195.073,367
+"I-205 SB OR 212","Gateway to Oregon City",45.41244121,-122.5735802,"Agriculture",0.323,724,83.192,186,21.762,49,18.229,41
+"I-205 SB OR 212","Gateway to Oregon City",454.1244121,-1225.735802,"All Goods",27.888,21990,6803.097,5154,1453.218,1116,1111.164,920
+"I-205 SB OR 212","Gateway to Oregon City",45.41244121,-122.5735802,"Chemical",0.756,1333,164.816,291,33.936,60,24.567,43
+"I-205 SB OR 212","Gateway to Oregon City",45.41244121,-122.5735802,"Coal, Oil, Waste, etc.",3.122,5869,716.818,1348,159.046,299,79.918,150
+"I-205 SB OR 212","Gateway to Oregon City",45.41244121,-122.5735802,"Electronics",5.445,276,1679.66,85,241.668,12,266.735,14
+"I-205 SB OR 212","Gateway to Oregon City",45.41244121,-122.5735802,"Food",5.404,3265,1236.309,747,353.58,214,179.05,108
+"I-205 SB OR 212","Gateway to Oregon City",45.41244121,-122.5735802,"Gravel, Sand, etc.",0.045,3287,10.956,802,1.761,129,1.606,118
+"I-205 SB OR 212","Gateway to Oregon City",45.41244121,-122.5735802,"Machinery",2.786,901,731.754,237,223.911,72,74.375,24
+"I-205 SB OR 212","Gateway to Oregon City",45.41244121,-122.5735802,"Misc manufactured",4.712,844,1106.778,198,170.668,31,267.356,48
+"I-205 SB OR 212","Gateway to Oregon City",45.41244121,-122.5735802,"Motor Vehicles, etc.",2.459,159,416.314,27,117.452,8,0,0
+"I-205 SB OR 212","Gateway to Oregon City",45.41244121,-122.5735802,"Wood, Paper, etc.",2.836,5331,656.5,1234,129.434,243,199.329,375
+"I-205 SB Stark","Gateway to Oregon City",45.51252361,-122.5661008,"Agriculture",0.332,743,68.351,153,18.414,41,18.495,41
+"I-205 SB Stark","Gateway to Oregon City",455.1252361,-1225.661008,"All Goods",34.04,24438,8263.849,5618,2521.461,1389,1216.645,960
+"I-205 SB Stark","Gateway to Oregon City",45.51252361,-122.5661008,"Chemical",0.949,1673,183.553,324,49.586,87,39.628,70
+"I-205 SB Stark","Gateway to Oregon City",45.51252361,-122.5661008,"Coal, Oil, Waste, etc.",3.735,7021,780.596,1467,206.523,388,97.472,183
+"I-205 SB Stark","Gateway to Oregon City",45.51252361,-122.5661008,"Electronics",4.655,236,1405.34,71,266.428,14,105.066,5
+"I-205 SB Stark","Gateway to Oregon City",45.51252361,-122.5661008,"Food",6.925,4183,1630.465,985,406.332,245,164.566,99
+"I-205 SB Stark","Gateway to Oregon City",45.51252361,-122.5661008,"Gravel, Sand, etc.",0.03,2215,7.04,515,1.342,98,1.245,91
+"I-205 SB Stark","Gateway to Oregon City",45.51252361,-122.5661008,"Machinery",4.222,1365,1170.672,378,347.838,112,51.175,17
+"I-205 SB Stark","Gateway to Oregon City",45.51252361,-122.5661008,"Misc manufactured",5.633,1010,1507.658,270,333.462,60,267.356,48
+"I-205 SB Stark","Gateway to Oregon City",45.51252361,-122.5661008,"Motor Vehicles, etc.",4.529,294,763.356,49,734.417,48,265.133,17
+"I-205 SB Stark","Gateway to Oregon City",45.51252361,-122.5661008,"Wood, Paper, etc.",3.031,5698,746.816,1404,157.119,295,206.509,388
 "I-205 NB Sandy","Gateway to Troutdale-Wood Village-Fairview",45.552158,-122.56323,"Agriculture",1.259,2820,289.323,648,77.185,173,20.386,46
 "I-205 NB Sandy","Gateway to Troutdale-Wood Village-Fairview",455.52158,-1225.6323,"All Goods",36.755,24435,9116.785,6155,2314.392,1347,1372.867,947
 "I-205 NB Sandy","Gateway to Troutdale-Wood Village-Fairview",45.552158,-122.56323,"Chemical",1.118,1972,291.025,513,22.165,39,26.209,46
@@ -395,50 +395,50 @@
 "I-84 WB Wood Village","Gateway to Troutdale-Wood Village-Fairview",45.543292,-122.410401,"Misc manufactured",9.959,1785,1752.193,314,518.126,93,931.869,167
 "I-84 WB Wood Village","Gateway to Troutdale-Wood Village-Fairview",45.543292,-122.410401,"Motor Vehicles, etc.",10.244,664,2520.23,163,832.753,54,231.362,15
 "I-84 WB Wood Village","Gateway to Troutdale-Wood Village-Fairview",45.543292,-122.410401,"Wood, Paper, etc.",5.083,9556,672.545,1264,332.381,625,672.649,1265
-"I-405 NB Fremont Br.","Portland Central City Loop",45.537867373727,-122.682205644579,"Agriculture",1.152,2581,410.235,919,26.096,58,15.069,34
-"I-405 NB Fremont Br.","Portland Central City Loop",455.37867373727,-1226.82205644579,"All Goods",43.964,37278,14874.483,10446,2151.421,2056,846.522,961
-"I-405 NB Fremont Br.","Portland Central City Loop",45.537867373727,-122.682205644579,"Chemical",1.982,3495,1104.287,1947,65.368,115,2.356,4
-"I-405 NB Fremont Br.","Portland Central City Loop",45.537867373727,-122.682205644579,"Coal, Oil, Waste, etc.",8.727,16406,1966.617,3697,548.388,1031,335.478,631
-"I-405 NB Fremont Br.","Portland Central City Loop",45.537867373727,-122.682205644579,"Electronics",8.981,456,1239.295,63,754.76,38,217.757,11
-"I-405 NB Fremont Br.","Portland Central City Loop",45.537867373727,-122.682205644579,"Food",4.589,2772,1147.55,693,254.565,154,85.784,52
-"I-405 NB Fremont Br.","Portland Central City Loop",45.537867373727,-122.682205644579,"Gravel, Sand, etc.",0.044,3245,10.477,767,2.674,196,1.23,90
-"I-405 NB Fremont Br.","Portland Central City Loop",45.537867373727,-122.682205644579,"Machinery",5.927,1916,1709.075,553,235.662,76,136.572,44
-"I-405 NB Fremont Br.","Portland Central City Loop",45.537867373727,-122.682205644579,"Misc manufactured",2.293,411,669.987,120,47.733,9,1.674,0
-"I-405 NB Fremont Br.","Portland Central City Loop",45.537867373727,-122.682205644579,"Motor Vehicles, etc.",7.333,475,5923.713,384,15.203,1,0,0
-"I-405 NB Fremont Br.","Portland Central City Loop",45.537867373727,-122.682205644579,"Wood, Paper, etc.",2.937,5521,693.245,1303,200.972,378,50.6,95
-"I-405 SB Fremont Br.","Portland Central City Loop",45.53849186359,-122.683098492627,"Agriculture",0.26,582,84.014,188,18.083,41,9.107,20
-"I-405 SB Fremont Br.","Portland Central City Loop",455.3849186359,-1226.83098492627,"All Goods",36.338,22003,9343.213,5194,2192.998,1502,1722.01,712
-"I-405 SB Fremont Br.","Portland Central City Loop",45.53849186359,-122.683098492627,"Chemical",0.977,1722,376.022,663,42.703,75,6.747,12
-"I-405 SB Fremont Br.","Portland Central City Loop",45.53849186359,-122.683098492627,"Coal, Oil, Waste, etc.",2.789,5243,656.771,1235,224.147,421,78.807,148
-"I-405 SB Fremont Br.","Portland Central City Loop",45.53849186359,-122.683098492627,"Electronics",10.246,520,2857.631,145,332.502,17,719.118,36
-"I-405 SB Fremont Br.","Portland Central City Loop",45.53849186359,-122.683098492627,"Food",4.881,2949,957.231,578,306.503,185,160.547,97
-"I-405 SB Fremont Br.","Portland Central City Loop",45.53849186359,-122.683098492627,"Gravel, Sand, etc.",0.021,1546,4.537,332,1.057,77,1.125,82
-"I-405 SB Fremont Br.","Portland Central City Loop",45.53849186359,-122.683098492627,"Machinery",6.781,2192,1745.933,564,533.447,172,217.929,70
-"I-405 SB Fremont Br.","Portland Central City Loop",45.53849186359,-122.683098492627,"Misc manufactured",3.757,673,421.437,76,282.366,51,162.609,29
-"I-405 SB Fremont Br.","Portland Central City Loop",45.53849186359,-122.683098492627,"Motor Vehicles, etc.",3.24,210,1541.185,100,213.511,14,260.23,17
-"I-405 SB Fremont Br.","Portland Central City Loop",45.53849186359,-122.683098492627,"Wood, Paper, etc.",3.386,6366,698.451,1313,238.679,449,105.79,199
-"I-5 NB Broadway","Portland Central City Loop",45.541546838626,-122.671672926738,"Agriculture",3.407,7631,573.086,1284,161.714,362,188.765,423
-"I-5 NB Broadway","Portland Central City Loop",455.41546838626,-1226.71672926738,"All Goods",72.524,48487,11739.699,8298,4364.331,2686,5850.057,3118
-"I-5 NB Broadway","Portland Central City Loop",45.541546838626,-122.671672926738,"Chemical",4.166,7347,641.524,1131,221.467,391,186.406,329
-"I-5 NB Broadway","Portland Central City Loop",45.541546838626,-122.671672926738,"Coal, Oil, Waste, etc.",4.327,8134,787.799,1481,276.678,520,281.699,530
-"I-5 NB Broadway","Portland Central City Loop",45.541546838626,-122.671672926738,"Electronics",11.04,560,2228.933,113,1171.116,59,1050.571,53
-"I-5 NB Broadway","Portland Central City Loop",45.541546838626,-122.671672926738,"Food",14.737,8903,2555.402,1544,939.409,568,1046.464,632
-"I-5 NB Broadway","Portland Central City Loop",45.541546838626,-122.671672926738,"Gravel, Sand, etc.",0.023,1711,5.014,367,1.403,103,0.497,36
-"I-5 NB Broadway","Portland Central City Loop",45.541546838626,-122.671672926738,"Machinery",6.609,2136,1468.935,475,288.105,93,440.416,142
-"I-5 NB Broadway","Portland Central City Loop",45.541546838626,-122.671672926738,"Misc manufactured",14.995,2687,1704.015,305,943.791,169,1882.284,337
-"I-5 NB Broadway","Portland Central City Loop",45.541546838626,-122.671672926738,"Motor Vehicles, etc.",8.526,553,958.163,62,141.473,9,450.407,29
-"I-5 NB Broadway","Portland Central City Loop",45.541546838626,-122.671672926738,"Wood, Paper, etc.",4.694,8825,816.828,1536,219.175,412,322.548,606
-"I-5 SB Broadway","Portland Central City Loop",45.5397321680811,-122.671617712855,"Agriculture",0.961,2152,161.392,361,55.552,124,47.202,106
-"I-5 SB Broadway","Portland Central City Loop",455.397321680811,-1226.71617712855,"All Goods",105.071,60325,16661.823,9669,7320.526,3991,6668.909,3128
-"I-5 SB Broadway","Portland Central City Loop",45.5397321680811,-122.671617712855,"Chemical",4.217,7437,976.491,1722,247.843,437,155.52,274
-"I-5 SB Broadway","Portland Central City Loop",45.5397321680811,-122.671617712855,"Coal, Oil, Waste, etc.",10.079,18946,1471.315,2766,722.85,1359,483.569,909
-"I-5 SB Broadway","Portland Central City Loop",45.5397321680811,-122.671617712855,"Electronics",12.482,633,1437.129,73,1177.357,60,755.604,38
-"I-5 SB Broadway","Portland Central City Loop",45.5397321680811,-122.671617712855,"Food",11.933,7209,1610.809,973,781.3,472,762.736,461
-"I-5 SB Broadway","Portland Central City Loop",45.5397321680811,-122.671617712855,"Gravel, Sand, etc.",0.039,2836,6.718,492,2.546,186,1.849,135
-"I-5 SB Broadway","Portland Central City Loop",45.5397321680811,-122.671617712855,"Machinery",15.861,5127,2446.524,791,997.405,322,659.151,213
-"I-5 SB Broadway","Portland Central City Loop",45.5397321680811,-122.671617712855,"Misc manufactured",20.833,3734,2613.043,468,971.196,174,2603.552,467
-"I-5 SB Broadway","Portland Central City Loop",45.5397321680811,-122.671617712855,"Motor Vehicles, etc.",22.941,1487,5036.035,327,1977.409,128,953.627,62
-"I-5 SB Broadway","Portland Central City Loop",45.5397321680811,-122.671617712855,"Wood, Paper, etc.",5.725,10764,902.368,1697,387.068,728,246.101,463
+"I-405 NB Fremont Br.","Portland Central City Loop",45.53786737,-122.6822056,"Agriculture",1.152,2581,410.235,919,26.096,58,15.069,34
+"I-405 NB Fremont Br.","Portland Central City Loop",455.3786737,-1226.822056,"All Goods",43.964,37278,14874.483,10446,2151.421,2056,846.522,961
+"I-405 NB Fremont Br.","Portland Central City Loop",45.53786737,-122.6822056,"Chemical",1.982,3495,1104.287,1947,65.368,115,2.356,4
+"I-405 NB Fremont Br.","Portland Central City Loop",45.53786737,-122.6822056,"Coal, Oil, Waste, etc.",8.727,16406,1966.617,3697,548.388,1031,335.478,631
+"I-405 NB Fremont Br.","Portland Central City Loop",45.53786737,-122.6822056,"Electronics",8.981,456,1239.295,63,754.76,38,217.757,11
+"I-405 NB Fremont Br.","Portland Central City Loop",45.53786737,-122.6822056,"Food",4.589,2772,1147.55,693,254.565,154,85.784,52
+"I-405 NB Fremont Br.","Portland Central City Loop",45.53786737,-122.6822056,"Gravel, Sand, etc.",0.044,3245,10.477,767,2.674,196,1.23,90
+"I-405 NB Fremont Br.","Portland Central City Loop",45.53786737,-122.6822056,"Machinery",5.927,1916,1709.075,553,235.662,76,136.572,44
+"I-405 NB Fremont Br.","Portland Central City Loop",45.53786737,-122.6822056,"Misc manufactured",2.293,411,669.987,120,47.733,9,1.674,0
+"I-405 NB Fremont Br.","Portland Central City Loop",45.53786737,-122.6822056,"Motor Vehicles, etc.",7.333,475,5923.713,384,15.203,1,0,0
+"I-405 NB Fremont Br.","Portland Central City Loop",45.53786737,-122.6822056,"Wood, Paper, etc.",2.937,5521,693.245,1303,200.972,378,50.6,95
+"I-405 SB Fremont Br.","Portland Central City Loop",45.53849186,-122.6830985,"Agriculture",0.26,582,84.014,188,18.083,41,9.107,20
+"I-405 SB Fremont Br.","Portland Central City Loop",455.3849186,-1226.830985,"All Goods",36.338,22003,9343.213,5194,2192.998,1502,1722.01,712
+"I-405 SB Fremont Br.","Portland Central City Loop",45.53849186,-122.6830985,"Chemical",0.977,1722,376.022,663,42.703,75,6.747,12
+"I-405 SB Fremont Br.","Portland Central City Loop",45.53849186,-122.6830985,"Coal, Oil, Waste, etc.",2.789,5243,656.771,1235,224.147,421,78.807,148
+"I-405 SB Fremont Br.","Portland Central City Loop",45.53849186,-122.6830985,"Electronics",10.246,520,2857.631,145,332.502,17,719.118,36
+"I-405 SB Fremont Br.","Portland Central City Loop",45.53849186,-122.6830985,"Food",4.881,2949,957.231,578,306.503,185,160.547,97
+"I-405 SB Fremont Br.","Portland Central City Loop",45.53849186,-122.6830985,"Gravel, Sand, etc.",0.021,1546,4.537,332,1.057,77,1.125,82
+"I-405 SB Fremont Br.","Portland Central City Loop",45.53849186,-122.6830985,"Machinery",6.781,2192,1745.933,564,533.447,172,217.929,70
+"I-405 SB Fremont Br.","Portland Central City Loop",45.53849186,-122.6830985,"Misc manufactured",3.757,673,421.437,76,282.366,51,162.609,29
+"I-405 SB Fremont Br.","Portland Central City Loop",45.53849186,-122.6830985,"Motor Vehicles, etc.",3.24,210,1541.185,100,213.511,14,260.23,17
+"I-405 SB Fremont Br.","Portland Central City Loop",45.53849186,-122.6830985,"Wood, Paper, etc.",3.386,6366,698.451,1313,238.679,449,105.79,199
+"I-5 NB Broadway","Portland Central City Loop",45.54154684,-122.6716729,"Agriculture",3.407,7631,573.086,1284,161.714,362,188.765,423
+"I-5 NB Broadway","Portland Central City Loop",455.4154684,-1226.716729,"All Goods",72.524,48487,11739.699,8298,4364.331,2686,5850.057,3118
+"I-5 NB Broadway","Portland Central City Loop",45.54154684,-122.6716729,"Chemical",4.166,7347,641.524,1131,221.467,391,186.406,329
+"I-5 NB Broadway","Portland Central City Loop",45.54154684,-122.6716729,"Coal, Oil, Waste, etc.",4.327,8134,787.799,1481,276.678,520,281.699,530
+"I-5 NB Broadway","Portland Central City Loop",45.54154684,-122.6716729,"Electronics",11.04,560,2228.933,113,1171.116,59,1050.571,53
+"I-5 NB Broadway","Portland Central City Loop",45.54154684,-122.6716729,"Food",14.737,8903,2555.402,1544,939.409,568,1046.464,632
+"I-5 NB Broadway","Portland Central City Loop",45.54154684,-122.6716729,"Gravel, Sand, etc.",0.023,1711,5.014,367,1.403,103,0.497,36
+"I-5 NB Broadway","Portland Central City Loop",45.54154684,-122.6716729,"Machinery",6.609,2136,1468.935,475,288.105,93,440.416,142
+"I-5 NB Broadway","Portland Central City Loop",45.54154684,-122.6716729,"Misc manufactured",14.995,2687,1704.015,305,943.791,169,1882.284,337
+"I-5 NB Broadway","Portland Central City Loop",45.54154684,-122.6716729,"Motor Vehicles, etc.",8.526,553,958.163,62,141.473,9,450.407,29
+"I-5 NB Broadway","Portland Central City Loop",45.54154684,-122.6716729,"Wood, Paper, etc.",4.694,8825,816.828,1536,219.175,412,322.548,606
+"I-5 SB Broadway","Portland Central City Loop",45.53973217,-122.6716177,"Agriculture",0.961,2152,161.392,361,55.552,124,47.202,106
+"I-5 SB Broadway","Portland Central City Loop",455.3973217,-1226.716177,"All Goods",105.071,60325,16661.823,9669,7320.526,3991,6668.909,3128
+"I-5 SB Broadway","Portland Central City Loop",45.53973217,-122.6716177,"Chemical",4.217,7437,976.491,1722,247.843,437,155.52,274
+"I-5 SB Broadway","Portland Central City Loop",45.53973217,-122.6716177,"Coal, Oil, Waste, etc.",10.079,18946,1471.315,2766,722.85,1359,483.569,909
+"I-5 SB Broadway","Portland Central City Loop",45.53973217,-122.6716177,"Electronics",12.482,633,1437.129,73,1177.357,60,755.604,38
+"I-5 SB Broadway","Portland Central City Loop",45.53973217,-122.6716177,"Food",11.933,7209,1610.809,973,781.3,472,762.736,461
+"I-5 SB Broadway","Portland Central City Loop",45.53973217,-122.6716177,"Gravel, Sand, etc.",0.039,2836,6.718,492,2.546,186,1.849,135
+"I-5 SB Broadway","Portland Central City Loop",45.53973217,-122.6716177,"Machinery",15.861,5127,2446.524,791,997.405,322,659.151,213
+"I-5 SB Broadway","Portland Central City Loop",45.53973217,-122.6716177,"Misc manufactured",20.833,3734,2613.043,468,971.196,174,2603.552,467
+"I-5 SB Broadway","Portland Central City Loop",45.53973217,-122.6716177,"Motor Vehicles, etc.",22.941,1487,5036.035,327,1977.409,128,953.627,62
+"I-5 SB Broadway","Portland Central City Loop",45.53973217,-122.6716177,"Wood, Paper, etc.",5.725,10764,902.368,1697,387.068,728,246.101,463
 "Hwy 217 NB US 26","Portland Central City to Beaverton",45.50249,-122.783494,"Agriculture",0.596,1336,202.072,453,9.567,21,0,0
 "Hwy 217 NB US 26","Portland Central City to Beaverton",455.0249,-1227.83494,"All Goods",6.514,6521,1327.319,1341,403.17,409,182.873,290
 "Hwy 217 NB US 26","Portland Central City to Beaverton",45.50249,-122.783494,"Chemical",0.184,324,43.382,77,8.197,14,21.219,37
@@ -505,50 +505,50 @@
 "US-26 WB Tunnel","Portland Central City to Beaverton",45.508145,-122.710455,"Misc manufactured",0.698,125,147.368,26,0,0,0,0
 "US-26 WB Tunnel","Portland Central City to Beaverton",45.508145,-122.710455,"Motor Vehicles, etc.",0.832,54,371.152,24,115.681,8,0,0
 "US-26 WB Tunnel","Portland Central City to Beaverton",45.508145,-122.710455,"Wood, Paper, etc.",0.699,1313,155.433,292,49.062,92,27.546,52
-"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.643608723247,-122.856877514639,"Agriculture",2.108,4722,492.399,1103,102.922,231,44.142,99
-"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",456.43608723247,-1228.56877514639,"All Goods",5.306,8015,1093.912,1900,224.49,445,120.079,212
-"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.643608723247,-122.856877514639,"Chemical",1.048,1848,280.211,494,62.346,110,20.763,37
-"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.643608723247,-122.856877514639,"Coal, Oil, Waste, etc.",0.534,1003,125.963,237,51.921,98,15.663,29
-"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.643608723247,-122.856877514639,"Electronics",0.04,2,0.788,0,3.45,0,0,0
-"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.643608723247,-122.856877514639,"Food",0.107,64,0,0,0,0,29.102,18
-"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.643608723247,-122.856877514639,"Gravel, Sand, etc.",0,30,0,0,0,0,0.141,10
-"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.643608723247,-122.856877514639,"Machinery",0.642,208,155.979,50,0,0,0,0
-"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.643608723247,-122.856877514639,"Misc manufactured",0.075,14,33.609,6,0,0,0,0
-"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.643608723247,-122.856877514639,"Motor Vehicles, etc.",0.71,46,0,0,0,0,0,0
-"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.643608723247,-122.856877514639,"Wood, Paper, etc.",0.042,78,4.965,9,3.851,7,10.268,19
-"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.6442030405046,-122.857681745326,"Agriculture",0.193,432,29.787,67,8.371,19,9.208,21
-"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",456.442030405046,-1228.57681745326,"All Goods",5.848,4713,1514.11,1061,349.568,226,113.143,174
-"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.6442030405046,-122.857681745326,"Chemical",1.026,1809,202.533,357,49.099,87,37.93,67
-"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.6442030405046,-122.857681745326,"Coal, Oil, Waste, etc.",0.484,910,107.167,201,28.154,53,5.607,11
-"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.6442030405046,-122.857681745326,"Electronics",0.609,31,159.104,8,0,0,0,0
-"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.6442030405046,-122.857681745326,"Food",0.462,279,51.057,31,28.053,17,0,0
-"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.6442030405046,-122.857681745326,"Gravel, Sand, etc.",0.004,305,1.53,112,0,0,0.256,19
-"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.6442030405046,-122.857681745326,"Machinery",1.763,570,602.651,195,114.613,37,35.935,12
-"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.6442030405046,-122.857681745326,"Misc manufactured",0.682,122,141.697,25,2.618,0,0,0
-"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.6442030405046,-122.857681745326,"Motor Vehicles, etc.",0.507,33,190.824,12,115.681,8,0,0
-"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.6442030405046,-122.857681745326,"Wood, Paper, etc.",0.118,222,27.76,52,2.979,6,24.207,46
-"NW Front Ave EB","Portland Central City to Columbia County",45.5623311803532,-122.738671029545,"Agriculture",0,0,0.042,0,0,0,0,0
-"NW Front Ave EB","Portland Central City to Columbia County",455.623311803532,-1227.38671029545,"All Goods",0.452,632,216.489,305,18.689,24,0,0
-"NW Front Ave EB","Portland Central City to Columbia County",45.5623311803532,-122.738671029545,"Chemical",0.009,16,5.07,9,0.003,0,0,0
-"NW Front Ave EB","Portland Central City to Columbia County",45.5623311803532,-122.738671029545,"Coal, Oil, Waste, etc.",0.311,584,147.294,277,12.356,23,0,0
-"NW Front Ave EB","Portland Central City to Columbia County",45.5623311803532,-122.738671029545,"Electronics",0.09,5,35.389,2,6.305,0,0,0
-"NW Front Ave EB","Portland Central City to Columbia County",45.5623311803532,-122.738671029545,"Food",0.014,8,0.68,0,0,0,0,0
-"NW Front Ave EB","Portland Central City to Columbia County",45.5623311803532,-122.738671029545,"Gravel, Sand, etc.",0,14,0.157,12,0,0,0,0
-"NW Front Ave EB","Portland Central City to Columbia County",45.5623311803532,-122.738671029545,"Machinery",0,0,0.089,0,0.024,0,0,0
-"NW Front Ave EB","Portland Central City to Columbia County",45.5623311803532,-122.738671029545,"Misc manufactured",0.027,5,27.467,5,0,0,0,0
-"NW Front Ave EB","Portland Central City to Columbia County",45.5623311803532,-122.738671029545,"Motor Vehicles, etc.",0,0,0,0,0,0,0,0
-"NW Front Ave EB","Portland Central City to Columbia County",45.5623311803532,-122.738671029545,"Wood, Paper, etc.",0,1,0.301,1,0,0,0,0
-"NW Front Ave WB","Portland Central City to Columbia County",45.5631682600449,-122.738123948573,"Agriculture",0,0,0,0,0,0,0,0
-"NW Front Ave WB","Portland Central City to Columbia County",455.631682600449,-1227.38123948573,"All Goods",0,0,0,0,0,0,0,0
-"NW Front Ave WB","Portland Central City to Columbia County",45.5631682600449,-122.738123948573,"Chemical",0,0,0,0,0,0,0,0
-"NW Front Ave WB","Portland Central City to Columbia County",45.5631682600449,-122.738123948573,"Coal, Oil, Waste, etc.",0,0,0,0,0,0,0,0
-"NW Front Ave WB","Portland Central City to Columbia County",45.5631682600449,-122.738123948573,"Electronics",0,0,0,0,0,0,0,0
-"NW Front Ave WB","Portland Central City to Columbia County",45.5631682600449,-122.738123948573,"Food",0,0,0,0,0,0,0,0
-"NW Front Ave WB","Portland Central City to Columbia County",45.5631682600449,-122.738123948573,"Gravel, Sand, etc.",0,0,0,0,0,0,0,0
-"NW Front Ave WB","Portland Central City to Columbia County",45.5631682600449,-122.738123948573,"Machinery",0,0,0,0,0,0,0,0
-"NW Front Ave WB","Portland Central City to Columbia County",45.5631682600449,-122.738123948573,"Misc manufactured",0,0,0,0,0,0,0,0
-"NW Front Ave WB","Portland Central City to Columbia County",45.5631682600449,-122.738123948573,"Motor Vehicles, etc.",0,0,0,0,0,0,0,0
-"NW Front Ave WB","Portland Central City to Columbia County",45.5631682600449,-122.738123948573,"Wood, Paper, etc.",0,0,0,0,0,0,0,0
+"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.64360872,-122.8568775,"Agriculture",2.108,4722,492.399,1103,102.922,231,44.142,99
+"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",456.4360872,-1228.568775,"All Goods",5.306,8015,1093.912,1900,224.49,445,120.079,212
+"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.64360872,-122.8568775,"Chemical",1.048,1848,280.211,494,62.346,110,20.763,37
+"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.64360872,-122.8568775,"Coal, Oil, Waste, etc.",0.534,1003,125.963,237,51.921,98,15.663,29
+"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.64360872,-122.8568775,"Electronics",0.04,2,0.788,0,3.45,0,0,0
+"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.64360872,-122.8568775,"Food",0.107,64,0,0,0,0,29.102,18
+"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.64360872,-122.8568775,"Gravel, Sand, etc.",0,30,0,0,0,0,0.141,10
+"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.64360872,-122.8568775,"Machinery",0.642,208,155.979,50,0,0,0,0
+"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.64360872,-122.8568775,"Misc manufactured",0.075,14,33.609,6,0,0,0,0
+"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.64360872,-122.8568775,"Motor Vehicles, etc.",0.71,46,0,0,0,0,0,0
+"NW Cornelius Pass Road NB US30","Portland Central City to Columbia County",45.64360872,-122.8568775,"Wood, Paper, etc.",0.042,78,4.965,9,3.851,7,10.268,19
+"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.64420304,-122.8576817,"Agriculture",0.193,432,29.787,67,8.371,19,9.208,21
+"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",456.4420304,-1228.576817,"All Goods",5.848,4713,1514.11,1061,349.568,226,113.143,174
+"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.64420304,-122.8576817,"Chemical",1.026,1809,202.533,357,49.099,87,37.93,67
+"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.64420304,-122.8576817,"Coal, Oil, Waste, etc.",0.484,910,107.167,201,28.154,53,5.607,11
+"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.64420304,-122.8576817,"Electronics",0.609,31,159.104,8,0,0,0,0
+"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.64420304,-122.8576817,"Food",0.462,279,51.057,31,28.053,17,0,0
+"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.64420304,-122.8576817,"Gravel, Sand, etc.",0.004,305,1.53,112,0,0,0.256,19
+"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.64420304,-122.8576817,"Machinery",1.763,570,602.651,195,114.613,37,35.935,12
+"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.64420304,-122.8576817,"Misc manufactured",0.682,122,141.697,25,2.618,0,0,0
+"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.64420304,-122.8576817,"Motor Vehicles, etc.",0.507,33,190.824,12,115.681,8,0,0
+"NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.64420304,-122.8576817,"Wood, Paper, etc.",0.118,222,27.76,52,2.979,6,24.207,46
+"NW Front Ave EB","Portland Central City to Columbia County",45.56233118,-122.738671,"Agriculture",0,0,0.042,0,0,0,0,0
+"NW Front Ave EB","Portland Central City to Columbia County",455.6233118,-1227.38671,"All Goods",0.452,632,216.489,305,18.689,24,0,0
+"NW Front Ave EB","Portland Central City to Columbia County",45.56233118,-122.738671,"Chemical",0.009,16,5.07,9,0.003,0,0,0
+"NW Front Ave EB","Portland Central City to Columbia County",45.56233118,-122.738671,"Coal, Oil, Waste, etc.",0.311,584,147.294,277,12.356,23,0,0
+"NW Front Ave EB","Portland Central City to Columbia County",45.56233118,-122.738671,"Electronics",0.09,5,35.389,2,6.305,0,0,0
+"NW Front Ave EB","Portland Central City to Columbia County",45.56233118,-122.738671,"Food",0.014,8,0.68,0,0,0,0,0
+"NW Front Ave EB","Portland Central City to Columbia County",45.56233118,-122.738671,"Gravel, Sand, etc.",0,14,0.157,12,0,0,0,0
+"NW Front Ave EB","Portland Central City to Columbia County",45.56233118,-122.738671,"Machinery",0,0,0.089,0,0.024,0,0,0
+"NW Front Ave EB","Portland Central City to Columbia County",45.56233118,-122.738671,"Misc manufactured",0.027,5,27.467,5,0,0,0,0
+"NW Front Ave EB","Portland Central City to Columbia County",45.56233118,-122.738671,"Motor Vehicles, etc.",0,0,0,0,0,0,0,0
+"NW Front Ave EB","Portland Central City to Columbia County",45.56233118,-122.738671,"Wood, Paper, etc.",0,1,0.301,1,0,0,0,0
+"NW Front Ave WB","Portland Central City to Columbia County",45.56316826,-122.7381239,"Agriculture",0,0,0,0,0,0,0,0
+"NW Front Ave WB","Portland Central City to Columbia County",455.6316826,-1227.381239,"All Goods",0,0,0,0,0,0,0,0
+"NW Front Ave WB","Portland Central City to Columbia County",45.56316826,-122.7381239,"Chemical",0,0,0,0,0,0,0,0
+"NW Front Ave WB","Portland Central City to Columbia County",45.56316826,-122.7381239,"Coal, Oil, Waste, etc.",0,0,0,0,0,0,0,0
+"NW Front Ave WB","Portland Central City to Columbia County",45.56316826,-122.7381239,"Electronics",0,0,0,0,0,0,0,0
+"NW Front Ave WB","Portland Central City to Columbia County",45.56316826,-122.7381239,"Food",0,0,0,0,0,0,0,0
+"NW Front Ave WB","Portland Central City to Columbia County",45.56316826,-122.7381239,"Gravel, Sand, etc.",0,0,0,0,0,0,0,0
+"NW Front Ave WB","Portland Central City to Columbia County",45.56316826,-122.7381239,"Machinery",0,0,0,0,0,0,0,0
+"NW Front Ave WB","Portland Central City to Columbia County",45.56316826,-122.7381239,"Misc manufactured",0,0,0,0,0,0,0,0
+"NW Front Ave WB","Portland Central City to Columbia County",45.56316826,-122.7381239,"Motor Vehicles, etc.",0,0,0,0,0,0,0,0
+"NW Front Ave WB","Portland Central City to Columbia County",45.56316826,-122.7381239,"Wood, Paper, etc.",0,0,0,0,0,0,0,0
 "OR 30 NB","Portland Central City to Columbia County",45.639895,-122.831372,"Agriculture",0.224,501,43.181,97,11.719,26,9.208,21
 "OR 30 NB","Portland Central City to Columbia County",456.39895,-1228.31372,"All Goods",7.745,6020,2100.926,1403,422.172,299,162.266,226
 "OR 30 NB","Portland Central City to Columbia County",45.639895,-122.831372,"Chemical",1.145,2019,232.675,410,49.099,87,37.93,67
@@ -615,28 +615,28 @@
 "St John Bridge SB","Portland Central City to Columbia County",45.585194,-122.765609,"Misc manufactured",0.771,138,158.383,28,2.618,0,44.453,8
 "St John Bridge SB","Portland Central City to Columbia County",45.585194,-122.765609,"Motor Vehicles, etc.",8.88,576,5528.564,358,449.846,29,0,0
 "St John Bridge SB","Portland Central City to Columbia County",45.585194,-122.765609,"Wood, Paper, etc.",0.249,468,64.031,120,12.988,24,6.59,12
-"US 30 EB","Portland Central City to Columbia County",45.5549323117283,-122.734083178404,"Agriculture",0.464,1038,153.025,343,19.519,44,8.371,19
-"US 30 EB","Portland Central City to Columbia County",455.549323117283,-1227.34083178404,"All Goods",17.263,12316,8134.707,4280,761.13,623,397.711,363
-"US 30 EB","Portland Central City to Columbia County",45.5549323117283,-122.734083178404,"Chemical",1.572,2772,889.24,1568,52.496,93,7.715,14
-"US 30 EB","Portland Central City to Columbia County",45.5549323117283,-122.734083178404,"Coal, Oil, Waste, etc.",3.346,6289,819.434,1540,209.592,394,149.809,282
-"US 30 EB","Portland Central City to Columbia County",45.5549323117283,-122.734083178404,"Electronics",1.109,56,164.847,8,24.387,1,177.537,9
-"US 30 EB","Portland Central City to Columbia County",45.5549323117283,-122.734083178404,"Food",0.295,178,107.704,65,14.742,9,0,0
-"US 30 EB","Portland Central City to Columbia County",45.5549323117283,-122.734083178404,"Gravel, Sand, etc.",0.009,662,1.584,116,0.364,27,0.376,28
-"US 30 EB","Portland Central City to Columbia County",45.5549323117283,-122.734083178404,"Machinery",1.749,566,703.103,227,105.649,34,8.776,3
-"US 30 EB","Portland Central City to Columbia County",45.5549323117283,-122.734083178404,"Misc manufactured",0.443,79,239.754,43,0,0,44.453,8
-"US 30 EB","Portland Central City to Columbia County",45.5549323117283,-122.734083178404,"Motor Vehicles, etc.",8.201,532,5033.469,326,334.165,22,0,0
-"US 30 EB","Portland Central City to Columbia County",45.5549323117283,-122.734083178404,"Wood, Paper, etc.",0.076,143,22.549,42,0.216,0,0.674,1
-"US 30 WB","Portland Central City to Columbia County",45.5557606792632,-122.73352299341,"Agriculture",0.771,1727,236.534,530,17.509,39,19.973,45
-"US 30 WB","Portland Central City to Columbia County",455.557606792632,-1227.3352299341,"All Goods",4.47,5150,834.581,1403,272.118,324,181.661,175
-"US 30 WB","Portland Central City to Columbia County",45.5557606792632,-122.73352299341,"Chemical",0.456,805,111.666,197,47.884,84,5.339,9
-"US 30 WB","Portland Central City to Columbia County",45.5557606792632,-122.73352299341,"Coal, Oil, Waste, etc.",0.743,1397,205.407,386,48.005,90,7.634,14
-"US 30 WB","Portland Central City to Columbia County",45.5557606792632,-122.73352299341,"Electronics",0.667,34,6.994,0,14.949,1,0,0
-"US 30 WB","Portland Central City to Columbia County",45.5557606792632,-122.73352299341,"Food",0.329,199,37.245,22,32.715,20,57.306,35
-"US 30 WB","Portland Central City to Columbia County",45.5557606792632,-122.73352299341,"Gravel, Sand, etc.",0.003,250,0.615,45,0.246,18,0.335,25
-"US 30 WB","Portland Central City to Columbia County",45.5557606792632,-122.73352299341,"Machinery",0.795,257,130.511,42,79.421,26,79.508,26
-"US 30 WB","Portland Central City to Columbia County",45.5557606792632,-122.73352299341,"Misc manufactured",0.187,34,0,0,4.582,1,0,0
-"US 30 WB","Portland Central City to Columbia County",45.5557606792632,-122.73352299341,"Motor Vehicles, etc.",0.289,19,9.965,1,3.166,0,0,0
-"US 30 WB","Portland Central City to Columbia County",45.5557606792632,-122.73352299341,"Wood, Paper, etc.",0.229,430,95.644,180,23.64,44,11.566,22
+"US 30 EB","Portland Central City to Columbia County",45.55493231,-122.7340832,"Agriculture",0.464,1038,153.025,343,19.519,44,8.371,19
+"US 30 EB","Portland Central City to Columbia County",455.5493231,-1227.340832,"All Goods",17.263,12316,8134.707,4280,761.13,623,397.711,363
+"US 30 EB","Portland Central City to Columbia County",45.55493231,-122.7340832,"Chemical",1.572,2772,889.24,1568,52.496,93,7.715,14
+"US 30 EB","Portland Central City to Columbia County",45.55493231,-122.7340832,"Coal, Oil, Waste, etc.",3.346,6289,819.434,1540,209.592,394,149.809,282
+"US 30 EB","Portland Central City to Columbia County",45.55493231,-122.7340832,"Electronics",1.109,56,164.847,8,24.387,1,177.537,9
+"US 30 EB","Portland Central City to Columbia County",45.55493231,-122.7340832,"Food",0.295,178,107.704,65,14.742,9,0,0
+"US 30 EB","Portland Central City to Columbia County",45.55493231,-122.7340832,"Gravel, Sand, etc.",0.009,662,1.584,116,0.364,27,0.376,28
+"US 30 EB","Portland Central City to Columbia County",45.55493231,-122.7340832,"Machinery",1.749,566,703.103,227,105.649,34,8.776,3
+"US 30 EB","Portland Central City to Columbia County",45.55493231,-122.7340832,"Misc manufactured",0.443,79,239.754,43,0,0,44.453,8
+"US 30 EB","Portland Central City to Columbia County",45.55493231,-122.7340832,"Motor Vehicles, etc.",8.201,532,5033.469,326,334.165,22,0,0
+"US 30 EB","Portland Central City to Columbia County",45.55493231,-122.7340832,"Wood, Paper, etc.",0.076,143,22.549,42,0.216,0,0.674,1
+"US 30 WB","Portland Central City to Columbia County",45.55576068,-122.733523,"Agriculture",0.771,1727,236.534,530,17.509,39,19.973,45
+"US 30 WB","Portland Central City to Columbia County",455.5576068,-1227.33523,"All Goods",4.47,5150,834.581,1403,272.118,324,181.661,175
+"US 30 WB","Portland Central City to Columbia County",45.55576068,-122.733523,"Chemical",0.456,805,111.666,197,47.884,84,5.339,9
+"US 30 WB","Portland Central City to Columbia County",45.55576068,-122.733523,"Coal, Oil, Waste, etc.",0.743,1397,205.407,386,48.005,90,7.634,14
+"US 30 WB","Portland Central City to Columbia County",45.55576068,-122.733523,"Electronics",0.667,34,6.994,0,14.949,1,0,0
+"US 30 WB","Portland Central City to Columbia County",45.55576068,-122.733523,"Food",0.329,199,37.245,22,32.715,20,57.306,35
+"US 30 WB","Portland Central City to Columbia County",45.55576068,-122.733523,"Gravel, Sand, etc.",0.003,250,0.615,45,0.246,18,0.335,25
+"US 30 WB","Portland Central City to Columbia County",45.55576068,-122.733523,"Machinery",0.795,257,130.511,42,79.421,26,79.508,26
+"US 30 WB","Portland Central City to Columbia County",45.55576068,-122.733523,"Misc manufactured",0.187,34,0,0,4.582,1,0,0
+"US 30 WB","Portland Central City to Columbia County",45.55576068,-122.733523,"Motor Vehicles, etc.",0.289,19,9.965,1,3.166,0,0,0
+"US 30 WB","Portland Central City to Columbia County",45.55576068,-122.733523,"Wood, Paper, etc.",0.229,430,95.644,180,23.64,44,11.566,22
 "I-84 EB 82nd","Portland Central City to Gateway",45.530577,-122.572246,"Agriculture",1.576,3530,310.797,696,59.679,134,74.056,166
 "I-84 EB 82nd","Portland Central City to Gateway",455.30577,-1225.72246,"All Goods",50.637,37776,10222.182,7165,2429.926,2274,1999.973,2092
 "I-84 EB 82nd","Portland Central City to Gateway",45.530577,-122.572246,"Chemical",0.949,1674,197.309,348,62.834,111,43.052,76
@@ -681,94 +681,94 @@
 "I-84 WB Grand","Portland Central City to Gateway",45.52766,-122.658147,"Misc manufactured",8.2,1470,1276.033,229,336.096,60,661.368,119
 "I-84 WB Grand","Portland Central City to Gateway",45.52766,-122.658147,"Motor Vehicles, etc.",5.163,335,1253.678,81,650.283,42,0,0
 "I-84 WB Grand","Portland Central City to Gateway",45.52766,-122.658147,"Wood, Paper, etc.",4.679,8796,681.276,1281,302.457,569,473.385,890
-"I-5 NB OR 217","Portland Central City to Tigard",45.4285772544358,-122.743469717653,"Agriculture",3.334,7468,570.713,1278,205.757,461,187.39,420
-"I-5 NB OR 217","Portland Central City to Tigard",454.285772544358,-1227.43469717653,"All Goods",83.138,61236,12269.359,8552,5487.248,3930,6240.905,4195
-"I-5 NB OR 217","Portland Central City to Tigard",45.4285772544358,-122.743469717653,"Chemical",4.167,7349,589.644,1040,189.111,333,188.367,332
-"I-5 NB OR 217","Portland Central City to Tigard",45.4285772544358,-122.743469717653,"Coal, Oil, Waste, etc.",5.667,10652,576.405,1084,456.633,858,344.223,647
-"I-5 NB OR 217","Portland Central City to Tigard",45.4285772544358,-122.743469717653,"Electronics",10.759,546,1608.833,82,1370.817,70,540.259,27
-"I-5 NB OR 217","Portland Central City to Tigard",45.4285772544358,-122.743469717653,"Food",15.997,9664,2416.464,1460,1001.549,605,1343.65,812
-"I-5 NB OR 217","Portland Central City to Tigard",45.4285772544358,-122.743469717653,"Gravel, Sand, etc.",0.062,4541,6.236,456,5.778,423,3.884,284
-"I-5 NB OR 217","Portland Central City to Tigard",45.4285772544358,-122.743469717653,"Machinery",7.305,2361,1365.93,442,380.115,123,467.334,151
-"I-5 NB OR 217","Portland Central City to Tigard",45.4285772544358,-122.743469717653,"Misc manufactured",18.487,3313,2029.528,364,864.116,155,2048.047,367
-"I-5 NB OR 217","Portland Central City to Tigard",45.4285772544358,-122.743469717653,"Motor Vehicles, etc.",9.528,618,1923.652,125,552.812,36,521.528,34
-"I-5 NB OR 217","Portland Central City to Tigard",45.4285772544358,-122.743469717653,"Wood, Paper, etc.",7.832,14724,1181.953,2222,460.559,866,596.222,1121
-"I-5 NB OR 99W","Portland Central City to Tigard",45.4488510741933,-122.728848526913,"Agriculture",3.973,8898,570.538,1278,250.735,562,239.063,535
-"I-5 NB OR 99W","Portland Central City to Tigard",454.488510741933,-1227.28848526913,"All Goods",94.614,69108,12252.134,8461,6141.317,4561,7118.881,4770
-"I-5 NB OR 99W","Portland Central City to Tigard",45.4488510741933,-122.728848526913,"Chemical",4.448,7844,589.644,1040,224.74,396,198.915,351
-"I-5 NB OR 99W","Portland Central City to Tigard",45.4488510741933,-122.728848526913,"Coal, Oil, Waste, etc.",6.368,11971,567.281,1066,523.061,983,414.585,779
-"I-5 NB OR 99W","Portland Central City to Tigard",45.4488510741933,-122.728848526913,"Electronics",15.035,763,1607.842,82,1598.792,81,922.449,47
-"I-5 NB OR 99W","Portland Central City to Tigard",45.4488510741933,-122.728848526913,"Food",17.286,10443,2416.464,1460,1036.459,626,1379.613,833
-"I-5 NB OR 99W","Portland Central City to Tigard",45.4488510741933,-122.728848526913,"Gravel, Sand, etc.",0.079,5778,5.394,395,7.837,573,4.427,324
-"I-5 NB OR 99W","Portland Central City to Tigard",45.4488510741933,-122.728848526913,"Machinery",8.145,2633,1365.93,442,474.988,154,568.612,184
-"I-5 NB OR 99W","Portland Central City to Tigard",45.4488510741933,-122.728848526913,"Misc manufactured",19.805,3549,2029.528,364,950.792,170,2182.493,391
-"I-5 NB OR 99W","Portland Central City to Tigard",45.4488510741933,-122.728848526913,"Motor Vehicles, etc.",10.68,692,1923.652,125,552.812,36,521.528,34
-"I-5 NB OR 99W","Portland Central City to Tigard",45.4488510741933,-122.728848526913,"Wood, Paper, etc.",8.796,16538,1175.862,2211,521.1,980,687.198,1292
-"I-5 NB Terwilliger","Portland Central City to Tigard",45.4641778514724,-122.696613456993,"Agriculture",3.972,8897,570.538,1278,250.735,562,239.063,535
-"I-5 NB Terwilliger","Portland Central City to Tigard",454.641778514724,-1226.96613456993,"All Goods",94.825,69157,12251.738,8461,6141.317,4561,7118.881,4770
-"I-5 NB Terwilliger","Portland Central City to Tigard",45.4641778514724,-122.696613456993,"Chemical",4.439,7827,589.644,1040,224.74,396,198.915,351
-"I-5 NB Terwilliger","Portland Central City to Tigard",45.4641778514724,-122.696613456993,"Coal, Oil, Waste, etc.",6.37,11975,567.281,1066,523.061,983,414.585,779
-"I-5 NB Terwilliger","Portland Central City to Tigard",45.4641778514724,-122.696613456993,"Electronics",15.161,769,1607.447,82,1598.792,81,922.449,47
-"I-5 NB Terwilliger","Portland Central City to Tigard",45.4641778514724,-122.696613456993,"Food",17.329,10469,2416.464,1460,1036.459,626,1379.613,833
-"I-5 NB Terwilliger","Portland Central City to Tigard",45.4641778514724,-122.696613456993,"Gravel, Sand, etc.",0.079,5785,5.394,395,7.837,573,4.427,324
-"I-5 NB Terwilliger","Portland Central City to Tigard",45.4641778514724,-122.696613456993,"Machinery",8.19,2648,1365.93,442,474.988,154,568.612,184
-"I-5 NB Terwilliger","Portland Central City to Tigard",45.4641778514724,-122.696613456993,"Misc manufactured",19.805,3549,2029.528,364,950.792,170,2182.493,391
-"I-5 NB Terwilliger","Portland Central City to Tigard",45.4641778514724,-122.696613456993,"Motor Vehicles, etc.",10.68,692,1923.652,125,552.812,36,521.528,34
-"I-5 NB Terwilliger","Portland Central City to Tigard",45.4641778514724,-122.696613456993,"Wood, Paper, etc.",8.8,16545,1175.862,2211,521.1,980,687.198,1292
-"I-5 SB OR 217","Portland Central City to Tigard",45.4285431749325,-122.744710081528,"Agriculture",1.302,2916,284.41,637,89.675,201,70.165,157
-"I-5 SB OR 217","Portland Central City to Tigard",454.285431749325,-1227.44710081528,"All Goods",119.536,65942,21305.553,11669,8983.748,4174,6996.182,3912
-"I-5 SB OR 217","Portland Central City to Tigard",45.4285431749325,-122.744710081528,"Chemical",3.838,6769,874.414,1542,179.028,316,139.056,245
-"I-5 SB OR 217","Portland Central City to Tigard",45.4285431749325,-122.744710081528,"Coal, Oil, Waste, etc.",8.418,15825,1676.001,3151,563.877,1060,437.967,823
-"I-5 SB OR 217","Portland Central City to Tigard",45.4285431749325,-122.744710081528,"Electronics",15.777,800,2781.228,141,1854.791,94,711.164,36
-"I-5 SB OR 217","Portland Central City to Tigard",45.4285431749325,-122.744710081528,"Food",13.659,8252,2213.345,1337,682.322,412,797.868,482
-"I-5 SB OR 217","Portland Central City to Tigard",45.4285431749325,-122.744710081528,"Gravel, Sand, etc.",0.062,4553,9.635,705,4.423,324,3.6,263
-"I-5 SB OR 217","Portland Central City to Tigard",45.4285431749325,-122.744710081528,"Machinery",17.118,5534,3356.292,1085,1130.033,365,746.592,241
-"I-5 SB OR 217","Portland Central City to Tigard",45.4285431749325,-122.744710081528,"Misc manufactured",24.181,4334,3038.054,544,1424.782,255,2860.143,513
-"I-5 SB OR 217","Portland Central City to Tigard",45.4285431749325,-122.744710081528,"Motor Vehicles, etc.",27.093,1757,5932.723,385,2531.978,164,639.723,41
-"I-5 SB OR 217","Portland Central City to Tigard",45.4285431749325,-122.744710081528,"Wood, Paper, etc.",8.086,15203,1139.451,2142,522.84,983,589.902,1109
-"I-5 SB OR 99W","Portland Central City to Tigard",45.4497288494743,-122.729917512699,"Agriculture",1.472,3296,323.994,726,86.766,194,90.129,202
-"I-5 SB OR 99W","Portland Central City to Tigard",454.497288494743,-1227.29917512699,"All Goods",130.696,75043,24894.469,14270,8642.338,4319,7997.56,4540
-"I-5 SB OR 99W","Portland Central City to Tigard",45.4497288494743,-122.729917512699,"Chemical",4.279,7546,975.41,1720,199.857,352,159.011,280
-"I-5 SB OR 99W","Portland Central City to Tigard",45.4497288494743,-122.729917512699,"Coal, Oil, Waste, etc.",10.267,19299,2240.569,4212,580.317,1091,555.404,1044
-"I-5 SB OR 99W","Portland Central City to Tigard",45.4497288494743,-122.729917512699,"Electronics",20.003,1015,4126.092,209,1803.723,91,947.431,48
-"I-5 SB OR 99W","Portland Central City to Tigard",45.4497288494743,-122.729917512699,"Food",15.416,9313,2705.859,1635,790.358,477,1015.369,613
-"I-5 SB OR 99W","Portland Central City to Tigard",45.4497288494743,-122.729917512699,"Gravel, Sand, etc.",0.078,5706,14.065,1029,5.245,384,3.856,282
-"I-5 SB OR 99W","Portland Central City to Tigard",45.4497288494743,-122.729917512699,"Machinery",18.672,6036,3917.771,1267,1100.808,356,849.709,275
-"I-5 SB OR 99W","Portland Central City to Tigard",45.4497288494743,-122.729917512699,"Misc manufactured",25.127,4503,3205.617,574,1294.446,232,3099.518,555
-"I-5 SB OR 99W","Portland Central City to Tigard",45.4497288494743,-122.729917512699,"Motor Vehicles, etc.",26.549,1721,6052.196,392,2251.876,146,639.723,41
-"I-5 SB OR 99W","Portland Central City to Tigard",45.4497288494743,-122.729917512699,"Wood, Paper, etc.",8.833,16606,1332.897,2506,528.943,994,637.41,1198
-"I-5 SB Terwilliger","Portland Central City to Tigard",45.4653681965453,-122.696923618341,"Agriculture",1.48,3314,336.871,755,85.319,191,90.122,202
-"I-5 SB Terwilliger","Portland Central City to Tigard",454.653681965453,-1226.96923618341,"All Goods",129.233,73016,24902.497,13951,8564.349,4205,7916.457,4451
-"I-5 SB Terwilliger","Portland Central City to Tigard",45.4653681965453,-122.696923618341,"Chemical",4.157,7331,957.231,1688,191.211,337,159.011,280
-"I-5 SB Terwilliger","Portland Central City to Tigard",45.4653681965453,-122.696923618341,"Coal, Oil, Waste, etc.",9.649,18139,2091.997,3933,559.452,1052,530.405,997
-"I-5 SB Terwilliger","Portland Central City to Tigard",45.4653681965453,-122.696923618341,"Electronics",19.854,1007,4119.6,209,1791.131,91,939.785,48
-"I-5 SB Terwilliger","Portland Central City to Tigard",45.4653681965453,-122.696923618341,"Food",14.948,9030,2685.994,1623,782,472,972.382,587
-"I-5 SB Terwilliger","Portland Central City to Tigard",45.4653681965453,-122.696923618341,"Gravel, Sand, etc.",0.077,5638,13.637,998,5.104,373,3.788,277
-"I-5 SB Terwilliger","Portland Central City to Tigard",45.4653681965453,-122.696923618341,"Machinery",18.631,6023,3915.026,1266,1095.339,354,849.709,275
-"I-5 SB Terwilliger","Portland Central City to Tigard",45.4653681965453,-122.696923618341,"Misc manufactured",25.127,4503,3205.617,574,1294.397,232,3099.518,555
-"I-5 SB Terwilliger","Portland Central City to Tigard",45.4653681965453,-122.696923618341,"Motor Vehicles, etc.",26.638,1727,6246.172,405,2251.876,146,639.723,41
-"I-5 SB Terwilliger","Portland Central City to Tigard",45.4653681965453,-122.696923618341,"Wood, Paper, etc.",8.672,16303,1330.352,2501,508.52,956,632.013,1188
-"OR 99W NB I-5-OR217","Portland Central City to Tigard",45.4388775273442,-122.752179914226,"Agriculture",0.795,1780,117.192,262,45.622,102,51.673,116
-"OR 99W NB I-5-OR217","Portland Central City to Tigard",454.388775273442,-1227.52179914226,"All Goods",11.003,9344,1318.223,1961,490.143,467,767.681,444
-"OR 99W NB I-5-OR217","Portland Central City to Tigard",45.4388775273442,-122.752179914226,"Chemical",0.414,730,102.847,181,30.77,54,10.548,19
-"OR 99W NB I-5-OR217","Portland Central City to Tigard",45.4388775273442,-122.752179914226,"Coal, Oil, Waste, etc.",0.588,1106,170.366,320,27.547,52,22.029,41
-"OR 99W NB I-5-OR217","Portland Central City to Tigard",45.4388775273442,-122.752179914226,"Electronics",2.898,147,161.282,8,152.506,8,369.141,19
-"OR 99W NB I-5-OR217","Portland Central City to Tigard",45.4388775273442,-122.752179914226,"Food",1.851,1118,278.995,169,32.763,20,23.547,14
-"OR 99W NB I-5-OR217","Portland Central City to Tigard",45.4388775273442,-122.752179914226,"Gravel, Sand, etc.",0.031,2282,10.399,761,1.646,120,0.542,40
-"OR 99W NB I-5-OR217","Portland Central City to Tigard",45.4388775273442,-122.752179914226,"Machinery",0.847,274,104.999,34,74.872,24,78.078,25
-"OR 99W NB I-5-OR217","Portland Central City to Tigard",45.4388775273442,-122.752179914226,"Misc manufactured",1.755,315,266.907,48,86.724,16,134.445,24
-"OR 99W NB I-5-OR217","Portland Central City to Tigard",45.4388775273442,-122.752179914226,"Motor Vehicles, etc.",1.012,66,10.957,1,0,0,0,0
-"OR 99W NB I-5-OR217","Portland Central City to Tigard",45.4388775273442,-122.752179914226,"Wood, Paper, etc.",0.811,1526,94.278,177,37.693,71,77.678,146
-"OR 99W SB I-5-OR217","Portland Central City to Tigard",45.4397633549176,-122.752643928784,"Agriculture",0.225,503,38.009,85,9.179,21,13.799,31
-"OR 99W SB I-5-OR217","Portland Central City to Tigard",454.397633549176,-1227.52643928784,"All Goods",12.703,9595,2910.343,2167,775.205,657,798.967,449
-"OR 99W SB I-5-OR217","Portland Central City to Tigard",45.4397633549176,-122.752643928784,"Chemical",0.588,1037,70.962,125,57.034,101,19.955,35
-"OR 99W SB I-5-OR217","Portland Central City to Tigard",45.4397633549176,-122.752643928784,"Coal, Oil, Waste, etc.",1.222,2298,349.344,657,49.292,93,65.272,123
-"OR 99W SB I-5-OR217","Portland Central City to Tigard",45.4397633549176,-122.752643928784,"Electronics",2.947,149,912.975,46,104.645,5,157.333,8
-"OR 99W SB I-5-OR217","Portland Central City to Tigard",45.4397633549176,-122.752643928784,"Food",2.299,1389,494.865,299,199.998,121,185.553,112
-"OR 99W SB I-5-OR217","Portland Central City to Tigard",45.4397633549176,-122.752643928784,"Gravel, Sand, etc.",0.019,1357,4.772,349,1.513,111,0,0
-"OR 99W SB I-5-OR217","Portland Central City to Tigard",45.4397633549176,-122.752643928784,"Machinery",2.216,716,607.342,196,140.306,45,79.916,26
-"OR 99W SB I-5-OR217","Portland Central City to Tigard",45.4397633549176,-122.752643928784,"Misc manufactured",1.751,314,176.145,32,140.763,25,239.375,43
-"OR 99W SB I-5-OR217","Portland Central City to Tigard",45.4397633549176,-122.752643928784,"Motor Vehicles, etc.",0.478,31,56.808,4,0,0,0,0
-"OR 99W SB I-5-OR217","Portland Central City to Tigard",45.4397633549176,-122.752643928784,"Wood, Paper, etc.",0.957,1800,199.122,374,72.474,136,37.764,71
+"I-5 NB OR 217","Portland Central City to Tigard",45.42857725,-122.7434697,"Agriculture",3.334,7468,570.713,1278,205.757,461,187.39,420
+"I-5 NB OR 217","Portland Central City to Tigard",454.2857725,-1227.434697,"All Goods",83.138,61236,12269.359,8552,5487.248,3930,6240.905,4195
+"I-5 NB OR 217","Portland Central City to Tigard",45.42857725,-122.7434697,"Chemical",4.167,7349,589.644,1040,189.111,333,188.367,332
+"I-5 NB OR 217","Portland Central City to Tigard",45.42857725,-122.7434697,"Coal, Oil, Waste, etc.",5.667,10652,576.405,1084,456.633,858,344.223,647
+"I-5 NB OR 217","Portland Central City to Tigard",45.42857725,-122.7434697,"Electronics",10.759,546,1608.833,82,1370.817,70,540.259,27
+"I-5 NB OR 217","Portland Central City to Tigard",45.42857725,-122.7434697,"Food",15.997,9664,2416.464,1460,1001.549,605,1343.65,812
+"I-5 NB OR 217","Portland Central City to Tigard",45.42857725,-122.7434697,"Gravel, Sand, etc.",0.062,4541,6.236,456,5.778,423,3.884,284
+"I-5 NB OR 217","Portland Central City to Tigard",45.42857725,-122.7434697,"Machinery",7.305,2361,1365.93,442,380.115,123,467.334,151
+"I-5 NB OR 217","Portland Central City to Tigard",45.42857725,-122.7434697,"Misc manufactured",18.487,3313,2029.528,364,864.116,155,2048.047,367
+"I-5 NB OR 217","Portland Central City to Tigard",45.42857725,-122.7434697,"Motor Vehicles, etc.",9.528,618,1923.652,125,552.812,36,521.528,34
+"I-5 NB OR 217","Portland Central City to Tigard",45.42857725,-122.7434697,"Wood, Paper, etc.",7.832,14724,1181.953,2222,460.559,866,596.222,1121
+"I-5 NB OR 99W","Portland Central City to Tigard",45.44885107,-122.7288485,"Agriculture",3.973,8898,570.538,1278,250.735,562,239.063,535
+"I-5 NB OR 99W","Portland Central City to Tigard",454.4885107,-1227.288485,"All Goods",94.614,69108,12252.134,8461,6141.317,4561,7118.881,4770
+"I-5 NB OR 99W","Portland Central City to Tigard",45.44885107,-122.7288485,"Chemical",4.448,7844,589.644,1040,224.74,396,198.915,351
+"I-5 NB OR 99W","Portland Central City to Tigard",45.44885107,-122.7288485,"Coal, Oil, Waste, etc.",6.368,11971,567.281,1066,523.061,983,414.585,779
+"I-5 NB OR 99W","Portland Central City to Tigard",45.44885107,-122.7288485,"Electronics",15.035,763,1607.842,82,1598.792,81,922.449,47
+"I-5 NB OR 99W","Portland Central City to Tigard",45.44885107,-122.7288485,"Food",17.286,10443,2416.464,1460,1036.459,626,1379.613,833
+"I-5 NB OR 99W","Portland Central City to Tigard",45.44885107,-122.7288485,"Gravel, Sand, etc.",0.079,5778,5.394,395,7.837,573,4.427,324
+"I-5 NB OR 99W","Portland Central City to Tigard",45.44885107,-122.7288485,"Machinery",8.145,2633,1365.93,442,474.988,154,568.612,184
+"I-5 NB OR 99W","Portland Central City to Tigard",45.44885107,-122.7288485,"Misc manufactured",19.805,3549,2029.528,364,950.792,170,2182.493,391
+"I-5 NB OR 99W","Portland Central City to Tigard",45.44885107,-122.7288485,"Motor Vehicles, etc.",10.68,692,1923.652,125,552.812,36,521.528,34
+"I-5 NB OR 99W","Portland Central City to Tigard",45.44885107,-122.7288485,"Wood, Paper, etc.",8.796,16538,1175.862,2211,521.1,980,687.198,1292
+"I-5 NB Terwilliger","Portland Central City to Tigard",45.46417785,-122.6966135,"Agriculture",3.972,8897,570.538,1278,250.735,562,239.063,535
+"I-5 NB Terwilliger","Portland Central City to Tigard",454.6417785,-1226.966135,"All Goods",94.825,69157,12251.738,8461,6141.317,4561,7118.881,4770
+"I-5 NB Terwilliger","Portland Central City to Tigard",45.46417785,-122.6966135,"Chemical",4.439,7827,589.644,1040,224.74,396,198.915,351
+"I-5 NB Terwilliger","Portland Central City to Tigard",45.46417785,-122.6966135,"Coal, Oil, Waste, etc.",6.37,11975,567.281,1066,523.061,983,414.585,779
+"I-5 NB Terwilliger","Portland Central City to Tigard",45.46417785,-122.6966135,"Electronics",15.161,769,1607.447,82,1598.792,81,922.449,47
+"I-5 NB Terwilliger","Portland Central City to Tigard",45.46417785,-122.6966135,"Food",17.329,10469,2416.464,1460,1036.459,626,1379.613,833
+"I-5 NB Terwilliger","Portland Central City to Tigard",45.46417785,-122.6966135,"Gravel, Sand, etc.",0.079,5785,5.394,395,7.837,573,4.427,324
+"I-5 NB Terwilliger","Portland Central City to Tigard",45.46417785,-122.6966135,"Machinery",8.19,2648,1365.93,442,474.988,154,568.612,184
+"I-5 NB Terwilliger","Portland Central City to Tigard",45.46417785,-122.6966135,"Misc manufactured",19.805,3549,2029.528,364,950.792,170,2182.493,391
+"I-5 NB Terwilliger","Portland Central City to Tigard",45.46417785,-122.6966135,"Motor Vehicles, etc.",10.68,692,1923.652,125,552.812,36,521.528,34
+"I-5 NB Terwilliger","Portland Central City to Tigard",45.46417785,-122.6966135,"Wood, Paper, etc.",8.8,16545,1175.862,2211,521.1,980,687.198,1292
+"I-5 SB OR 217","Portland Central City to Tigard",45.42854317,-122.7447101,"Agriculture",1.302,2916,284.41,637,89.675,201,70.165,157
+"I-5 SB OR 217","Portland Central City to Tigard",454.2854317,-1227.447101,"All Goods",119.536,65942,21305.553,11669,8983.748,4174,6996.182,3912
+"I-5 SB OR 217","Portland Central City to Tigard",45.42854317,-122.7447101,"Chemical",3.838,6769,874.414,1542,179.028,316,139.056,245
+"I-5 SB OR 217","Portland Central City to Tigard",45.42854317,-122.7447101,"Coal, Oil, Waste, etc.",8.418,15825,1676.001,3151,563.877,1060,437.967,823
+"I-5 SB OR 217","Portland Central City to Tigard",45.42854317,-122.7447101,"Electronics",15.777,800,2781.228,141,1854.791,94,711.164,36
+"I-5 SB OR 217","Portland Central City to Tigard",45.42854317,-122.7447101,"Food",13.659,8252,2213.345,1337,682.322,412,797.868,482
+"I-5 SB OR 217","Portland Central City to Tigard",45.42854317,-122.7447101,"Gravel, Sand, etc.",0.062,4553,9.635,705,4.423,324,3.6,263
+"I-5 SB OR 217","Portland Central City to Tigard",45.42854317,-122.7447101,"Machinery",17.118,5534,3356.292,1085,1130.033,365,746.592,241
+"I-5 SB OR 217","Portland Central City to Tigard",45.42854317,-122.7447101,"Misc manufactured",24.181,4334,3038.054,544,1424.782,255,2860.143,513
+"I-5 SB OR 217","Portland Central City to Tigard",45.42854317,-122.7447101,"Motor Vehicles, etc.",27.093,1757,5932.723,385,2531.978,164,639.723,41
+"I-5 SB OR 217","Portland Central City to Tigard",45.42854317,-122.7447101,"Wood, Paper, etc.",8.086,15203,1139.451,2142,522.84,983,589.902,1109
+"I-5 SB OR 99W","Portland Central City to Tigard",45.44972885,-122.7299175,"Agriculture",1.472,3296,323.994,726,86.766,194,90.129,202
+"I-5 SB OR 99W","Portland Central City to Tigard",454.4972885,-1227.299175,"All Goods",130.696,75043,24894.469,14270,8642.338,4319,7997.56,4540
+"I-5 SB OR 99W","Portland Central City to Tigard",45.44972885,-122.7299175,"Chemical",4.279,7546,975.41,1720,199.857,352,159.011,280
+"I-5 SB OR 99W","Portland Central City to Tigard",45.44972885,-122.7299175,"Coal, Oil, Waste, etc.",10.267,19299,2240.569,4212,580.317,1091,555.404,1044
+"I-5 SB OR 99W","Portland Central City to Tigard",45.44972885,-122.7299175,"Electronics",20.003,1015,4126.092,209,1803.723,91,947.431,48
+"I-5 SB OR 99W","Portland Central City to Tigard",45.44972885,-122.7299175,"Food",15.416,9313,2705.859,1635,790.358,477,1015.369,613
+"I-5 SB OR 99W","Portland Central City to Tigard",45.44972885,-122.7299175,"Gravel, Sand, etc.",0.078,5706,14.065,1029,5.245,384,3.856,282
+"I-5 SB OR 99W","Portland Central City to Tigard",45.44972885,-122.7299175,"Machinery",18.672,6036,3917.771,1267,1100.808,356,849.709,275
+"I-5 SB OR 99W","Portland Central City to Tigard",45.44972885,-122.7299175,"Misc manufactured",25.127,4503,3205.617,574,1294.446,232,3099.518,555
+"I-5 SB OR 99W","Portland Central City to Tigard",45.44972885,-122.7299175,"Motor Vehicles, etc.",26.549,1721,6052.196,392,2251.876,146,639.723,41
+"I-5 SB OR 99W","Portland Central City to Tigard",45.44972885,-122.7299175,"Wood, Paper, etc.",8.833,16606,1332.897,2506,528.943,994,637.41,1198
+"I-5 SB Terwilliger","Portland Central City to Tigard",45.4653682,-122.6969236,"Agriculture",1.48,3314,336.871,755,85.319,191,90.122,202
+"I-5 SB Terwilliger","Portland Central City to Tigard",454.653682,-1226.969236,"All Goods",129.233,73016,24902.497,13951,8564.349,4205,7916.457,4451
+"I-5 SB Terwilliger","Portland Central City to Tigard",45.4653682,-122.6969236,"Chemical",4.157,7331,957.231,1688,191.211,337,159.011,280
+"I-5 SB Terwilliger","Portland Central City to Tigard",45.4653682,-122.6969236,"Coal, Oil, Waste, etc.",9.649,18139,2091.997,3933,559.452,1052,530.405,997
+"I-5 SB Terwilliger","Portland Central City to Tigard",45.4653682,-122.6969236,"Electronics",19.854,1007,4119.6,209,1791.131,91,939.785,48
+"I-5 SB Terwilliger","Portland Central City to Tigard",45.4653682,-122.6969236,"Food",14.948,9030,2685.994,1623,782,472,972.382,587
+"I-5 SB Terwilliger","Portland Central City to Tigard",45.4653682,-122.6969236,"Gravel, Sand, etc.",0.077,5638,13.637,998,5.104,373,3.788,277
+"I-5 SB Terwilliger","Portland Central City to Tigard",45.4653682,-122.6969236,"Machinery",18.631,6023,3915.026,1266,1095.339,354,849.709,275
+"I-5 SB Terwilliger","Portland Central City to Tigard",45.4653682,-122.6969236,"Misc manufactured",25.127,4503,3205.617,574,1294.397,232,3099.518,555
+"I-5 SB Terwilliger","Portland Central City to Tigard",45.4653682,-122.6969236,"Motor Vehicles, etc.",26.638,1727,6246.172,405,2251.876,146,639.723,41
+"I-5 SB Terwilliger","Portland Central City to Tigard",45.4653682,-122.6969236,"Wood, Paper, etc.",8.672,16303,1330.352,2501,508.52,956,632.013,1188
+"OR 99W NB I-5-OR217","Portland Central City to Tigard",45.43887753,-122.7521799,"Agriculture",0.795,1780,117.192,262,45.622,102,51.673,116
+"OR 99W NB I-5-OR217","Portland Central City to Tigard",454.3887753,-1227.521799,"All Goods",11.003,9344,1318.223,1961,490.143,467,767.681,444
+"OR 99W NB I-5-OR217","Portland Central City to Tigard",45.43887753,-122.7521799,"Chemical",0.414,730,102.847,181,30.77,54,10.548,19
+"OR 99W NB I-5-OR217","Portland Central City to Tigard",45.43887753,-122.7521799,"Coal, Oil, Waste, etc.",0.588,1106,170.366,320,27.547,52,22.029,41
+"OR 99W NB I-5-OR217","Portland Central City to Tigard",45.43887753,-122.7521799,"Electronics",2.898,147,161.282,8,152.506,8,369.141,19
+"OR 99W NB I-5-OR217","Portland Central City to Tigard",45.43887753,-122.7521799,"Food",1.851,1118,278.995,169,32.763,20,23.547,14
+"OR 99W NB I-5-OR217","Portland Central City to Tigard",45.43887753,-122.7521799,"Gravel, Sand, etc.",0.031,2282,10.399,761,1.646,120,0.542,40
+"OR 99W NB I-5-OR217","Portland Central City to Tigard",45.43887753,-122.7521799,"Machinery",0.847,274,104.999,34,74.872,24,78.078,25
+"OR 99W NB I-5-OR217","Portland Central City to Tigard",45.43887753,-122.7521799,"Misc manufactured",1.755,315,266.907,48,86.724,16,134.445,24
+"OR 99W NB I-5-OR217","Portland Central City to Tigard",45.43887753,-122.7521799,"Motor Vehicles, etc.",1.012,66,10.957,1,0,0,0,0
+"OR 99W NB I-5-OR217","Portland Central City to Tigard",45.43887753,-122.7521799,"Wood, Paper, etc.",0.811,1526,94.278,177,37.693,71,77.678,146
+"OR 99W SB I-5-OR217","Portland Central City to Tigard",45.43976335,-122.7526439,"Agriculture",0.225,503,38.009,85,9.179,21,13.799,31
+"OR 99W SB I-5-OR217","Portland Central City to Tigard",454.3976335,-1227.526439,"All Goods",12.703,9595,2910.343,2167,775.205,657,798.967,449
+"OR 99W SB I-5-OR217","Portland Central City to Tigard",45.43976335,-122.7526439,"Chemical",0.588,1037,70.962,125,57.034,101,19.955,35
+"OR 99W SB I-5-OR217","Portland Central City to Tigard",45.43976335,-122.7526439,"Coal, Oil, Waste, etc.",1.222,2298,349.344,657,49.292,93,65.272,123
+"OR 99W SB I-5-OR217","Portland Central City to Tigard",45.43976335,-122.7526439,"Electronics",2.947,149,912.975,46,104.645,5,157.333,8
+"OR 99W SB I-5-OR217","Portland Central City to Tigard",45.43976335,-122.7526439,"Food",2.299,1389,494.865,299,199.998,121,185.553,112
+"OR 99W SB I-5-OR217","Portland Central City to Tigard",45.43976335,-122.7526439,"Gravel, Sand, etc.",0.019,1357,4.772,349,1.513,111,0,0
+"OR 99W SB I-5-OR217","Portland Central City to Tigard",45.43976335,-122.7526439,"Machinery",2.216,716,607.342,196,140.306,45,79.916,26
+"OR 99W SB I-5-OR217","Portland Central City to Tigard",45.43976335,-122.7526439,"Misc manufactured",1.751,314,176.145,32,140.763,25,239.375,43
+"OR 99W SB I-5-OR217","Portland Central City to Tigard",45.43976335,-122.7526439,"Motor Vehicles, etc.",0.478,31,56.808,4,0,0,0,0
+"OR 99W SB I-5-OR217","Portland Central City to Tigard",45.43976335,-122.7526439,"Wood, Paper, etc.",0.957,1800,199.122,374,72.474,136,37.764,71
 "I-5 NB Fremont","Portland Central City to Vancouver",45.551226,-122.677813,"Agriculture",3.944,8834,811.938,1819,173.818,389,174.89,392
 "I-5 NB Fremont","Portland Central City to Vancouver",455.51226,-1226.77813,"All Goods",82.239,58689,13771.881,11052,5025.976,3284,5817.083,3265
 "I-5 NB Fremont","Portland Central City to Vancouver",45.551226,-122.677813,"Chemical",4.657,8212,856.762,1511,255.664,451,185.703,327
@@ -835,17 +835,17 @@
 "I-5 SB Lombard","Portland Central City to Vancouver",45.58028,-122.679272,"Misc manufactured",20.555,3684,2247.78,403,1241.862,223,2603.509,467
 "I-5 SB Lombard","Portland Central City to Vancouver",45.58028,-122.679272,"Motor Vehicles, etc.",9.484,615,91.958,6,964.425,63,970.533,63
 "I-5 SB Lombard","Portland Central City to Vancouver",45.58028,-122.679272,"Wood, Paper, etc.",5.161,9703,813.05,1529,399.608,751,265.119,498
-"Col Blvd EB Chimney Park","Rivergate to I-5",45.610041,-122.760483,"Agriculture",0.305,683,122.695,275,19.301,43,2.566,6
-"Col Blvd EB Chimney Park","Rivergate to I-5",456.10041,-1227.60483,"All Goods",22.503,12809,4362.447,2610,2088.78,874,507.156,345
-"Col Blvd EB Chimney Park","Rivergate to I-5",45.610041,-122.760483,"Chemical",3.499,6171,560.336,988,236.178,416,108.777,192
-"Col Blvd EB Chimney Park","Rivergate to I-5",45.610041,-122.760483,"Coal, Oil, Waste, etc.",1.303,2450,318.345,598,78.234,147,27.107,51
-"Col Blvd EB Chimney Park","Rivergate to I-5",45.610041,-122.760483,"Electronics",0.222,11,130.004,7,3.501,0,0,0
-"Col Blvd EB Chimney Park","Rivergate to I-5",45.610041,-122.760483,"Food",0.856,517,280.468,169,22.111,13,12.415,8
-"Col Blvd EB Chimney Park","Rivergate to I-5",45.610041,-122.760483,"Gravel, Sand, etc.",0.001,63,0.206,15,0.2,15,0.256,19
-"Col Blvd EB Chimney Park","Rivergate to I-5",45.610041,-122.760483,"Machinery",6.468,2091,1228.964,397,489.06,158,133.342,43
-"Col Blvd EB Chimney Park","Rivergate to I-5",45.610041,-122.760483,"Misc manufactured",0.278,50,57.288,10,0,0,0,0
-"Col Blvd EB Chimney Park","Rivergate to I-5",45.610041,-122.760483,"Motor Vehicles, etc.",9.487,615,1640.748,106,1239.999,80,215.645,14
-"Col Blvd EB Chimney Park","Rivergate to I-5",45.610041,-122.760483,"Wood, Paper, etc.",0.084,158,23.393,44,0.196,0,7.048,13
+"Col Blvd EB Chimney Park","Rivergate to I-5",45.600741,-122.760683,"Agriculture",0.305,683,122.695,275,19.301,43,2.566,6
+"Col Blvd EB Chimney Park","Rivergate to I-5",456.00741,-1227.60683,"All Goods",22.503,12809,4362.447,2610,2088.78,874,507.156,345
+"Col Blvd EB Chimney Park","Rivergate to I-5",45.600741,-122.760683,"Chemical",3.499,6171,560.336,988,236.178,416,108.777,192
+"Col Blvd EB Chimney Park","Rivergate to I-5",45.600741,-122.760683,"Coal, Oil, Waste, etc.",1.303,2450,318.345,598,78.234,147,27.107,51
+"Col Blvd EB Chimney Park","Rivergate to I-5",45.600741,-122.760683,"Electronics",0.222,11,130.004,7,3.501,0,0,0
+"Col Blvd EB Chimney Park","Rivergate to I-5",45.600741,-122.760683,"Food",0.856,517,280.468,169,22.111,13,12.415,8
+"Col Blvd EB Chimney Park","Rivergate to I-5",45.600741,-122.760683,"Gravel, Sand, etc.",0.001,63,0.206,15,0.2,15,0.256,19
+"Col Blvd EB Chimney Park","Rivergate to I-5",45.600741,-122.760683,"Machinery",6.468,2091,1228.964,397,489.06,158,133.342,43
+"Col Blvd EB Chimney Park","Rivergate to I-5",45.600741,-122.760683,"Misc manufactured",0.278,50,57.288,10,0,0,0,0
+"Col Blvd EB Chimney Park","Rivergate to I-5",45.600741,-122.760683,"Motor Vehicles, etc.",9.487,615,1640.748,106,1239.999,80,215.645,14
+"Col Blvd EB Chimney Park","Rivergate to I-5",45.600741,-122.760683,"Wood, Paper, etc.",0.084,158,23.393,44,0.196,0,7.048,13
 "Col Blvd EB Interstate","Rivergate to I-5",45.586977,-122.69236,"Agriculture",0.12,269,62.476,140,5.733,13,0,0
 "Col Blvd EB Interstate","Rivergate to I-5",455.86977,-1226.9236,"All Goods",9.507,6316,4283.686,2393,595.236,362,47.554,44
 "Col Blvd EB Interstate","Rivergate to I-5",45.586977,-122.69236,"Chemical",1.233,2174,521.555,920,59.416,105,2.127,4
@@ -857,17 +857,17 @@
 "Col Blvd EB Interstate","Rivergate to I-5",45.586977,-122.69236,"Misc manufactured",0.167,30,48.706,9,0,0,0,0
 "Col Blvd EB Interstate","Rivergate to I-5",45.586977,-122.69236,"Motor Vehicles, etc.",2.159,140,1602.154,104,99.748,6,0,0
 "Col Blvd EB Interstate","Rivergate to I-5",45.586977,-122.69236,"Wood, Paper, etc.",0.107,200,39.77,75,11.623,22,0,0
-"Col Blvd WB Chimney Park","Rivergate to I-5",45.610041,-122.760483,"Agriculture",1.073,2404,244.763,548,26.903,60,23.216,52
-"Col Blvd WB Chimney Park","Rivergate to I-5",456.10041,-1227.60483,"All Goods",10.286,11348,1871.07,2419,423.233,504,196.477,265
-"Col Blvd WB Chimney Park","Rivergate to I-5",45.610041,-122.760483,"Chemical",3.532,6228,720.658,1271,169.356,299,81.959,145
-"Col Blvd WB Chimney Park","Rivergate to I-5",45.610041,-122.760483,"Coal, Oil, Waste, etc.",0.742,1394,163.129,307,64.352,121,17.605,33
-"Col Blvd WB Chimney Park","Rivergate to I-5",45.610041,-122.760483,"Electronics",0.264,13,83.259,4,0.577,0,0,0
-"Col Blvd WB Chimney Park","Rivergate to I-5",45.610041,-122.760483,"Food",0.822,496,174.005,105,14.545,9,43.776,26
-"Col Blvd WB Chimney Park","Rivergate to I-5",45.610041,-122.760483,"Gravel, Sand, etc.",0.002,154,0.985,72,0,0,0,0
-"Col Blvd WB Chimney Park","Rivergate to I-5",45.610041,-122.760483,"Machinery",0.87,281,190.317,62,2.612,1,17.155,6
-"Col Blvd WB Chimney Park","Rivergate to I-5",45.610041,-122.760483,"Misc manufactured",0.398,71,110.257,20,16.342,3,0,0
-"Col Blvd WB Chimney Park","Rivergate to I-5",45.610041,-122.760483,"Motor Vehicles, etc.",2.507,163,173.568,11,126.975,8,11.5,1
-"Col Blvd WB Chimney Park","Rivergate to I-5",45.610041,-122.760483,"Wood, Paper, etc.",0.076,143,10.129,19,1.571,3,1.265,2
+"Col Blvd WB Chimney Park","Rivergate to I-5",45.610341,-122.760283,"Agriculture",1.073,2404,244.763,548,26.903,60,23.216,52
+"Col Blvd WB Chimney Park","Rivergate to I-5",456.10341,-1227.60283,"All Goods",10.286,11348,1871.07,2419,423.233,504,196.477,265
+"Col Blvd WB Chimney Park","Rivergate to I-5",45.610341,-122.760283,"Chemical",3.532,6228,720.658,1271,169.356,299,81.959,145
+"Col Blvd WB Chimney Park","Rivergate to I-5",45.610341,-122.760283,"Coal, Oil, Waste, etc.",0.742,1394,163.129,307,64.352,121,17.605,33
+"Col Blvd WB Chimney Park","Rivergate to I-5",45.610341,-122.760283,"Electronics",0.264,13,83.259,4,0.577,0,0,0
+"Col Blvd WB Chimney Park","Rivergate to I-5",45.610341,-122.760283,"Food",0.822,496,174.005,105,14.545,9,43.776,26
+"Col Blvd WB Chimney Park","Rivergate to I-5",45.610341,-122.760283,"Gravel, Sand, etc.",0.002,154,0.985,72,0,0,0,0
+"Col Blvd WB Chimney Park","Rivergate to I-5",45.610341,-122.760283,"Machinery",0.87,281,190.317,62,2.612,1,17.155,6
+"Col Blvd WB Chimney Park","Rivergate to I-5",45.610341,-122.760283,"Misc manufactured",0.398,71,110.257,20,16.342,3,0,0
+"Col Blvd WB Chimney Park","Rivergate to I-5",45.610341,-122.760283,"Motor Vehicles, etc.",2.507,163,173.568,11,126.975,8,11.5,1
+"Col Blvd WB Chimney Park","Rivergate to I-5",45.610341,-122.760283,"Wood, Paper, etc.",0.076,143,10.129,19,1.571,3,1.265,2
 "Col Blvd WB Interstate","Rivergate to I-5",45.586977,-122.69236,"Agriculture",0.614,1375,155.216,348,19.4,43,23.216,52
 "Col Blvd WB Interstate","Rivergate to I-5",455.86977,-1226.9236,"All Goods",9.346,9696,1608.092,1976,448.009,507,213.603,280
 "Col Blvd WB Interstate","Rivergate to I-5",45.586977,-122.69236,"Chemical",2.989,5271,530.739,936,165.004,291,90.465,160
@@ -879,28 +879,28 @@
 "Col Blvd WB Interstate","Rivergate to I-5",45.586977,-122.69236,"Misc manufactured",0.146,26,16.804,3,16.342,3,0,0
 "Col Blvd WB Interstate","Rivergate to I-5",45.586977,-122.69236,"Motor Vehicles, etc.",2.507,163,173.568,11,126.975,8,11.5,1
 "Col Blvd WB Interstate","Rivergate to I-5",45.586977,-122.69236,"Wood, Paper, etc.",0.193,363,28.203,53,16.453,31,1.292,2
-"Lombard St NB Terminal 4","Rivergate to I-5",45.605478,-122.765716,"Agriculture",3.293,7375,854.957,1915,130.579,292,77.783,174
-"Lombard St NB Terminal 4","Rivergate to I-5",456.05478,-1227.65716,"All Goods",8.838,13703,1811.187,3297,445.726,762,190.91,302
-"Lombard St NB Terminal 4","Rivergate to I-5",45.605478,-122.765716,"Chemical",1.615,2848,399.441,704,112.356,198,26.102,46
-"Lombard St NB Terminal 4","Rivergate to I-5",45.605478,-122.765716,"Coal, Oil, Waste, etc.",1.55,2914,317.806,597,124.114,233,35.181,66
-"Lombard St NB Terminal 4","Rivergate to I-5",45.605478,-122.765716,"Electronics",0.04,2,0.788,0,18.399,1,0,0
-"Lombard St NB Terminal 4","Rivergate to I-5",45.605478,-122.765716,"Food",0.138,83,4.889,3,20.098,12,0,0
-"Lombard St NB Terminal 4","Rivergate to I-5",45.605478,-122.765716,"Gravel, Sand, etc.",0.001,40,0.056,4,0,0,0,0
-"Lombard St NB Terminal 4","Rivergate to I-5",45.605478,-122.765716,"Machinery",0.868,281,181.481,59,23.896,8,48.884,16
-"Lombard St NB Terminal 4","Rivergate to I-5",45.605478,-122.765716,"Misc manufactured",0.08,14,33.609,6,4.582,1,0,0
-"Lombard St NB Terminal 4","Rivergate to I-5",45.605478,-122.765716,"Motor Vehicles, etc.",1.217,79,14.413,1,3.166,0,2.96,0
-"Lombard St NB Terminal 4","Rivergate to I-5",45.605478,-122.765716,"Wood, Paper, etc.",0.035,66,3.747,7,8.535,16,0,0
-"Lombard St SB Terminal 4","Rivergate to I-5",45.605478,-122.765716,"Agriculture",0.269,603,74.562,167,3.804,9,9.538,21
-"Lombard St SB Terminal 4","Rivergate to I-5",456.05478,-1227.65716,"All Goods",19.084,9515,8726.422,3609,860.937,408,173.73,201
-"Lombard St SB Terminal 4","Rivergate to I-5",45.605478,-122.765716,"Chemical",2.836,5001,1104.368,1947,117.806,208,54.942,97
-"Lombard St SB Terminal 4","Rivergate to I-5",45.605478,-122.765716,"Coal, Oil, Waste, etc.",0.711,1336,235.588,443,34.296,64,20.63,39
-"Lombard St SB Terminal 4","Rivergate to I-5",45.605478,-122.765716,"Electronics",0.682,35,40.629,2,0.715,0,0,0
-"Lombard St SB Terminal 4","Rivergate to I-5",45.605478,-122.765716,"Food",0.539,326,150.396,91,27.4,17,0,0
-"Lombard St SB Terminal 4","Rivergate to I-5",45.605478,-122.765716,"Gravel, Sand, etc.",0.002,162,0.819,60,0.056,4,0.256,19
-"Lombard St SB Terminal 4","Rivergate to I-5",45.605478,-122.765716,"Machinery",3.314,1071,1364.673,441,221.7,72,9.642,3
-"Lombard St SB Terminal 4","Rivergate to I-5",45.605478,-122.765716,"Misc manufactured",0.754,135,158.383,28,2.618,0,44.453,8
-"Lombard St SB Terminal 4","Rivergate to I-5",45.605478,-122.765716,"Motor Vehicles, etc.",9.868,640,5560.31,360,449.846,29,27.678,2
-"Lombard St SB Terminal 4","Rivergate to I-5",45.605478,-122.765716,"Wood, Paper, etc.",0.11,206,36.694,69,2.696,5,6.59,12
+"Lombard St NB Terminal 4","Rivergate to I-5",45.605778,-122.765516,"Agriculture",3.293,7375,854.957,1915,130.579,292,77.783,174
+"Lombard St NB Terminal 4","Rivergate to I-5",456.05778,-1227.65516,"All Goods",8.838,13703,1811.187,3297,445.726,762,190.91,302
+"Lombard St NB Terminal 4","Rivergate to I-5",45.605778,-122.765516,"Chemical",1.615,2848,399.441,704,112.356,198,26.102,46
+"Lombard St NB Terminal 4","Rivergate to I-5",45.605778,-122.765516,"Coal, Oil, Waste, etc.",1.55,2914,317.806,597,124.114,233,35.181,66
+"Lombard St NB Terminal 4","Rivergate to I-5",45.605778,-122.765516,"Electronics",0.04,2,0.788,0,18.399,1,0,0
+"Lombard St NB Terminal 4","Rivergate to I-5",45.605778,-122.765516,"Food",0.138,83,4.889,3,20.098,12,0,0
+"Lombard St NB Terminal 4","Rivergate to I-5",45.605778,-122.765516,"Gravel, Sand, etc.",0.001,40,0.056,4,0,0,0,0
+"Lombard St NB Terminal 4","Rivergate to I-5",45.605778,-122.765516,"Machinery",0.868,281,181.481,59,23.896,8,48.884,16
+"Lombard St NB Terminal 4","Rivergate to I-5",45.605778,-122.765516,"Misc manufactured",0.08,14,33.609,6,4.582,1,0,0
+"Lombard St NB Terminal 4","Rivergate to I-5",45.605778,-122.765516,"Motor Vehicles, etc.",1.217,79,14.413,1,3.166,0,2.96,0
+"Lombard St NB Terminal 4","Rivergate to I-5",45.605778,-122.765516,"Wood, Paper, etc.",0.035,66,3.747,7,8.535,16,0,0
+"Lombard St SB Terminal 4","Rivergate to I-5",45.605178,-122.765916,"Agriculture",0.269,603,74.562,167,3.804,9,9.538,21
+"Lombard St SB Terminal 4","Rivergate to I-5",456.05178,-1227.65916,"All Goods",19.084,9515,8726.422,3609,860.937,408,173.73,201
+"Lombard St SB Terminal 4","Rivergate to I-5",45.605178,-122.765916,"Chemical",2.836,5001,1104.368,1947,117.806,208,54.942,97
+"Lombard St SB Terminal 4","Rivergate to I-5",45.605178,-122.765916,"Coal, Oil, Waste, etc.",0.711,1336,235.588,443,34.296,64,20.63,39
+"Lombard St SB Terminal 4","Rivergate to I-5",45.605178,-122.765916,"Electronics",0.682,35,40.629,2,0.715,0,0,0
+"Lombard St SB Terminal 4","Rivergate to I-5",45.605178,-122.765916,"Food",0.539,326,150.396,91,27.4,17,0,0
+"Lombard St SB Terminal 4","Rivergate to I-5",45.605178,-122.765916,"Gravel, Sand, etc.",0.002,162,0.819,60,0.056,4,0.256,19
+"Lombard St SB Terminal 4","Rivergate to I-5",45.605178,-122.765916,"Machinery",3.314,1071,1364.673,441,221.7,72,9.642,3
+"Lombard St SB Terminal 4","Rivergate to I-5",45.605178,-122.765916,"Misc manufactured",0.754,135,158.383,28,2.618,0,44.453,8
+"Lombard St SB Terminal 4","Rivergate to I-5",45.605178,-122.765916,"Motor Vehicles, etc.",9.868,640,5560.31,360,449.846,29,27.678,2
+"Lombard St SB Terminal 4","Rivergate to I-5",45.605178,-122.765916,"Wood, Paper, etc.",0.11,206,36.694,69,2.696,5,6.59,12
 "Marine Drive EB I-5","Rivergate to I-5",45.60615,-122.6846,"Agriculture",2.047,4586,372.638,835,76.868,172,37.09,83
 "Marine Drive EB I-5","Rivergate to I-5",456.0615,-1226.846,"All Goods",21.496,15855,5086.291,3344,1120.677,730,939.267,614
 "Marine Drive EB I-5","Rivergate to I-5",45.60615,-122.6846,"Chemical",0.221,391,50.743,89,17.259,30,10.218,18
@@ -912,17 +912,17 @@
 "Marine Drive EB I-5","Rivergate to I-5",45.60615,-122.6846,"Misc manufactured",0.935,168,253.384,45,42.915,8,13.275,2
 "Marine Drive EB I-5","Rivergate to I-5",45.60615,-122.6846,"Motor Vehicles, etc.",4.635,300,979.136,63,39.614,3,193.758,13
 "Marine Drive EB I-5","Rivergate to I-5",45.60615,-122.6846,"Wood, Paper, etc.",1.426,2681,284.041,534,73.539,138,59.49,112
-"Marine Drive EB Ledbetter","Rivergate to I-5",45.637801,-122.758713,"Agriculture",0.335,749,67.048,150,6.966,16,20,45
-"Marine Drive EB Ledbetter","Rivergate to I-5",456.37801,-1227.58713,"All Goods",16.922,6008,4424.455,1380,1091.879,341,838.746,242
-"Marine Drive EB Ledbetter","Rivergate to I-5",45.637801,-122.758713,"Chemical",0.074,130,3.381,6,5.688,10,0,0
-"Marine Drive EB Ledbetter","Rivergate to I-5",45.637801,-122.758713,"Coal, Oil, Waste, etc.",0.703,1322,162.525,306,40.969,77,27.246,51
-"Marine Drive EB Ledbetter","Rivergate to I-5",45.637801,-122.758713,"Electronics",1.687,86,588.89,30,25.048,1,70.173,4
-"Marine Drive EB Ledbetter","Rivergate to I-5",45.637801,-122.758713,"Food",1.673,1011,382.838,231,73.626,44,28.674,17
-"Marine Drive EB Ledbetter","Rivergate to I-5",45.637801,-122.758713,"Gravel, Sand, etc.",0,0,0,0,0,0,0,0
-"Marine Drive EB Ledbetter","Rivergate to I-5",45.637801,-122.758713,"Machinery",4.075,1317,1023.318,331,305.302,99,160.743,52
-"Marine Drive EB Ledbetter","Rivergate to I-5",45.637801,-122.758713,"Misc manufactured",0.816,146,220.559,40,22.792,4,0,0
-"Marine Drive EB Ledbetter","Rivergate to I-5",45.637801,-122.758713,"Motor Vehicles, etc.",7.144,463,1888.167,122,583.588,38,510.663,33
-"Marine Drive EB Ledbetter","Rivergate to I-5",45.637801,-122.758713,"Wood, Paper, etc.",0.417,784,87.729,165,27.9,52,21.246,40
+"Marine Drive EB Ledbetter","Rivergate to I-5",45.629391,-122.744416,"Agriculture",0.335,749,67.048,150,6.966,16,20,45
+"Marine Drive EB Ledbetter","Rivergate to I-5",456.29391,-1227.44416,"All Goods",16.922,6008,4424.455,1380,1091.879,341,838.746,242
+"Marine Drive EB Ledbetter","Rivergate to I-5",45.629391,-122.744416,"Chemical",0.074,130,3.381,6,5.688,10,0,0
+"Marine Drive EB Ledbetter","Rivergate to I-5",45.629391,-122.744416,"Coal, Oil, Waste, etc.",0.703,1322,162.525,306,40.969,77,27.246,51
+"Marine Drive EB Ledbetter","Rivergate to I-5",45.629391,-122.744416,"Electronics",1.687,86,588.89,30,25.048,1,70.173,4
+"Marine Drive EB Ledbetter","Rivergate to I-5",45.629391,-122.744416,"Food",1.673,1011,382.838,231,73.626,44,28.674,17
+"Marine Drive EB Ledbetter","Rivergate to I-5",45.629391,-122.744416,"Gravel, Sand, etc.",0,0,0,0,0,0,0,0
+"Marine Drive EB Ledbetter","Rivergate to I-5",45.629391,-122.744416,"Machinery",4.075,1317,1023.318,331,305.302,99,160.743,52
+"Marine Drive EB Ledbetter","Rivergate to I-5",45.629391,-122.744416,"Misc manufactured",0.816,146,220.559,40,22.792,4,0,0
+"Marine Drive EB Ledbetter","Rivergate to I-5",45.629391,-122.744416,"Motor Vehicles, etc.",7.144,463,1888.167,122,583.588,38,510.663,33
+"Marine Drive EB Ledbetter","Rivergate to I-5",45.629391,-122.744416,"Wood, Paper, etc.",0.417,784,87.729,165,27.9,52,21.246,40
 "Marine Drive WB I-5","Rivergate to I-5",45.606213,-122.6841,"Agriculture",0.481,1076,87.801,197,17.012,38,20,45
 "Marine Drive WB I-5","Rivergate to I-5",456.06213,-1226.841,"All Goods",28.145,17041,5801.655,3405,1749.516,1046,1375.978,739
 "Marine Drive WB I-5","Rivergate to I-5",45.606213,-122.6841,"Chemical",0.224,395,12.05,21,18.447,33,8.506,15
@@ -934,39 +934,39 @@
 "Marine Drive WB I-5","Rivergate to I-5",45.606213,-122.6841,"Misc manufactured",1.575,282,243.335,44,22.792,4,0,0
 "Marine Drive WB I-5","Rivergate to I-5",45.606213,-122.6841,"Motor Vehicles, etc.",6.9,447,1525.885,99,583.588,38,626.344,41
 "Marine Drive WB I-5","Rivergate to I-5",45.606213,-122.6841,"Wood, Paper, etc.",1.695,3187,366.097,688,107.889,203,69.808,131
-"Marine Drive WB Ledbetter","Rivergate to I-5",45.637801,-122.758713,"Agriculture",2.119,4747,410.637,920,75.66,169,33.967,76
-"Marine Drive WB Ledbetter","Rivergate to I-5",456.37801,-1227.58713,"All Goods",11.821,8894,2806.104,1993,324.741,361,338.945,231
-"Marine Drive WB Ledbetter","Rivergate to I-5",45.637801,-122.758713,"Chemical",0.01,18,0.872,2,4.253,8,0,0
-"Marine Drive WB Ledbetter","Rivergate to I-5",45.637801,-122.758713,"Coal, Oil, Waste, etc.",0.689,1295,177.614,334,40.912,77,34.605,65
-"Marine Drive WB Ledbetter","Rivergate to I-5",45.637801,-122.758713,"Electronics",0.284,14,68.262,3,4.245,0,0,0
-"Marine Drive WB Ledbetter","Rivergate to I-5",45.637801,-122.758713,"Food",2.879,1739,753.817,455,144.38,87,96.352,58
-"Marine Drive WB Ledbetter","Rivergate to I-5",45.637801,-122.758713,"Gravel, Sand, etc.",0.001,61,0.206,15,0,0,0,0
-"Marine Drive WB Ledbetter","Rivergate to I-5",45.637801,-122.758713,"Machinery",0.673,218,234.816,76,2.816,1,28.239,9
-"Marine Drive WB Ledbetter","Rivergate to I-5",45.637801,-122.758713,"Misc manufactured",0.16,29,46.357,8,4.774,1,0,0
-"Marine Drive WB Ledbetter","Rivergate to I-5",45.637801,-122.758713,"Motor Vehicles, etc.",4.759,309,1054.358,68,39.614,3,138.817,9
-"Marine Drive WB Ledbetter","Rivergate to I-5",45.637801,-122.758713,"Wood, Paper, etc.",0.247,464,59.165,111,8.087,15,6.965,13
-"N Going St. EB","Rivergate to I-5",45.5564919187111,-122.694974643166,"Agriculture",0.209,469,63.374,142,4.106,9,16.67,37
-"N Going St. EB","Rivergate to I-5",455.564919187111,-1226.94974643166,"All Goods",16.495,11823,4461.814,3058,1185.465,747,502.489,396
-"N Going St. EB","Rivergate to I-5",45.5564919187111,-122.694974643166,"Chemical",0.199,350,39.409,69,22.914,40,0.703,1
-"N Going St. EB","Rivergate to I-5",45.5564919187111,-122.694974643166,"Coal, Oil, Waste, etc.",3.335,6270,865.967,1628,221.904,417,102.753,193
-"N Going St. EB","Rivergate to I-5",45.5564919187111,-122.694974643166,"Electronics",5.899,299,1360.75,69,700.327,36,152.353,8
-"N Going St. EB","Rivergate to I-5",45.5564919187111,-122.694974643166,"Food",1.654,999,510.304,308,20.219,12,56.031,34
-"N Going St. EB","Rivergate to I-5",45.5564919187111,-122.694974643166,"Gravel, Sand, etc.",0.01,731,2.428,178,0.599,44,0,0
-"N Going St. EB","Rivergate to I-5",45.5564919187111,-122.694974643166,"Machinery",2.825,913,971.332,314,131.446,42,85.601,28
-"N Going St. EB","Rivergate to I-5",45.5564919187111,-122.694974643166,"Misc manufactured",0.325,58,58.25,10,6.937,1,41.849,8
-"N Going St. EB","Rivergate to I-5",45.5564919187111,-122.694974643166,"Motor Vehicles, etc.",1.157,75,424.163,28,0,0,0,0
-"N Going St. EB","Rivergate to I-5",45.5564919187111,-122.694974643166,"Wood, Paper, etc.",0.882,1657,165.836,312,77.013,145,46.53,87
-"N Going St. WB","Rivergate to I-5",45.5554919426406,-122.694967725184,"Agriculture",0.135,303,27.365,61,0,0,6.697,15
-"N Going St. WB","Rivergate to I-5",455.554919426406,-1226.94967725184,"All Goods",15.083,10593,3127.349,2375,833.715,666,519.825,265
-"N Going St. WB","Rivergate to I-5",45.5554919426406,-122.694967725184,"Chemical",0.141,248,12.791,23,8.56,15,8.506,15
-"N Going St. WB","Rivergate to I-5",45.5554919426406,-122.694967725184,"Coal, Oil, Waste, etc.",2.83,5319,724.696,1362,180.456,339,56.041,105
-"N Going St. WB","Rivergate to I-5",45.5554919426406,-122.694967725184,"Electronics",4.565,232,1071.189,54,246.474,13,223.795,11
-"N Going St. WB","Rivergate to I-5",45.5554919426406,-122.694967725184,"Food",2.063,1246,412.181,249,171.887,104,80.698,49
-"N Going St. WB","Rivergate to I-5",45.5554919426406,-122.694967725184,"Gravel, Sand, etc.",0.004,272,0.973,71,0.431,32,0.219,16
-"N Going St. WB","Rivergate to I-5",45.5554919426406,-122.694967725184,"Machinery",2.014,651,350.828,113,74.559,24,47.621,15
-"N Going St. WB","Rivergate to I-5",45.5554919426406,-122.694967725184,"Misc manufactured",1.806,324,238.342,43,0,0,83.698,15
-"N Going St. WB","Rivergate to I-5",45.5554919426406,-122.694967725184,"Motor Vehicles, etc.",0.478,31,79.716,5,79.716,5,0,0
-"N Going St. WB","Rivergate to I-5",45.5554919426406,-122.694967725184,"Wood, Paper, etc.",1.046,1967,209.27,393,71.632,135,12.551,24
+"Marine Drive WB Ledbetter","Rivergate to I-5",45.629991,-122.744716,"Agriculture",2.119,4747,410.637,920,75.66,169,33.967,76
+"Marine Drive WB Ledbetter","Rivergate to I-5",456.29991,-1227.44716,"All Goods",11.821,8894,2806.104,1993,324.741,361,338.945,231
+"Marine Drive WB Ledbetter","Rivergate to I-5",45.629991,-122.744716,"Chemical",0.01,18,0.872,2,4.253,8,0,0
+"Marine Drive WB Ledbetter","Rivergate to I-5",45.629991,-122.744716,"Coal, Oil, Waste, etc.",0.689,1295,177.614,334,40.912,77,34.605,65
+"Marine Drive WB Ledbetter","Rivergate to I-5",45.629991,-122.744716,"Electronics",0.284,14,68.262,3,4.245,0,0,0
+"Marine Drive WB Ledbetter","Rivergate to I-5",45.629991,-122.744716,"Food",2.879,1739,753.817,455,144.38,87,96.352,58
+"Marine Drive WB Ledbetter","Rivergate to I-5",45.629991,-122.744716,"Gravel, Sand, etc.",0.001,61,0.206,15,0,0,0,0
+"Marine Drive WB Ledbetter","Rivergate to I-5",45.629991,-122.744716,"Machinery",0.673,218,234.816,76,2.816,1,28.239,9
+"Marine Drive WB Ledbetter","Rivergate to I-5",45.629991,-122.744716,"Misc manufactured",0.16,29,46.357,8,4.774,1,0,0
+"Marine Drive WB Ledbetter","Rivergate to I-5",45.629991,-122.744716,"Motor Vehicles, etc.",4.759,309,1054.358,68,39.614,3,138.817,9
+"Marine Drive WB Ledbetter","Rivergate to I-5",45.629991,-122.744716,"Wood, Paper, etc.",0.247,464,59.165,111,8.087,15,6.965,13
+"N Going St. EB","Rivergate to I-5",45.55649192,-122.6949746,"Agriculture",0.209,469,63.374,142,4.106,9,16.67,37
+"N Going St. EB","Rivergate to I-5",455.5649192,-1226.949746,"All Goods",16.495,11823,4461.814,3058,1185.465,747,502.489,396
+"N Going St. EB","Rivergate to I-5",45.55649192,-122.6949746,"Chemical",0.199,350,39.409,69,22.914,40,0.703,1
+"N Going St. EB","Rivergate to I-5",45.55649192,-122.6949746,"Coal, Oil, Waste, etc.",3.335,6270,865.967,1628,221.904,417,102.753,193
+"N Going St. EB","Rivergate to I-5",45.55649192,-122.6949746,"Electronics",5.899,299,1360.75,69,700.327,36,152.353,8
+"N Going St. EB","Rivergate to I-5",45.55649192,-122.6949746,"Food",1.654,999,510.304,308,20.219,12,56.031,34
+"N Going St. EB","Rivergate to I-5",45.55649192,-122.6949746,"Gravel, Sand, etc.",0.01,731,2.428,178,0.599,44,0,0
+"N Going St. EB","Rivergate to I-5",45.55649192,-122.6949746,"Machinery",2.825,913,971.332,314,131.446,42,85.601,28
+"N Going St. EB","Rivergate to I-5",45.55649192,-122.6949746,"Misc manufactured",0.325,58,58.25,10,6.937,1,41.849,8
+"N Going St. EB","Rivergate to I-5",45.55649192,-122.6949746,"Motor Vehicles, etc.",1.157,75,424.163,28,0,0,0,0
+"N Going St. EB","Rivergate to I-5",45.55649192,-122.6949746,"Wood, Paper, etc.",0.882,1657,165.836,312,77.013,145,46.53,87
+"N Going St. WB","Rivergate to I-5",45.55549194,-122.6949677,"Agriculture",0.135,303,27.365,61,0,0,6.697,15
+"N Going St. WB","Rivergate to I-5",455.5549194,-1226.949677,"All Goods",15.083,10593,3127.349,2375,833.715,666,519.825,265
+"N Going St. WB","Rivergate to I-5",45.55549194,-122.6949677,"Chemical",0.141,248,12.791,23,8.56,15,8.506,15
+"N Going St. WB","Rivergate to I-5",45.55549194,-122.6949677,"Coal, Oil, Waste, etc.",2.83,5319,724.696,1362,180.456,339,56.041,105
+"N Going St. WB","Rivergate to I-5",45.55549194,-122.6949677,"Electronics",4.565,232,1071.189,54,246.474,13,223.795,11
+"N Going St. WB","Rivergate to I-5",45.55549194,-122.6949677,"Food",2.063,1246,412.181,249,171.887,104,80.698,49
+"N Going St. WB","Rivergate to I-5",45.55549194,-122.6949677,"Gravel, Sand, etc.",0.004,272,0.973,71,0.431,32,0.219,16
+"N Going St. WB","Rivergate to I-5",45.55549194,-122.6949677,"Machinery",2.014,651,350.828,113,74.559,24,47.621,15
+"N Going St. WB","Rivergate to I-5",45.55549194,-122.6949677,"Misc manufactured",1.806,324,238.342,43,0,0,83.698,15
+"N Going St. WB","Rivergate to I-5",45.55549194,-122.6949677,"Motor Vehicles, etc.",0.478,31,79.716,5,79.716,5,0,0
+"N Going St. WB","Rivergate to I-5",45.55549194,-122.6949677,"Wood, Paper, etc.",1.046,1967,209.27,393,71.632,135,12.551,24
 "OR 99E NB","Rivergate to I-5",45.584635,-122.662929,"Agriculture",0.27,606,49.263,110,12.619,28,13.693,31
 "OR 99E NB","Rivergate to I-5",455.84635,-1226.62929,"All Goods",8.264,4484,2281.16,1170,287.357,161,160.417,161
 "OR 99E NB","Rivergate to I-5",45.584635,-122.662929,"Chemical",0.118,208,37.606,66,3.499,6,4.56,8
