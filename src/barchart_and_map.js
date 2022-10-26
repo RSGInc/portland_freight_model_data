@@ -890,7 +890,7 @@ var BarChartMap = {
         }
       );
       var Esri_StreetMap = L.tileLayer(
-        "https://server.arcgisonline.com/ArcGIS/rest/services/World_Light_Gray_Reference/MapServer/tile/{z}/{y}/{x}",
+        "https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Reference/MapServer/tile/{z}/{y}/{x}",
         {
           id: id + "-by-district-map.canvas",
           attribution:
