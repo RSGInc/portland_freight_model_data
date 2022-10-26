@@ -889,6 +889,14 @@ var BarChartMap = {
           opacity: 1.0
         }
       );
+      var Esri_StreetMap = L.tileLayer(
+        "https://server.arcgisonline.com/ArcGIS/rest/services/World_Light_Gray_Reference/MapServer/tile/{z}/{y}/{x}",
+        {
+          id: id + "-by-district-map.canvas",
+          attribution:
+            "Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community"
+        }
+      );
       var Esri_WorldImagery = L.tileLayer(
         "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
         {
@@ -899,7 +907,7 @@ var BarChartMap = {
       );
       map = L.map(id + "-map", {
         minZoom: 7,
-        layers: [tonerLayer]
+        layers: [Esri_StreetMap]
       }).setView(CENTER_LOC, 9);
       //centered at Atlanta
       map.on("zoomend", function(type, target) {
@@ -1085,6 +1093,7 @@ var BarChartMap = {
       } //end geoJson of zone layer
       var baseMaps = {
         Grayscale: tonerLayer,
+		    Streetmap: Esri_StreetMap,
         Aerial: Esri_WorldImagery
       };
 
