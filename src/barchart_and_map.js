@@ -907,7 +907,7 @@ var BarChartMap = {
       );
       map = L.map(id + "-map", {
         minZoom: 7,
-        layers: [Esri_StreetMap]
+        layers: [tonerLayer]
       }).setView(CENTER_LOC, 9);
       //centered at Atlanta
       map.on("zoomend", function(type, target) {
