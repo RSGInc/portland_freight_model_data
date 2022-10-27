@@ -197,6 +197,17 @@
 "Murray Blvd. SB US 26","Beaverton to Tigard",45.5168600358979,-122.818087930871,"Misc manufactured",0,0,0,0,0,0,0,0
 "Murray Blvd. SB US 26","Beaverton to Tigard",45.5168600358979,-122.818087930871,"Motor Vehicles, etc.",0.282,20,0,0,0,0,0,0
 "Murray Blvd. SB US 26","Beaverton to Tigard",45.5168600358979,-122.818087930871,"Wood, Paper, etc.",0.158,298,54.036,102,10.528,20,4.562,9
+"OR 212 EB 122nd Ave.","Clackamas to Damascus",45.4073471826612,-122.548796470581,"Agriculture",0.112,243,48.892,106,6.961,15,6.893,15
+"OR 212 EB 122nd Ave.","Clackamas to Damascus",454.073471826612,-1225.48796470581,"All Goods",6.728,3851,1984.271,1103,455.012,263,83.68,82
+"OR 212 EB 122nd Ave.","Clackamas to Damascus",45.4073471826612,-122.548796470581,"Chemical",0.084,143,22.776,39,9.885,17,0,0
+"OR 212 EB 122nd Ave.","Clackamas to Damascus",45.4073471826612,-122.548796470581,"Coal, Oil, Waste, etc.",0.558,1093,155.673,305,56.586,111,6.695,13
+"OR 212 EB 122nd Ave.","Clackamas to Damascus",45.4073471826612,-122.548796470581,"Electronics",3.765,134,914.895,32,320.59,11,12.189,0
+"OR 212 EB 122nd Ave.","Clackamas to Damascus",45.4073471826612,-122.548796470581,"Food",0.685,420,286.912,176,0,0,28.562,18
+"OR 212 EB 122nd Ave.","Clackamas to Damascus",45.4073471826612,-122.548796470581,"Gravel, Sand, etc.",0.007,559,1.558,117,0.718,54,0.401,30
+"OR 212 EB 122nd Ave.","Clackamas to Damascus",45.4073471826612,-122.548796470581,"Machinery",0.641,137,192.524,41,35.293,8,12.663,3
+"OR 212 EB 122nd Ave.","Clackamas to Damascus",45.4073471826612,-122.548796470581,"Misc manufactured",0.231,37,152.518,24,0,0,15.73,2
+"OR 212 EB 122nd Ave.","Clackamas to Damascus",45.4073471826612,-122.548796470581,"Motor Vehicles, etc.",0.072,5,72.186,5,0,0,0,0
+"OR 212 EB 122nd Ave.","Clackamas to Damascus",45.4073471826612,-122.548796470581,"Wood, Paper, etc.",0.573,1081,136.337,257,24.979,47,0.546,1
 "OR 212 EB OR 224","Clackamas to Damascus",45.4098106326922,-122.521080282374,"Agriculture",0.513,1116,165.389,360,34.65,75,13.785,30
 "OR 212 EB OR 224","Clackamas to Damascus",454.098106326922,-1225.21080282374,"All Goods",9.274,6135,2751.057,1676,759.392,429,63.938,116
 "OR 212 EB OR 224","Clackamas to Damascus",45.4098106326922,-122.521080282374,"Chemical",0.147,251,24.645,42,16.245,28,0,0
@@ -208,17 +219,17 @@
 "OR 212 EB OR 224","Clackamas to Damascus",45.4098106326922,-122.521080282374,"Misc manufactured",0.24,38,240.176,38,0.09,0,0,0
 "OR 212 EB OR 224","Clackamas to Damascus",45.4098106326922,-122.521080282374,"Motor Vehicles, etc.",1.116,81,330.217,24,258.855,19,0,0
 "OR 212 EB OR 224","Clackamas to Damascus",45.4098106326922,-122.521080282374,"Wood, Paper, etc.",0.675,1274,177.323,335,36.78,69,4.066,8
-"OR 212 EB SE 82nd Dr","Clackamas to Damascus",45.4073471826612,-122.548796470581,"Agriculture",0.112,243,48.892,106,6.961,15,6.893,15
-"OR 212 EB SE 82nd Dr","Clackamas to Damascus",454.073471826612,-1225.48796470581,"All Goods",6.728,3851,1984.271,1103,455.012,263,83.68,82
-"OR 212 EB SE 82nd Dr","Clackamas to Damascus",45.4073471826612,-122.548796470581,"Chemical",0.084,143,22.776,39,9.885,17,0,0
-"OR 212 EB SE 82nd Dr","Clackamas to Damascus",45.4073471826612,-122.548796470581,"Coal, Oil, Waste, etc.",0.558,1093,155.673,305,56.586,111,6.695,13
-"OR 212 EB SE 82nd Dr","Clackamas to Damascus",45.4073471826612,-122.548796470581,"Electronics",3.765,134,914.895,32,320.59,11,12.189,0
-"OR 212 EB SE 82nd Dr","Clackamas to Damascus",45.4073471826612,-122.548796470581,"Food",0.685,420,286.912,176,0,0,28.562,18
-"OR 212 EB SE 82nd Dr","Clackamas to Damascus",45.4073471826612,-122.548796470581,"Gravel, Sand, etc.",0.007,559,1.558,117,0.718,54,0.401,30
-"OR 212 EB SE 82nd Dr","Clackamas to Damascus",45.4073471826612,-122.548796470581,"Machinery",0.641,137,192.524,41,35.293,8,12.663,3
-"OR 212 EB SE 82nd Dr","Clackamas to Damascus",45.4073471826612,-122.548796470581,"Misc manufactured",0.231,37,152.518,24,0,0,15.73,2
-"OR 212 EB SE 82nd Dr","Clackamas to Damascus",45.4073471826612,-122.548796470581,"Motor Vehicles, etc.",0.072,5,72.186,5,0,0,0,0
-"OR 212 EB SE 82nd Dr","Clackamas to Damascus",45.4073471826612,-122.548796470581,"Wood, Paper, etc.",0.573,1081,136.337,257,24.979,47,0.546,1
+"OR 212 WB 122nd Ave.","Clackamas to Damascus",45.4083471611724,-122.548803026262,"Agriculture",0.092,201,15.503,34,8.616,19,6.893,15
+"OR 212 WB 122nd Ave.","Clackamas to Damascus",454.083471611724,-1225.48803026262,"All Goods",10.699,4697,2706.843,1276,847.23,199,96.908,99
+"OR 212 WB 122nd Ave.","Clackamas to Damascus",45.4083471611724,-122.548803026262,"Chemical",0.081,137,18.151,31,0,0,0,0
+"OR 212 WB 122nd Ave.","Clackamas to Damascus",45.4083471611724,-122.548803026262,"Coal, Oil, Waste, etc.",0.491,962,172.513,338,21.85,43,8.929,18
+"OR 212 WB 122nd Ave.","Clackamas to Damascus",45.4083471611724,-122.548803026262,"Electronics",7.424,263,1662.768,59,762.845,27,8.807,0
+"OR 212 WB 122nd Ave.","Clackamas to Damascus",45.4083471611724,-122.548803026262,"Food",0.668,409,202.565,124,10.145,6,55.083,34
+"OR 212 WB 122nd Ave.","Clackamas to Damascus",45.4083471611724,-122.548803026262,"Gravel, Sand, etc.",0.017,1278,3.382,253,0.292,22,0,0
+"OR 212 WB 122nd Ave.","Clackamas to Damascus",45.4083471611724,-122.548803026262,"Machinery",0.587,125,144.892,31,0,0,0,0
+"OR 212 WB 122nd Ave.","Clackamas to Damascus",45.4083471611724,-122.548803026262,"Misc manufactured",0.426,68,248.462,39,0,0,0,0
+"OR 212 WB 122nd Ave.","Clackamas to Damascus",45.4083471611724,-122.548803026262,"Motor Vehicles, etc.",0.26,19,46.375,3,0,0,0,0
+"OR 212 WB 122nd Ave.","Clackamas to Damascus",45.4083471611724,-122.548803026262,"Wood, Paper, etc.",0.654,1234,192.233,363,43.482,82,17.197,32
 "OR 212 WB OR 224","Clackamas to Damascus",45.4108096526406,-122.52103602017,"Agriculture",0.691,1503,152.662,332,18.954,41,43.781,95
 "OR 212 WB OR 224","Clackamas to Damascus",454.108096526406,-1225.2103602017,"All Goods",11.102,5571,2995.639,1549,536.891,189,145.56,142
 "OR 212 WB OR 224","Clackamas to Damascus",45.4108096526406,-122.52103602017,"Chemical",0.185,314,65.757,112,22.033,38,0.491,1
@@ -230,17 +241,6 @@
 "OR 212 WB OR 224","Clackamas to Damascus",45.4108096526406,-122.52103602017,"Misc manufactured",1.061,169,320.175,51,0,0,0,0
 "OR 212 WB OR 224","Clackamas to Damascus",45.4108096526406,-122.52103602017,"Motor Vehicles, etc.",0.34,25,65.361,5,0,0,0,0
 "OR 212 WB OR 224","Clackamas to Damascus",45.4108096526406,-122.52103602017,"Wood, Paper, etc.",0.542,1023,180.501,341,27.317,52,7.959,15
-"OR 212 WB SE 82nd Dr","Clackamas to Damascus",45.4083471611724,-122.548803026262,"Agriculture",0.092,201,15.503,34,8.616,19,6.893,15
-"OR 212 WB SE 82nd Dr","Clackamas to Damascus",454.083471611724,-1225.48803026262,"All Goods",10.699,4697,2706.843,1276,847.23,199,96.908,99
-"OR 212 WB SE 82nd Dr","Clackamas to Damascus",45.4083471611724,-122.548803026262,"Chemical",0.081,137,18.151,31,0,0,0,0
-"OR 212 WB SE 82nd Dr","Clackamas to Damascus",45.4083471611724,-122.548803026262,"Coal, Oil, Waste, etc.",0.491,962,172.513,338,21.85,43,8.929,18
-"OR 212 WB SE 82nd Dr","Clackamas to Damascus",45.4083471611724,-122.548803026262,"Electronics",7.424,263,1662.768,59,762.845,27,8.807,0
-"OR 212 WB SE 82nd Dr","Clackamas to Damascus",45.4083471611724,-122.548803026262,"Food",0.668,409,202.565,124,10.145,6,55.083,34
-"OR 212 WB SE 82nd Dr","Clackamas to Damascus",45.4083471611724,-122.548803026262,"Gravel, Sand, etc.",0.017,1278,3.382,253,0.292,22,0,0
-"OR 212 WB SE 82nd Dr","Clackamas to Damascus",45.4083471611724,-122.548803026262,"Machinery",0.587,125,144.892,31,0,0,0,0
-"OR 212 WB SE 82nd Dr","Clackamas to Damascus",45.4083471611724,-122.548803026262,"Misc manufactured",0.426,68,248.462,39,0,0,0,0
-"OR 212 WB SE 82nd Dr","Clackamas to Damascus",45.4083471611724,-122.548803026262,"Motor Vehicles, etc.",0.26,19,46.375,3,0,0,0,0
-"OR 212 WB SE 82nd Dr","Clackamas to Damascus",45.4083471611724,-122.548803026262,"Wood, Paper, etc.",0.654,1234,192.233,363,43.482,82,17.197,32
 "OR 224 NB OR 212","Clackamas to Damascus",45.4047304570404,-122.500913370537,"Agriculture",0.615,1339,159.042,346,10.339,22,36.889,80
 "OR 224 NB OR 212","Clackamas to Damascus",454.047304570404,-1225.00913370537,"All Goods",1.336,1894,347.304,539,37.822,61,37.796,80
 "OR 224 NB OR 212","Clackamas to Damascus",45.4047304570404,-122.500913370537,"Chemical",0.078,133,34.785,59,22.033,38,0,0
@@ -637,28 +637,28 @@
 "NE Airport Way WB I-205","Gateway to Troutdale-Wood Village-Fairview",45.567724141554,-122.539917048425,"Misc manufactured",0.734,117,599.021,95,0,0,0,0
 "NE Airport Way WB I-205","Gateway to Troutdale-Wood Village-Fairview",45.567724141554,-122.539917048425,"Motor Vehicles, etc.",1.172,85,428.614,31,8.18,1,0,0
 "NE Airport Way WB I-205","Gateway to Troutdale-Wood Village-Fairview",45.567724141554,-122.539917048425,"Wood, Paper, etc.",0.804,1517,226.383,427,46.856,88,0,0
-"NE Marine Drive EB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5519252669951,-122.422542593247,"Agriculture",0.075,164,42.606,93,0.472,1,1.705,4
-"NE Marine Drive EB I-205","Gateway to Troutdale-Wood Village-Fairview",455.519252669951,-1224.22542593247,"All Goods",11.443,3926,3573.629,1241,587.288,206,877.419,217
-"NE Marine Drive EB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5519252669951,-122.422542593247,"Chemical",0.265,450,65.521,112,6.107,10,0.289,0
-"NE Marine Drive EB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5519252669951,-122.422542593247,"Coal, Oil, Waste, etc.",0.384,754,86.115,169,33.164,65,17.29,34
-"NE Marine Drive EB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5519252669951,-122.422542593247,"Electronics",3.613,128,1309.637,46,284.477,10,352.136,12
-"NE Marine Drive EB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5519252669951,-122.422542593247,"Food",0.726,445,290.562,178,65.665,40,57.732,35
-"NE Marine Drive EB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5519252669951,-122.422542593247,"Gravel, Sand, etc.",0.006,441,2.021,151,0.116,9,0.318,24
-"NE Marine Drive EB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5519252669951,-122.422542593247,"Machinery",2.774,591,1047.114,223,72.73,16,163.444,35
-"NE Marine Drive EB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5519252669951,-122.422542593247,"Misc manufactured",0.704,112,135.397,22,37.286,6,207.198,33
-"NE Marine Drive EB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5519252669951,-122.422542593247,"Motor Vehicles, etc.",2.548,185,482.036,35,63.604,5,58.423,4
-"NE Marine Drive EB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5519252669951,-122.422542593247,"Wood, Paper, etc.",0.348,656,112.619,213,23.666,45,18.882,36
-"NE Marine Drive WB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5527534846094,-122.421982186624,"Agriculture",0.231,502,88.811,193,8.21,18,9.89,22
-"NE Marine Drive WB I-205","Gateway to Troutdale-Wood Village-Fairview",455.527534846094,-1224.21982186624,"All Goods",5.63,2369,2821.682,1185,14.756,30,91.018,33
-"NE Marine Drive WB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5527534846094,-122.421982186624,"Chemical",0.112,190,68.182,116,0.212,0,0.152,0
-"NE Marine Drive WB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5527534846094,-122.421982186624,"Coal, Oil, Waste, etc.",0.073,143,44.468,87,0,0,0.157,0
-"NE Marine Drive WB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5527534846094,-122.421982186624,"Electronics",1.009,36,533.163,19,0.362,0,10.894,0
-"NE Marine Drive WB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5527534846094,-122.421982186624,"Food",0.901,552,465.846,285,0,0,7.865,5
-"NE Marine Drive WB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5527534846094,-122.421982186624,"Gravel, Sand, etc.",0,21,0.062,5,0,0,0,0
-"NE Marine Drive WB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5527534846094,-122.421982186624,"Machinery",0.833,178,366.819,78,0,0,1.887,0
-"NE Marine Drive WB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5527534846094,-122.421982186624,"Misc manufactured",0.602,96,533.556,85,0,0,0.599,0
-"NE Marine Drive WB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5527534846094,-122.421982186624,"Motor Vehicles, etc.",1.586,115,575.332,42,0,0,59.279,4
-"NE Marine Drive WB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5527534846094,-122.421982186624,"Wood, Paper, etc.",0.284,535,145.443,275,5.973,11,0.296,1
+"NE Marine Drive EB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5469035020907,-122.406248444086,"Agriculture",0.075,164,42.595,93,0.472,1,1.705,4
+"NE Marine Drive EB I-205","Gateway to Troutdale-Wood Village-Fairview",455.469035020907,-1224.06248444086,"All Goods",10.423,2739,3511.744,1030,609.038,157,840.479,140
+"NE Marine Drive EB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5469035020907,-122.406248444086,"Chemical",0.154,262,40.064,68,6.107,10,0.289,0
+"NE Marine Drive EB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5469035020907,-122.406248444086,"Coal, Oil, Waste, etc.",0.183,358,83.216,163,9.567,19,0.07,0
+"NE Marine Drive EB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5469035020907,-122.406248444086,"Electronics",3.609,128,1340.425,48,316.445,11,343.329,12
+"NE Marine Drive EB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5469035020907,-122.406248444086,"Food",0.769,471,281.422,172,77.906,48,57.732,35
+"NE Marine Drive EB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5469035020907,-122.406248444086,"Gravel, Sand, etc.",0.001,81,0.58,43,0.01,1,0,0
+"NE Marine Drive EB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5469035020907,-122.406248444086,"Machinery",2.386,509,1031.882,220,76.487,16,163.444,35
+"NE Marine Drive EB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5469035020907,-122.406248444086,"Misc manufactured",0.644,102,120.221,19,37.286,6,207.198,33
+"NE Marine Drive EB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5469035020907,-122.406248444086,"Motor Vehicles, etc.",2.341,170,482.036,35,63.604,5,58.423,4
+"NE Marine Drive EB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5469035020907,-122.406248444086,"Wood, Paper, etc.",0.262,494,89.302,169,21.155,40,8.288,16
+"NE Marine Drive WB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5478972083785,-122.406136427062,"Agriculture",0.231,502,88.811,193,8.21,18,9.89,22
+"NE Marine Drive WB I-205","Gateway to Troutdale-Wood Village-Fairview",455.478972083785,-1224.06136427062,"All Goods",5.399,2219,2780.287,1120,8.797,18,91.018,33
+"NE Marine Drive WB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5478972083785,-122.406136427062,"Chemical",0.108,183,68.164,116,0.212,0,0.152,0
+"NE Marine Drive WB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5478972083785,-122.406136427062,"Coal, Oil, Waste, etc.",0.066,130,37.515,74,0,0,0.157,0
+"NE Marine Drive WB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5478972083785,-122.406136427062,"Electronics",0.859,30,525.765,19,0.362,0,10.894,0
+"NE Marine Drive WB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5478972083785,-122.406136427062,"Food",0.901,552,465.846,285,0,0,7.865,5
+"NE Marine Drive WB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5478972083785,-122.406136427062,"Gravel, Sand, etc.",0,21,0.062,5,0,0,0,0
+"NE Marine Drive WB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5478972083785,-122.406136427062,"Machinery",0.828,177,366.819,78,0,0,1.887,0
+"NE Marine Drive WB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5478972083785,-122.406136427062,"Misc manufactured",0.602,96,533.556,85,0,0,0.599,0
+"NE Marine Drive WB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5478972083785,-122.406136427062,"Motor Vehicles, etc.",1.586,115,575.332,42,0,0,59.279,4
+"NE Marine Drive WB I-205","Gateway to Troutdale-Wood Village-Fairview",45.5478972083785,-122.406136427062,"Wood, Paper, etc.",0.219,413,118.417,224,0.014,0,0.296,1
 "Highway 224 EB OR 213","Milwaukie to Clackamas",45.422922067079,-122.586160012503,"Agriculture",0.143,312,32.095,70,16.904,37,0,0
 "Highway 224 EB OR 213","Milwaukie to Clackamas",454.22922067079,-1225.86160012503,"All Goods",14.208,7814,2768.97,1761,1208.628,539,490.921,224
 "Highway 224 EB OR 213","Milwaukie to Clackamas",45.422922067079,-122.586160012503,"Chemical",0.237,404,36.778,63,25.182,43,16.013,27
