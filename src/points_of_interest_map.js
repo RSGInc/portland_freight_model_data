@@ -568,8 +568,7 @@ var POIMap = {
       console.log("create map poi");
 
       var baseMaps = {
-        Grayscale: tonerLayer,
-		    Streetmap: Esri_StreetMap,
+        Streetmap: Esri_StreetMap,
 		    Aerial: Esri_WorldImagery
       };
       controlLayer = L.control.layers(baseMaps).addTo(map);

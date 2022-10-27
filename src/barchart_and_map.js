@@ -1092,8 +1092,7 @@ var BarChartMap = {
         });
       } //end geoJson of zone layer
       var baseMaps = {
-        Grayscale: tonerLayer,
-		    Streetmap: Esri_StreetMap,
+        Streetmap: Esri_StreetMap,
 		    Aerial: Esri_WorldImagery
       };
 
