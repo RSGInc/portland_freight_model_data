@@ -889,14 +889,6 @@ var BarChartMap = {
           opacity: 1.0
         }
       );
-      var Esri_StreetMap_Gray = L.tileLayer(
-        "https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Reference/MapServer/tile/{z}/{y}/{x}",
-        {
-          id: id + "-by-district-map.canvas",
-          attribution:
-            "Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community"
-        }
-      );
       var Esri_StreetMap = L.tileLayer(
         "https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}",
         {
@@ -1102,8 +1094,7 @@ var BarChartMap = {
       var baseMaps = {
         Grayscale: tonerLayer,
 		    Streetmap: Esri_StreetMap,
-		    StreetsGray: Esri_StreetMap_Gray,
-        Aerial: Esri_WorldImagery
+		    Aerial: Esri_WorldImagery
       };
 
       controlLayer = L.control.layers(baseMaps).addTo(map);
