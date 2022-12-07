@@ -351,6 +351,28 @@
 "Lombard St WB OR 99E","Columbia Corridor",45.577721,-122.65723,"Misc manufactured",0.341,54,114.679,18,32.187,5,0,0
 "Lombard St WB OR 99E","Columbia Corridor",45.577721,-122.65723,"Motor Vehicles, etc.",0.392,28,204.9,15,0,0,0,0
 "Lombard St WB OR 99E","Columbia Corridor",45.577721,-122.65723,"Wood, Paper, etc.",0.264,499,94.16,178,14.73,28,4.298,8
+"NE 47th Ave. NB Columbia Blvd","Columbia Corridor",45.5729284277175,-122.613540076258,"Agriculture",0.009,19,1.949,4,1.586,3,0,0
+"NE 47th Ave. NB Columbia Blvd","Columbia Corridor",455.729284277175,-1226.13540076258,"All Goods",2.511,724,675.558,199,470.199,79,42.36,22
+"NE 47th Ave. NB Columbia Blvd","Columbia Corridor",45.5729284277175,-122.613540076258,"Chemical",0.019,33,5.433,9,2.254,4,0,0
+"NE 47th Ave. NB Columbia Blvd","Columbia Corridor",45.5729284277175,-122.613540076258,"Coal, Oil, Waste, etc.",0.141,276,22.119,43,21.957,43,3.827,8
+"NE 47th Ave. NB Columbia Blvd","Columbia Corridor",45.5729284277175,-122.613540076258,"Electronics",1.161,41,352.297,12,371.088,13,15.853,1
+"NE 47th Ave. NB Columbia Blvd","Columbia Corridor",45.5729284277175,-122.613540076258,"Food",0.127,78,61.744,38,1.306,1,21.963,13
+"NE 47th Ave. NB Columbia Blvd","Columbia Corridor",45.5729284277175,-122.613540076258,"Gravel, Sand, etc.",0.001,45,0.251,19,0,0,0,0
+"NE 47th Ave. NB Columbia Blvd","Columbia Corridor",45.5729284277175,-122.613540076258,"Machinery",0.216,46,82.076,18,35.54,8,0.718,0
+"NE 47th Ave. NB Columbia Blvd","Columbia Corridor",45.5729284277175,-122.613540076258,"Misc manufactured",0.04,6,9.362,1,17.219,3,0,0
+"NE 47th Ave. NB Columbia Blvd","Columbia Corridor",45.5729284277175,-122.613540076258,"Motor Vehicles, etc.",0.731,53,116.2,8,17.728,1,0,0
+"NE 47th Ave. NB Columbia Blvd","Columbia Corridor",45.5729284277175,-122.613540076258,"Wood, Paper, etc.",0.067,127,24.127,46,1.52,3,0,0
+"NE 47th Ave. SB Columbia Blvd","Columbia Corridor",45.5729591908,-122.614539602962,"Agriculture",0.004,9,3.928,9,0,0,0,0
+"NE 47th Ave. SB Columbia Blvd","Columbia Corridor",455.729591908,-1226.14539602962,"All Goods",1.059,310,254.118,132,58.211,24,5.362,1
+"NE 47th Ave. SB Columbia Blvd","Columbia Corridor",45.5729591908,-122.614539602962,"Chemical",0.002,4,2.139,4,0,0,0,0
+"NE 47th Ave. SB Columbia Blvd","Columbia Corridor",45.5729591908,-122.614539602962,"Coal, Oil, Waste, etc.",0.045,88,21.889,43,0,0,0,0
+"NE 47th Ave. SB Columbia Blvd","Columbia Corridor",45.5729591908,-122.614539602962,"Electronics",0.057,2,29.005,1,4.228,0,4.228,0
+"NE 47th Ave. SB Columbia Blvd","Columbia Corridor",45.5729591908,-122.614539602962,"Food",0.101,62,46.544,29,15.097,9,0,0
+"NE 47th Ave. SB Columbia Blvd","Columbia Corridor",45.5729591908,-122.614539602962,"Gravel, Sand, etc.",0,3,0.046,3,0,0,0,0
+"NE 47th Ave. SB Columbia Blvd","Columbia Corridor",45.5729591908,-122.614539602962,"Machinery",0.033,7,17.01,4,0,0,0.718,0
+"NE 47th Ave. SB Columbia Blvd","Columbia Corridor",45.5729591908,-122.614539602962,"Misc manufactured",0.339,54,82.757,13,33.901,5,0,0
+"NE 47th Ave. SB Columbia Blvd","Columbia Corridor",45.5729591908,-122.614539602962,"Motor Vehicles, etc.",0.452,33,37.972,3,0,0,0,0
+"NE 47th Ave. SB Columbia Blvd","Columbia Corridor",45.5729591908,-122.614539602962,"Wood, Paper, etc.",0.026,49,12.828,24,4.986,9,0.417,1
 "NE Airport Way EB","Columbia Corridor",45.5738132931801,-122.556137581291,"Agriculture",0.001,2,0,0,0,0,0,0
 "NE Airport Way EB","Columbia Corridor",455.738132931801,-1225.56137581291,"All Goods",0.857,299,374.143,94,4.847,8,0,0
 "NE Airport Way EB","Columbia Corridor",45.5738132931801,-122.556137581291,"Chemical",0.002,3,0.008,0,0,0,0,0
@@ -395,28 +417,6 @@
 "NE Columbia Blvd WB","Columbia Corridor",45.5703010293856,-122.60769651115,"Misc manufactured",0.991,157,333.84,53,73.477,12,1.821,0
 "NE Columbia Blvd WB","Columbia Corridor",45.5703010293856,-122.60769651115,"Motor Vehicles, etc.",7.956,576,1395.889,101,160.02,12,424.534,31
 "NE Columbia Blvd WB","Columbia Corridor",45.5703010293856,-122.60769651115,"Wood, Paper, etc.",0.604,1140,126.314,238,34.961,66,22.411,42
-"NE Cornfoot Road EB NE 47th Ave","Columbia Corridor",45.576558463691,-122.610278671371,"Agriculture",0.009,19,1.949,4,1.586,3,0,0
-"NE Cornfoot Road EB NE 47th Ave","Columbia Corridor",455.76558463691,-1226.10278671371,"All Goods",0.417,301,94.108,105,100.541,32,22.68,14
-"NE Cornfoot Road EB NE 47th Ave","Columbia Corridor",45.576558463691,-122.610278671371,"Chemical",0.003,6,0.874,1,2.254,4,0,0
-"NE Cornfoot Road EB NE 47th Ave","Columbia Corridor",45.576558463691,-122.610278671371,"Coal, Oil, Waste, etc.",0.046,90,13.191,26,4.755,9,0,0
-"NE Cornfoot Road EB NE 47th Ave","Columbia Corridor",45.576558463691,-122.610278671371,"Electronics",0.083,3,0,0,18.791,1,0,0
-"NE Cornfoot Road EB NE 47th Ave","Columbia Corridor",45.576558463691,-122.610278671371,"Food",0.107,65,41.751,26,1.306,1,21.963,13
-"NE Cornfoot Road EB NE 47th Ave","Columbia Corridor",45.576558463691,-122.610278671371,"Gravel, Sand, etc.",0.001,45,0.251,19,0,0,0,0
-"NE Cornfoot Road EB NE 47th Ave","Columbia Corridor",45.576558463691,-122.610278671371,"Machinery",0.072,15,0,0,35.54,8,0.718,0
-"NE Cornfoot Road EB NE 47th Ave","Columbia Corridor",45.576558463691,-122.610278671371,"Misc manufactured",0.027,4,9.362,1,17.219,3,0,0
-"NE Cornfoot Road EB NE 47th Ave","Columbia Corridor",45.576558463691,-122.610278671371,"Motor Vehicles, etc.",0.044,3,12.657,1,17.728,1,0,0
-"NE Cornfoot Road EB NE 47th Ave","Columbia Corridor",45.576558463691,-122.610278671371,"Wood, Paper, etc.",0.027,50,14.072,27,1.361,3,0,0
-"NE Cornfoot Road WB NE 47th Ave","Columbia Corridor",45.5775452956055,-122.610116922267,"Agriculture",0.004,9,3.928,9,0,0,0,0
-"NE Cornfoot Road WB NE 47th Ave","Columbia Corridor",455.775452956055,-1226.10116922267,"All Goods",0.214,94,160.509,71,8.54,5,1.135,1
-"NE Cornfoot Road WB NE 47th Ave","Columbia Corridor",45.5775452956055,-122.610116922267,"Chemical",0.004,7,2.139,4,0,0,0,0
-"NE Cornfoot Road WB NE 47th Ave","Columbia Corridor",45.5775452956055,-122.610116922267,"Coal, Oil, Waste, etc.",0.003,6,3.14,6,0,0,0,0
-"NE Cornfoot Road WB NE 47th Ave","Columbia Corridor",45.5775452956055,-122.610116922267,"Electronics",0.053,2,29.005,1,4.228,0,0,0
-"NE Cornfoot Road WB NE 47th Ave","Columbia Corridor",45.5775452956055,-122.610116922267,"Food",0.052,32,46.544,29,2.856,2,0,0
-"NE Cornfoot Road WB NE 47th Ave","Columbia Corridor",45.5775452956055,-122.610116922267,"Gravel, Sand, etc.",0,3,0.046,3,0,0,0,0
-"NE Cornfoot Road WB NE 47th Ave","Columbia Corridor",45.5775452956055,-122.610116922267,"Machinery",0.033,7,17.01,4,0,0,0.718,0
-"NE Cornfoot Road WB NE 47th Ave","Columbia Corridor",45.5775452956055,-122.610116922267,"Misc manufactured",0.015,2,14.955,2,0,0,0,0
-"NE Cornfoot Road WB NE 47th Ave","Columbia Corridor",45.5775452956055,-122.610116922267,"Motor Vehicles, etc.",0.038,3,37.972,3,0,0,0,0
-"NE Cornfoot Road WB NE 47th Ave","Columbia Corridor",45.5775452956055,-122.610116922267,"Wood, Paper, etc.",0.012,23,5.77,11,1.457,3,0.417,1
 "NE Lombard St. EB NE 42nd","Columbia Corridor",45.5681623864649,-122.610078121872,"Agriculture",0.072,157,30.129,66,0.328,1,0,0
 "NE Lombard St. EB NE 42nd","Columbia Corridor",455.681623864649,-1226.10078121872,"All Goods",4.251,1883,1680.466,848,273.893,35,18.517,20
 "NE Lombard St. EB NE 42nd","Columbia Corridor",45.5681623864649,-122.610078121872,"Chemical",0.147,250,86.816,148,0,0,0,0
@@ -945,17 +945,6 @@
 "NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.6442030405046,-122.859181745326,"Misc manufactured",0.77,122,180.942,29,84.485,13,0,0
 "NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.6442030405046,-122.859181745326,"Motor Vehicles, etc.",1.837,133,679.125,49,22.196,2,51.771,4
 "NW Cornelius Pass Road SB US30","Portland Central City to Columbia County",45.6442030405046,-122.859181745326,"Wood, Paper, etc.",0.204,386,51.954,98,11.046,21,44.898,85
-"NW Front Ave EB","Portland Central City to Columbia County",45.5524377736091,-122.718092135456,"Agriculture",0.078,170,40.566,88,0,0,0,0
-"NW Front Ave EB","Portland Central City to Columbia County",455.524377736091,-1227.18092135456,"All Goods",0.789,875,394.143,421,1.31,3,0,0
-"NW Front Ave EB","Portland Central City to Columbia County",45.5524377736091,-122.718092135456,"Chemical",0.019,33,11.319,19,0,0,0,0
-"NW Front Ave EB","Portland Central City to Columbia County",45.5524377736091,-122.718092135456,"Coal, Oil, Waste, etc.",0.269,527,123.969,243,1.31,3,0,0
-"NW Front Ave EB","Portland Central City to Columbia County",45.5524377736091,-122.718092135456,"Electronics",0.266,9,141.766,5,0,0,0,0
-"NW Front Ave EB","Portland Central City to Columbia County",45.5524377736091,-122.718092135456,"Food",0.012,7,4.857,3,0,0,0,0
-"NW Front Ave EB","Portland Central City to Columbia County",45.5524377736091,-122.718092135456,"Gravel, Sand, etc.",0.001,96,0.648,48,0,0,0,0
-"NW Front Ave EB","Portland Central City to Columbia County",45.5524377736091,-122.718092135456,"Machinery",0.055,12,10.691,2,0,0,0,0
-"NW Front Ave EB","Portland Central City to Columbia County",45.5524377736091,-122.718092135456,"Misc manufactured",0.017,3,0,0,0,0,0,0
-"NW Front Ave EB","Portland Central City to Columbia County",45.5524377736091,-122.718092135456,"Motor Vehicles, etc.",0.065,5,56.466,4,0,0,0,0
-"NW Front Ave EB","Portland Central City to Columbia County",45.5524377736091,-122.718092135456,"Wood, Paper, etc.",0.007,12,3.86,7,0,0,0,0
 "NW Front Ave EB T2","Portland Central City to Columbia County",45.5446092075761,-122.70040395114,"Agriculture",0.084,183,42.849,93,0,0,0,0
 "NW Front Ave EB T2","Portland Central City to Columbia County",455.446092075761,-1227.0040395114,"All Goods",5.199,3399,1697.627,1190,378.45,76,0.892,0
 "NW Front Ave EB T2","Portland Central City to Columbia County",45.5446092075761,-122.70040395114,"Chemical",0.038,65,17.221,29,0,0,0,0
@@ -967,17 +956,6 @@
 "NW Front Ave EB T2","Portland Central City to Columbia County",45.5446092075761,-122.70040395114,"Misc manufactured",0.357,57,146.136,23,34.221,5,0,0
 "NW Front Ave EB T2","Portland Central City to Columbia County",45.5446092075761,-122.70040395114,"Motor Vehicles, etc.",0.072,5,56.466,4,0,0,0,0
 "NW Front Ave EB T2","Portland Central City to Columbia County",45.5446092075761,-122.70040395114,"Wood, Paper, etc.",0.713,1346,220.42,416,17.693,33,0.013,0
-"NW Front Ave WB","Portland Central City to Columbia County",45.5533719755918,-122.717735390932,"Agriculture",0.005,12,2.528,6,0,0,0,0
-"NW Front Ave WB","Portland Central City to Columbia County",455.533719755918,-1227.17735390932,"All Goods",0.207,98,88.875,39,0,0,0,0
-"NW Front Ave WB","Portland Central City to Columbia County",45.5533719755918,-122.717735390932,"Chemical",0.001,1,0.035,0,0,0,0,0
-"NW Front Ave WB","Portland Central City to Columbia County",45.5533719755918,-122.717735390932,"Coal, Oil, Waste, etc.",0.011,22,6.079,12,0,0,0,0
-"NW Front Ave WB","Portland Central City to Columbia County",45.5533719755918,-122.717735390932,"Electronics",0.087,3,36.606,1,0,0,0,0
-"NW Front Ave WB","Portland Central City to Columbia County",45.5533719755918,-122.717735390932,"Food",0,0,0,0,0,0,0,0
-"NW Front Ave WB","Portland Central City to Columbia County",45.5533719755918,-122.717735390932,"Gravel, Sand, etc.",0,11,0.037,3,0,0,0,0
-"NW Front Ave WB","Portland Central City to Columbia County",45.5533719755918,-122.717735390932,"Machinery",0.037,8,3.942,1,0,0,0,0
-"NW Front Ave WB","Portland Central City to Columbia County",45.5533719755918,-122.717735390932,"Misc manufactured",0.014,2,13.981,2,0,0,0,0
-"NW Front Ave WB","Portland Central City to Columbia County",45.5533719755918,-122.717735390932,"Motor Vehicles, etc.",0.033,2,18.986,1,0,0,0,0
-"NW Front Ave WB","Portland Central City to Columbia County",45.5533719755918,-122.717735390932,"Wood, Paper, etc.",0.019,36,6.681,13,0,0,0,0
 "NW Front Ave WB T2","Portland Central City to Columbia County",45.5454626287567,-122.699882729221,"Agriculture",0.01,22,3.801,8,0.14,0,0,0
 "NW Front Ave WB T2","Portland Central City to Columbia County",455.454626287567,-1226.99882729221,"All Goods",3.077,1893,962.309,614,84.021,75,12.77,16
 "NW Front Ave WB T2","Portland Central City to Columbia County",45.5454626287567,-122.699882729221,"Chemical",0.028,47,14.283,24,0.072,0,0,0
