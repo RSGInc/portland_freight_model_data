@@ -49,6 +49,13 @@
                 "POIMap": [{"name":"Freight Flows","config":"Default","file":"PointofInterest.csv","info":"Freight model flows"}]
             }
         },
+		"RTP23_2020": {
+            "name": "RTP23_2020",
+            "title": "- 2023RTP 2020 Commodity Flows",
+            "CenterMap": [45.512794,-122.679565],
+            "visualizations": {
+                "POIMap": [{"name":"Freight Flows","config":"Default","file":"PointofInterest.csv","info":"Freight model flows"}]
+            }
 		"RTP23_2045FC": {
             "name": "RTP23_2045FC",
             "title": "- 2023RTP 2045FC Commodity Flows",
