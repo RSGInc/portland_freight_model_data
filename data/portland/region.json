@@ -41,14 +41,6 @@
                 "POIMap": [{"name":"Freight Flows","config":"Default","file":"PointofInterest.csv","info":"Freight model flows"}]
             }
         },
-        "Freight_Flows_Development_Scenario": {
-            "name": "Freight_Flows_Development_Scenario",
-            "title": "- Freight Flows - Development Scenario",
-            "CenterMap": [45.512794,-122.679565],
-            "visualizations": {
-                "POIMap": [{"name":"Freight Flows","config":"Default","file":"PointofInterest.csv","info":"Freight model flows"}]
-            }
-        },
 		"RTP23_2020": {
             "name": "RTP23_2020",
             "title": "- 2023RTP 2020 Commodity Flows",
